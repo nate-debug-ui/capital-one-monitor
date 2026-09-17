@@ -42,6 +42,12 @@ npx playwright install chromium
 
 The workflow runs tests before monitoring. To manually start a deployed run, choose Actions → Capital One new events → Run workflow. The time window still applies. The first workflow-file push also triggers a run.
 
-## Backup
+## Telegram delivery
+
+`Capital One Telegram delivery` runs after the monitor and morning digest workflows. It forwards the bot-created alert and digest issues to the paired private Telegram chat. Email delivery is independent. The bot token stays in the `TELEGRAM_BOT_TOKEN` Actions secret; the destination is stored using authenticated encryption in `telegram-state.json`, keyed by that secret, and is never logged. Token rotation requires explicit route re-pairing. After one-time setup, new Start messages cannot change the destination.
+
+Long digests are split into messages with disabled link previews and paced at under one message per second. Delivery progress is persisted after each accepted message, so subsequent runs resume unfinished delivery. Telegram has no send-message idempotency key: a lost response or failed checkpoint after acceptance can occasionally cause a duplicate part on retry. Previously created issues are marked historical at setup; the initial test is a separate connection confirmation. Future alerts, attention notices, and daily digests are forwarded.
+
+## Independent backup
 
 An independent hourly cloud monitor can use the same identity and baseline rules. Each monitor maintains its own baseline.
