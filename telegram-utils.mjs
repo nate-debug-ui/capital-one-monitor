@@ -15,7 +15,7 @@ export function openRoute(route,token) {
 }
 export function selectPrivateStart(updates) {
   const ids=new Set(updates.map(u=>u.message).filter(m=>m?.chat?.type==='private' && m.from?.id===m.chat.id && !m.from?.is_bot && /^\/start(?:\s|$)/.test(m.text||'')).map(m=>String(m.chat.id)));
-  if(ids.size!==1) throw new Error('Setup requires exactly one private chat with a recent Start message.');
+  if(ids.size!==1) throw new Error(`Setup requires exactly one private chat with a recent Start message. Candidates: ${ids.size}; updates: ${updates.length}; private messages: ${updates.filter(u=>u.message?.chat?.type==='private').length}; Start messages: ${updates.filter(u=>/^\/start(?:\s|$)/.test(u.message?.text||'')).length}.`);
   return [...ids][0];
 }
 export function splitMessage(text,limit=3800) {
