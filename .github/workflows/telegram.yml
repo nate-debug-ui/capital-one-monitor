@@ -5,8 +5,6 @@ on:
     types: [completed]
     branches: [main]
   workflow_dispatch:
-  push:
-    paths: ['.github/workflows/telegram.yml']
 permissions:
   contents: write
   issues: read
@@ -29,4 +27,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          ALLOW_TELEGRAM_SETUP: ${{ github.event_name == 'push' && 'true' || 'false' }}
+          ALLOW_TELEGRAM_SETUP: 'false'
