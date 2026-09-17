@@ -4,6 +4,14 @@ Playwright monitor for https://entertainment.capitalone.com/all-events?tab=exclu
 
 ## Behavior
 
+### Morning availability email
+
+The separate `Capital One daily available events` workflow scans the live Exclusives page daily at **07:30 America/New_York**, including daylight-saving changes. It creates one dated digest issue assigned to the repository owner. With GitHub email notifications enabled for participation, GitHub emails the complete digest. Delivery is best effort and may be later than 07:30.
+
+The digest includes all distinct events not explicitly marked SOLD OUT, including LOW TICKETS. It includes each event's name, displayed date/time, venue/location, direct link, and listing status. It does not imply guaranteed inventory or eligibility. A complete scan with no available events sends a zero-available digest; an incomplete or failed scan fails the workflow instead of emailing a partial or stale list. Retry markers prevent duplicate delivery for the same day. Manual runs are labeled TEST and use a separate retry marker.
+
+### New-event alerts
+
 - Daily schedule at 08:00, 08:20, 08:40, …, 17:40, 18:00 in America/New_York, with automatic DST handling. A runtime guard rejects scans started outside that window, including delayed jobs. GitHub scheduling is best effort, so a delayed 18:00 run may be skipped.
 - Chromium renders the page, verifies the Exclusives tab, follows every See more button, validates each card, and fails closed if the complete list cannot be read. The parser is based on the observed September 17, 2026 page structure.
 - Extracts the name, displayed date/time, venue and city, and canonical event URL. The displayed date is retained without inventing a year when the card omits one.
