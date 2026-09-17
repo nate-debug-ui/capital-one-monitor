@@ -1,7 +1,8 @@
 import {chromium} from 'playwright';
 import {SOURCE, parseCard} from './core.mjs';
+import {availability} from './digest-format.mjs';
 
-export async function scrape() {
+export async function scrape({includeAvailability = false} = {}) {
   const browser = await chromium.launch({headless:true});
   try {
     const page = await browser.newPage({viewport:{width:1440,height:1000},locale:'en-US'});
@@ -29,6 +30,6 @@ export async function scrape() {
     await page.waitForTimeout(1200);
     if (JSON.stringify(raw) !== JSON.stringify(await read())) throw new Error('Listings still changing');
     if (!raw.length) throw new Error('No trustworthy event cards');
-    return raw.map(parseCard);
+    return raw.map(card => ({...parseCard(card), ...(includeAvailability ? availability(card.paragraphs) : {})}));
   } finally {await browser.close();}
 }
