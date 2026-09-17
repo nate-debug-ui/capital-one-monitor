@@ -1,0 +1,32 @@
+name: Capital One Telegram delivery
+on:
+  workflow_run:
+    workflows: ['Capital One new events', 'Capital One daily available events']
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/telegram.yml']
+permissions:
+  contents: write
+  issues: read
+concurrency:
+  group: capital-one-telegram
+  cancel-in-progress: false
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test test/telegram.test.mjs
+      - run: node telegram.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ALLOW_TELEGRAM_SETUP: ${{ github.event_name == 'push' && 'true' || 'false' }}
