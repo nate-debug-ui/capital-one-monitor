@@ -1,0 +1,1804 @@
+{
+  "version": 1,
+  "initialized": true,
+  "seen": {
+    "6752215": {
+      "id": "6752215",
+      "name": "2027 NCAA Mens Frozen Four - Semifinals",
+      "date": "Apr 8 • 12:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752215"
+    },
+    "6752217": {
+      "id": "6752217",
+      "name": "2027 NCAA Mens Frozen Four - Championship",
+      "date": "Apr 10 • 11:59pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752217"
+    },
+    "6752219": {
+      "id": "6752219",
+      "name": "2027 NCAA Mens Frozen Four - All Session (4/8 and 4/10)",
+      "date": "Apr 8 • 10:59am",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752219"
+    },
+    "6752221": {
+      "id": "6752221",
+      "name": "2028 NCAA Mens Frozen Four - All Session (4/6 and 4/8)",
+      "date": "Apr 6 • 10:59am",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/6752221"
+    },
+    "6752223": {
+      "id": "6752223",
+      "name": "2028 NCAA Mens Frozen Four - Semifinals",
+      "date": "Apr 6 • 12:00pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/6752223"
+    },
+    "6752227": {
+      "id": "6752227",
+      "name": "2028 NCAA Mens Frozen Four - Championship",
+      "date": "Apr 8 • 11:59pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/6752227"
+    },
+    "6845927": {
+      "id": "6845927",
+      "name": "The MICHELIN Guide Tuscany Trip",
+      "date": "Sep 19 • 4:00pm",
+      "location": "Hotel Borgo San Felice • Siena, IT",
+      "url": "https://entertainment.capitalone.com/events/6845927"
+    },
+    "6845936": {
+      "id": "6845936",
+      "name": "The MICHELIN Guide Bordeaux Trip",
+      "date": "Oct 3 • 4:00pm",
+      "location": "Les Sources de Caudalie • Martillac, FR",
+      "url": "https://entertainment.capitalone.com/events/6845936"
+    },
+    "6845960": {
+      "id": "6845960",
+      "name": "Vienna with Athena Calderone",
+      "date": "Sep 23 • 3:00pm",
+      "location": "Hotel Sacher Vienna • Wien, AT",
+      "url": "https://entertainment.capitalone.com/events/6845960"
+    },
+    "6845978": {
+      "id": "6845978",
+      "name": "Peru Trip of Wonder",
+      "date": "Oct 6 • 3:00pm",
+      "location": "Sol y Luna • Urubamba, PE",
+      "url": "https://entertainment.capitalone.com/events/6845978"
+    },
+    "7082329": {
+      "id": "7082329",
+      "name": "Eater - A Welcome Home Party for Alfie's",
+      "date": "Sep 17 • 6:30pm",
+      "location": "Alfie's • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7082329"
+    },
+    "7082374": {
+      "id": "7082374",
+      "name": "Jungsik - Celebrating 15 Years",
+      "date": "Sep 22 • 6:00pm",
+      "location": "Jungsik • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7082374"
+    },
+    "7082389": {
+      "id": "7082389",
+      "name": "TPC Craig Ranch Golf Academy with Corey Pavin",
+      "date": "Sep 21 • 9:00am",
+      "location": "TPC Craig Ranch • McKinney, TX",
+      "url": "https://entertainment.capitalone.com/events/7082389"
+    },
+    "7082393": {
+      "id": "7082393",
+      "name": "TPC Jasna Polana Golf Academy with Will Zalatoris",
+      "date": "Oct 12 • 9:00am",
+      "location": "TPC Jasna Polana • Princeton, NJ",
+      "url": "https://entertainment.capitalone.com/events/7082393"
+    },
+    "7082398": {
+      "id": "7082398",
+      "name": "TPC Scottsdale Golf Academy with Billy Horschel and Cameron Young",
+      "date": "Nov 16 • 8:00am",
+      "location": "TPC of Scottsdale • Scottsdale, AZ",
+      "url": "https://entertainment.capitalone.com/events/7082398"
+    },
+    "7082400": {
+      "id": "7082400",
+      "name": "Palos Verdes Golf Academy with Sir Nick Faldo",
+      "date": "Dec 7 • 9:00am",
+      "location": "Palos Verdes Golf Club • Palos Verdes Estates, CA",
+      "url": "https://entertainment.capitalone.com/events/7082400"
+    },
+    "7147770": {
+      "id": "7147770",
+      "name": "2026 iHeartRadioMusic Festival presented by Capital One",
+      "date": "Sep 18 • 7:30pm",
+      "location": "T-Mobile Arena • Las Vegas, NV",
+      "url": "https://entertainment.capitalone.com/events/7147770"
+    },
+    "7258329": {
+      "id": "7258329",
+      "name": "Washington Mystics Honorary Captain Experience",
+      "date": "Sep 24 • 6:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7258329"
+    },
+    "7283631": {
+      "id": "7283631",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 2 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283631"
+    },
+    "7283633": {
+      "id": "7283633",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 3 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283633"
+    },
+    "7283635": {
+      "id": "7283635",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 3 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283635"
+    },
+    "7283637": {
+      "id": "7283637",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 4 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283637"
+    },
+    "7283643": {
+      "id": "7283643",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 9 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283643"
+    },
+    "7283646": {
+      "id": "7283646",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 10 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283646"
+    },
+    "7283656": {
+      "id": "7283656",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 10 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283656"
+    },
+    "7283660": {
+      "id": "7283660",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 11 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283660"
+    },
+    "7283662": {
+      "id": "7283662",
+      "name": "MAMMA MIA! at The National",
+      "date": "Oct 30 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283662"
+    },
+    "7283664": {
+      "id": "7283664",
+      "name": "MAMMA MIA! at The National",
+      "date": "Oct 31 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283664"
+    },
+    "7283668": {
+      "id": "7283668",
+      "name": "MAMMA MIA! at The National",
+      "date": "Oct 31 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283668"
+    },
+    "7283672": {
+      "id": "7283672",
+      "name": "MAMMA MIA! at The National",
+      "date": "Nov 1 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283672"
+    },
+    "7283678": {
+      "id": "7283678",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 27 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283678"
+    },
+    "7283682": {
+      "id": "7283682",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 28 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283682"
+    },
+    "7283684": {
+      "id": "7283684",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 28 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283684"
+    },
+    "7283690": {
+      "id": "7283690",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 29 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283690"
+    },
+    "7283694": {
+      "id": "7283694",
+      "name": "WAITRESS at The National",
+      "date": "Dec 11 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283694"
+    },
+    "7283702": {
+      "id": "7283702",
+      "name": "WAITRESS at The National",
+      "date": "Dec 12 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283702"
+    },
+    "7283706": {
+      "id": "7283706",
+      "name": "WAITRESS at The National",
+      "date": "Dec 12 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283706"
+    },
+    "7283718": {
+      "id": "7283718",
+      "name": "WAITRESS at The National",
+      "date": "Dec 13 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283718"
+    },
+    "7283720": {
+      "id": "7283720",
+      "name": "HAMILTON at The National",
+      "date": "Dec 18 • 7:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283720"
+    },
+    "7283724": {
+      "id": "7283724",
+      "name": "HAMILTON at The National",
+      "date": "Dec 19 • 1:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283724"
+    },
+    "7283726": {
+      "id": "7283726",
+      "name": "HAMILTON at The National",
+      "date": "Dec 19 • 7:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283726"
+    },
+    "7283738": {
+      "id": "7283738",
+      "name": "HAMILTON at The National",
+      "date": "Dec 20 • 1:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283738"
+    },
+    "7289749": {
+      "id": "7289749",
+      "name": "NCAA Mens Hockey Tournament Fargo Regional - All Sessions (Date TBD)",
+      "date": "Mar 25 • 10:59am",
+      "location": "Scheels Arena • Fargo, ND",
+      "url": "https://entertainment.capitalone.com/events/7289749"
+    },
+    "7289753": {
+      "id": "7289753",
+      "name": "NCAA Mens Hockey Tournament Fargo Regional - Session 1 (Date TBD)",
+      "date": "Mar 25 • 11:59pm",
+      "location": "Scheels Arena • Fargo, ND",
+      "url": "https://entertainment.capitalone.com/events/7289753"
+    },
+    "7289754": {
+      "id": "7289754",
+      "name": "NCAA Mens Hockey Tournament Fargo Regional - Session 2 (Date TBD)",
+      "date": "Mar 27 • 11:59pm",
+      "location": "Scheels Arena • Fargo, ND",
+      "url": "https://entertainment.capitalone.com/events/7289754"
+    },
+    "7289997": {
+      "id": "7289997",
+      "name": "NCAA Mens Hockey Tournament Loveland Regional - All Session (Date TBD)",
+      "date": "Mar 25 • 10:59am",
+      "location": "Blue FCU Arena at The Ranch Events Complex • Loveland, CO",
+      "url": "https://entertainment.capitalone.com/events/7289997"
+    },
+    "7289999": {
+      "id": "7289999",
+      "name": "NCAA Mens Hockey Tournament Loveland Regional - Session 1 (Date TBD)",
+      "date": "Mar 25 • 11:59pm",
+      "location": "Blue FCU Arena at The Ranch Events Complex • Loveland, CO",
+      "url": "https://entertainment.capitalone.com/events/7289999"
+    },
+    "7290009": {
+      "id": "7290009",
+      "name": "NCAA Mens Hockey Tournament Loveland Regional - Session 2 (Date TBD)",
+      "date": "Mar 27 • 11:59pm",
+      "location": "Blue FCU Arena at The Ranch Events Complex • Loveland, CO",
+      "url": "https://entertainment.capitalone.com/events/7290009"
+    },
+    "7393814": {
+      "id": "7393814",
+      "name": "Opening Night of DOLLY: A True Original Musical",
+      "date": "Jan 19 • 4:00pm",
+      "location": "St. James Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7393814"
+    },
+    "7416285": {
+      "id": "7416285",
+      "name": "Eater - A Journey Along the Spice Route with Muhajir",
+      "date": "Oct 15 • 6:30pm",
+      "location": "Muhajir • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7416285"
+    },
+    "7416303": {
+      "id": "7416303",
+      "name": "Eater - A Taste of the Coast With El Camarón Peludo",
+      "date": "Nov 5 • 6:30pm",
+      "location": "El Camaron Peludo • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416303"
+    },
+    "7416317": {
+      "id": "7416317",
+      "name": "Eater - A Family Feast with Ellizabetta La Strega",
+      "date": "Dec 3 • 6:30pm",
+      "location": "Ellizabetta La Strega • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7416317"
+    },
+    "7416345": {
+      "id": "7416345",
+      "name": "Ox & Olive - Chef Ryan Ratino's Steakhouse Story",
+      "date": "Oct 1 • 6:00pm",
+      "location": "Ox and Olive Steakhouse • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7416345"
+    },
+    "7416373": {
+      "id": "7416373",
+      "name": "il Carciofo - Chef Joe Flamm's Love Letter to Rome",
+      "date": "Nov 10 • 6:00pm",
+      "location": "il Carciofo • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7416373"
+    },
+    "7416393": {
+      "id": "7416393",
+      "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
+      "date": "Dec 9 • 6:00pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416393"
+    },
+    "7416405": {
+      "id": "7416405",
+      "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
+      "date": "Dec 9 • 6:30pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416405"
+    },
+    "7416429": {
+      "id": "7416429",
+      "name": "MICHELIN - A Special Evening at Jean-Georges",
+      "date": "Oct 22 • 6:30pm",
+      "location": "Jean-Georges • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416429"
+    },
+    "7416441": {
+      "id": "7416441",
+      "name": "MICHELIN - A Thanksgiving Masterclass at The Dabney",
+      "date": "Nov 7 • 5:00pm",
+      "location": "The Dabney • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7416441"
+    },
+    "7416449": {
+      "id": "7416449",
+      "name": "MICHELIN - An Exclusive Menu by Oriole & Providence",
+      "date": "Dec 3 • 6:30pm",
+      "location": "Oriole • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7416449"
+    },
+    "7419803": {
+      "id": "7419803",
+      "name": "NBA Cup - Charlotte Hornets at Washington Wizards",
+      "date": "Oct 30 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7419803"
+    },
+    "7425115": {
+      "id": "7425115",
+      "name": "HAMILTON on Broadway and Curated Wine Tasting",
+      "date": "Sep 18 • 5:00pm",
+      "location": "Richard Rodgers Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7425115"
+    },
+    "7430004": {
+      "id": "7430004",
+      "name": "Capital One MLB Open Exclusive VIP Experience",
+      "date": "Nov 9 • 3:00pm",
+      "location": "Shadow Creek Golf Course • North Las Vegas, NV",
+      "url": "https://entertainment.capitalone.com/events/7430004"
+    },
+    "7430006": {
+      "id": "7430006",
+      "name": "Capital One MLB Open",
+      "date": "Nov 11 • 8:30am",
+      "location": "Shadow Creek Golf Course • North Las Vegas, NV",
+      "url": "https://entertainment.capitalone.com/events/7430006"
+    },
+    "7430025": {
+      "id": "7430025",
+      "name": "Gracie Abrams: The Look at My Life Tour (DEN N1) (Cardholder Exclusives)",
+      "date": "Dec 2 • 8:00pm",
+      "location": "Ball Arena • Denver, CO",
+      "url": "https://entertainment.capitalone.com/events/7430025"
+    },
+    "7430027": {
+      "id": "7430027",
+      "name": "Gracie Abrams: The Look at My Life Tour (DEN N2) (Cardholder Exclusives)",
+      "date": "Dec 3 • 8:00pm",
+      "location": "Ball Arena • Denver, CO",
+      "url": "https://entertainment.capitalone.com/events/7430027"
+    },
+    "7430031": {
+      "id": "7430031",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N1) (Cardholder Exclusives)",
+      "date": "Mar 16 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430031"
+    },
+    "7430033": {
+      "id": "7430033",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N2) (Cardholder Exclusives)",
+      "date": "Mar 17 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430033"
+    },
+    "7430037": {
+      "id": "7430037",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N3) (Cardholder Exclusives)",
+      "date": "Mar 19 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430037"
+    },
+    "7430041": {
+      "id": "7430041",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N4) (Cardholder Exclusives)",
+      "date": "Mar 20 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430041"
+    },
+    "7430059": {
+      "id": "7430059",
+      "name": "Gracie Abrams: The Look at My Life Tour (NASH N1) (Cardholder Exclusives)",
+      "date": "Feb 14 • 8:00pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7430059"
+    },
+    "7430069": {
+      "id": "7430069",
+      "name": "Gracie Abrams: The Look at My Life Tour (DC N1) (Cardholder Exclusives)",
+      "date": "Mar 4 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7430069"
+    },
+    "7430071": {
+      "id": "7430071",
+      "name": "Gracie Abrams: The Look at My Life Tour (DC N2) (Cardholder Exclusives)",
+      "date": "Mar 5 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7430071"
+    },
+    "7430095": {
+      "id": "7430095",
+      "name": "Gracie Abrams: The Look at My Life Tour (SEA N1) (Cardholder Exclusives)",
+      "date": "Jan 26 • 8:00pm",
+      "location": "Climate Pledge Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7430095"
+    },
+    "7430101": {
+      "id": "7430101",
+      "name": "Gracie Abrams: The Look at My Life Tour (SEA N2) (Cardholder Exclusives)",
+      "date": "Jan 27 • 8:00pm",
+      "location": "Climate Pledge Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7430101"
+    },
+    "7430103": {
+      "id": "7430103",
+      "name": "Gracie Abrams: The Look at My Life Tour (SEA N3) (Cardholder Exclusives)",
+      "date": "Jan 29 • 8:00pm",
+      "location": "Climate Pledge Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7430103"
+    },
+    "7430111": {
+      "id": "7430111",
+      "name": "Gracie Abrams: The Look at My Life Tour (GLEN N1) (Cardholder Exclusives)",
+      "date": "Dec 9 • 8:00pm",
+      "location": "Desert Diamond Arena • Glendale, AZ",
+      "url": "https://entertainment.capitalone.com/events/7430111"
+    },
+    "7430113": {
+      "id": "7430113",
+      "name": "Gracie Abrams: The Look at My Life Tour (GLEN N2) (Cardholder Exclusives)",
+      "date": "Dec 10 • 8:00pm",
+      "location": "Desert Diamond Arena • Glendale, AZ",
+      "url": "https://entertainment.capitalone.com/events/7430113"
+    },
+    "7430117": {
+      "id": "7430117",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N1) (Cardholder Exclusives)",
+      "date": "Dec 14 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430117"
+    },
+    "7430121": {
+      "id": "7430121",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N2) (Cardholder Exclusives)",
+      "date": "Dec 18 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430121"
+    },
+    "7430127": {
+      "id": "7430127",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N3) (Cardholder Exclusives)",
+      "date": "Dec 19 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430127"
+    },
+    "7430133": {
+      "id": "7430133",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N4) (Cardholder Exclusives)",
+      "date": "Dec 20 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430133"
+    },
+    "7430137": {
+      "id": "7430137",
+      "name": "Gracie Abrams: The Look at My Life Tour (PDX N1) (Cardholder Exclusives)",
+      "date": "Jan 31 • 8:00pm",
+      "location": "Moda Center • Portland, OR",
+      "url": "https://entertainment.capitalone.com/events/7430137"
+    },
+    "7430141": {
+      "id": "7430141",
+      "name": "Gracie Abrams: The Look at My Life Tour (PDX N2) (Cardholder Exclusives)",
+      "date": "Feb 1 • 8:00pm",
+      "location": "Moda Center • Portland, OR",
+      "url": "https://entertainment.capitalone.com/events/7430141"
+    },
+    "7430145": {
+      "id": "7430145",
+      "name": "Gracie Abrams: The Look at My Life Tour (OAK N1) (Cardholder Exclusives)",
+      "date": "Dec 6 • 8:00pm",
+      "location": "Oakland Arena • Oakland, CA",
+      "url": "https://entertainment.capitalone.com/events/7430145"
+    },
+    "7430149": {
+      "id": "7430149",
+      "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
+      "date": "Dec 7 • 8:00pm",
+      "location": "Oakland Arena • Oakland, CA",
+      "url": "https://entertainment.capitalone.com/events/7430149"
+    },
+    "7430157": {
+      "id": "7430157",
+      "name": "Gracie Abrams: The Look at My Life Tour (CLT N1) (Cardholder Exclusives)",
+      "date": "Feb 26 • 8:00pm",
+      "location": "Spectrum Center • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7430157"
+    },
+    "7430159": {
+      "id": "7430159",
+      "name": "Gracie Abrams: The Look at My Life Tour (CLT N2) (Cardholder Exclusives)",
+      "date": "Feb 27 • 8:00pm",
+      "location": "Spectrum Center • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7430159"
+    },
+    "7430163": {
+      "id": "7430163",
+      "name": "Gracie Abrams: The Look at My Life Tour (ATL N1) (Cardholder Exclusives)",
+      "date": "Feb 23 • 8:00pm",
+      "location": "State Farm Arena • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7430163"
+    },
+    "7430165": {
+      "id": "7430165",
+      "name": "Gracie Abrams: The Look at My Life Tour (ATL N2) (Cardholder Exclusives)",
+      "date": "Feb 24 • 8:00pm",
+      "location": "State Farm Arena • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7430165"
+    },
+    "7430167": {
+      "id": "7430167",
+      "name": "Gracie Abrams: The Look at My Life Tour (BOS N1) (Cardholder Exclusives)",
+      "date": "Mar 1 • 8:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7430167"
+    },
+    "7430171": {
+      "id": "7430171",
+      "name": "Gracie Abrams: The Look at My Life Tour (BOS N2) (Cardholder Exclusives)",
+      "date": "Mar 2 • 8:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7430171"
+    },
+    "7430175": {
+      "id": "7430175",
+      "name": "Gracie Abrams: The Look at My Life Tour (CHI N1) (Cardholder Exclusives)",
+      "date": "Feb 11 • 8:00pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7430175"
+    },
+    "7430177": {
+      "id": "7430177",
+      "name": "Gracie Abrams: The Look at My Life Tour (CHI N2) (Cardholder Exclusives)",
+      "date": "Feb 12 • 8:00pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7430177"
+    },
+    "7430181": {
+      "id": "7430181",
+      "name": "Gracie Abrams: The Look at My Life Tour (PHL N1) (Cardholder Exclusives)",
+      "date": "Mar 12 • 8:00pm",
+      "location": "Xfinity Mobile Arena • Philadelphia, PA",
+      "url": "https://entertainment.capitalone.com/events/7430181"
+    },
+    "7430183": {
+      "id": "7430183",
+      "name": "Gracie Abrams: The Look at My Life Tour (PHL N2) (Cardholder Exclusives)",
+      "date": "Mar 13 • 8:00pm",
+      "location": "Xfinity Mobile Arena • Philadelphia, PA",
+      "url": "https://entertainment.capitalone.com/events/7430183"
+    },
+    "7431082": {
+      "id": "7431082",
+      "name": "Toronto Raptors at Washington Wizards",
+      "date": "Dec 22 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431082"
+    },
+    "7431451": {
+      "id": "7431451",
+      "name": "Dallas Mavericks at Washington Wizards",
+      "date": "Mar 28 • 6:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431451"
+    },
+    "7431493": {
+      "id": "7431493",
+      "name": "Minnesota Timberwolves at Washington Wizards",
+      "date": "Jan 8 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431493"
+    },
+    "7431873": {
+      "id": "7431873",
+      "name": "Milwaukee Bucks at Washington Wizards",
+      "date": "Feb 13 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431873"
+    },
+    "7431881": {
+      "id": "7431881",
+      "name": "Phoenix Suns at Washington Wizards",
+      "date": "Feb 15 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431881"
+    },
+    "7431959": {
+      "id": "7431959",
+      "name": "Detroit Pistons at Washington Wizards",
+      "date": "Apr 11 • 6:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431959"
+    },
+    "7433044": {
+      "id": "7433044",
+      "name": "Orlando Magic at Washington Wizards",
+      "date": "Nov 22 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7433044"
+    },
+    "7438441": {
+      "id": "7438441",
+      "name": "Gracie Abrams: The Look at My Life Tour (NASH N2) (Cardholder Exclusives)",
+      "date": "Feb 15 • 8:00pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7438441"
+    },
+    "7453787": {
+      "id": "7453787",
+      "name": "2026 American South MICHELIN Guide Ceremony",
+      "date": "Oct 21 • 6:00pm",
+      "location": "The Pinnacle • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7453787"
+    },
+    "7505870": {
+      "id": "7505870",
+      "name": "Vinous Icons Miami - Two Day Full Access",
+      "date": "Nov 13 • 12:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505870"
+    },
+    "7505872": {
+      "id": "7505872",
+      "name": "Vinous Icons Miami - All Access Day One",
+      "date": "Nov 13 • 12:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505872"
+    },
+    "7505876": {
+      "id": "7505876",
+      "name": "Vinous Icons Miami - Day One Walkaround Tasting",
+      "date": "Nov 13 • 4:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505876"
+    },
+    "7505878": {
+      "id": "7505878",
+      "name": "Vinous Icons Miami - All Access Day Two",
+      "date": "Nov 14 • 10:00am",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505878"
+    },
+    "7505880": {
+      "id": "7505880",
+      "name": "Vinous Icons Miami - Day Two Walkaround Tasting",
+      "date": "Nov 14 • 4:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505880"
+    },
+    "7538216": {
+      "id": "7538216",
+      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Oct 6 • 7:00pm",
+      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7538216"
+    },
+    "7538218": {
+      "id": "7538218",
+      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Oct 6 • 9:30pm",
+      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7538218"
+    },
+    "7538224": {
+      "id": "7538224",
+      "name": "NYC: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Sep 17 • 7:00pm",
+      "location": "Lucali • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7538224"
+    },
+    "7538229": {
+      "id": "7538229",
+      "name": "LA: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Sep 29 • 7:00pm",
+      "location": "Prince Street Pizza • West Hollywood, CA",
+      "url": "https://entertainment.capitalone.com/events/7538229"
+    },
+    "7538231": {
+      "id": "7538231",
+      "name": "Washington Capitals Home Opener: Pittsburgh Penguins vs. Washington Capitals",
+      "date": "Oct 7 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538231"
+    },
+    "7538235": {
+      "id": "7538235",
+      "name": "Zamboni Ride at Dallas Stars vs. Washington Capitals",
+      "date": "Nov 3 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538235"
+    },
+    "7538237": {
+      "id": "7538237",
+      "name": "Zamboni Ride at Vancouver Canucks vs. Washington Capitals",
+      "date": "Dec 1 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538237"
+    },
+    "7538239": {
+      "id": "7538239",
+      "name": "Zamboni Ride at Carolina Hurricanes vs. Washington Capitals",
+      "date": "Jan 14 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538239"
+    },
+    "7538243": {
+      "id": "7538243",
+      "name": "Zamboni Ride at Anaheim Ducks vs. Washington Capitals",
+      "date": "Feb 16 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538243"
+    },
+    "7538245": {
+      "id": "7538245",
+      "name": "Zamboni Ride at Detroit Red Wings vs. Washington Capitals",
+      "date": "Mar 23 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538245"
+    },
+    "7538249": {
+      "id": "7538249",
+      "name": "Washington Wizards Home Opener: Milwaukee Bucks vs. Washington Wizards",
+      "date": "Oct 21 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538249"
+    },
+    "7538315": {
+      "id": "7538315",
+      "name": "Co-Captain of the Game Milwaukee Bucks vs. Washington Wizards",
+      "date": "Oct 21 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538315"
+    },
+    "7538319": {
+      "id": "7538319",
+      "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
+      "date": "Nov 24 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538319"
+    },
+    "7538321": {
+      "id": "7538321",
+      "name": "Co-Captain of the Game Oklahoma City vs. Washington Wizards",
+      "date": "Jan 7 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538321"
+    },
+    "7538325": {
+      "id": "7538325",
+      "name": "Co-Captain of the Game Brooklyn Nets vs. Washington Wizards",
+      "date": "Feb 12 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538325"
+    },
+    "7538327": {
+      "id": "7538327",
+      "name": "Co-Captain of the Game Utah Jazz vs. Washington Wizards",
+      "date": "Mar 6 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538327"
+    },
+    "7538329": {
+      "id": "7538329",
+      "name": "Co-Captain of the Game Chicago Bulls vs. Washington Wizards",
+      "date": "Mar 31 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538329"
+    },
+    "7538331": {
+      "id": "7538331",
+      "name": "The Nutcracker Rehearsal and Exclusive Dinner",
+      "date": "Dec 1 • 6:30pm",
+      "location": "David H. Koch Theater • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7538331"
+    },
+    "7538335": {
+      "id": "7538335",
+      "name": "George Balanchine's The Nutcracker® and Brunch",
+      "date": "Dec 5 • 12:00pm",
+      "location": "David H. Koch Theater • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7538335"
+    }
+  },
+  "previous": [
+    {
+      "id": "7082329",
+      "name": "Eater - A Welcome Home Party for Alfie's",
+      "date": "Sep 17 • 6:30pm",
+      "location": "Alfie's • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7082329"
+    },
+    {
+      "id": "7538224",
+      "name": "NYC: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Sep 17 • 7:00pm",
+      "location": "Lucali • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7538224"
+    },
+    {
+      "id": "7425115",
+      "name": "HAMILTON on Broadway and Curated Wine Tasting",
+      "date": "Sep 18 • 5:00pm",
+      "location": "Richard Rodgers Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7425115"
+    },
+    {
+      "id": "7147770",
+      "name": "2026 iHeartRadioMusic Festival presented by Capital One",
+      "date": "Sep 18 • 7:30pm",
+      "location": "T-Mobile Arena • Las Vegas, NV",
+      "url": "https://entertainment.capitalone.com/events/7147770"
+    },
+    {
+      "id": "6845927",
+      "name": "The MICHELIN Guide Tuscany Trip",
+      "date": "Sep 19 • 4:00pm",
+      "location": "Hotel Borgo San Felice • Siena, IT",
+      "url": "https://entertainment.capitalone.com/events/6845927"
+    },
+    {
+      "id": "7082389",
+      "name": "TPC Craig Ranch Golf Academy with Corey Pavin",
+      "date": "Sep 21 • 9:00am",
+      "location": "TPC Craig Ranch • McKinney, TX",
+      "url": "https://entertainment.capitalone.com/events/7082389"
+    },
+    {
+      "id": "7082374",
+      "name": "Jungsik - Celebrating 15 Years",
+      "date": "Sep 22 • 6:00pm",
+      "location": "Jungsik • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7082374"
+    },
+    {
+      "id": "6845960",
+      "name": "Vienna with Athena Calderone",
+      "date": "Sep 23 • 3:00pm",
+      "location": "Hotel Sacher Vienna • Wien, AT",
+      "url": "https://entertainment.capitalone.com/events/6845960"
+    },
+    {
+      "id": "7258329",
+      "name": "Washington Mystics Honorary Captain Experience",
+      "date": "Sep 24 • 6:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7258329"
+    },
+    {
+      "id": "7538229",
+      "name": "LA: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Sep 29 • 7:00pm",
+      "location": "Prince Street Pizza • West Hollywood, CA",
+      "url": "https://entertainment.capitalone.com/events/7538229"
+    },
+    {
+      "id": "7416345",
+      "name": "Ox & Olive - Chef Ryan Ratino's Steakhouse Story",
+      "date": "Oct 1 • 6:00pm",
+      "location": "Ox and Olive Steakhouse • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7416345"
+    },
+    {
+      "id": "7283631",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 2 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283631"
+    },
+    {
+      "id": "7283633",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 3 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283633"
+    },
+    {
+      "id": "6845936",
+      "name": "The MICHELIN Guide Bordeaux Trip",
+      "date": "Oct 3 • 4:00pm",
+      "location": "Les Sources de Caudalie • Martillac, FR",
+      "url": "https://entertainment.capitalone.com/events/6845936"
+    },
+    {
+      "id": "7283635",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 3 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283635"
+    },
+    {
+      "id": "7283637",
+      "name": "DIRTY DANCING at The National",
+      "date": "Oct 4 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283637"
+    },
+    {
+      "id": "6845978",
+      "name": "Peru Trip of Wonder",
+      "date": "Oct 6 • 3:00pm",
+      "location": "Sol y Luna • Urubamba, PE",
+      "url": "https://entertainment.capitalone.com/events/6845978"
+    },
+    {
+      "id": "7538216",
+      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Oct 6 • 7:00pm",
+      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7538216"
+    },
+    {
+      "id": "7538218",
+      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
+      "date": "Oct 6 • 9:30pm",
+      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7538218"
+    },
+    {
+      "id": "7538231",
+      "name": "Washington Capitals Home Opener: Pittsburgh Penguins vs. Washington Capitals",
+      "date": "Oct 7 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538231"
+    },
+    {
+      "id": "7283643",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 9 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283643"
+    },
+    {
+      "id": "7283656",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 10 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283656"
+    },
+    {
+      "id": "7283646",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 10 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283646"
+    },
+    {
+      "id": "7283660",
+      "name": "MAYBE HAPPY ENDING at The National",
+      "date": "Oct 11 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283660"
+    },
+    {
+      "id": "7082393",
+      "name": "TPC Jasna Polana Golf Academy with Will Zalatoris",
+      "date": "Oct 12 • 9:00am",
+      "location": "TPC Jasna Polana • Princeton, NJ",
+      "url": "https://entertainment.capitalone.com/events/7082393"
+    },
+    {
+      "id": "7416285",
+      "name": "Eater - A Journey Along the Spice Route with Muhajir",
+      "date": "Oct 15 • 6:30pm",
+      "location": "Muhajir • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7416285"
+    },
+    {
+      "id": "7453787",
+      "name": "2026 American South MICHELIN Guide Ceremony",
+      "date": "Oct 21 • 6:00pm",
+      "location": "The Pinnacle • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7453787"
+    },
+    {
+      "id": "7538315",
+      "name": "Co-Captain of the Game Milwaukee Bucks vs. Washington Wizards",
+      "date": "Oct 21 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538315"
+    },
+    {
+      "id": "7538249",
+      "name": "Washington Wizards Home Opener: Milwaukee Bucks vs. Washington Wizards",
+      "date": "Oct 21 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538249"
+    },
+    {
+      "id": "7416429",
+      "name": "MICHELIN - A Special Evening at Jean-Georges",
+      "date": "Oct 22 • 6:30pm",
+      "location": "Jean-Georges • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416429"
+    },
+    {
+      "id": "7419803",
+      "name": "NBA Cup - Charlotte Hornets at Washington Wizards",
+      "date": "Oct 30 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7419803"
+    },
+    {
+      "id": "7283662",
+      "name": "MAMMA MIA! at The National",
+      "date": "Oct 30 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283662"
+    },
+    {
+      "id": "7283664",
+      "name": "MAMMA MIA! at The National",
+      "date": "Oct 31 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283664"
+    },
+    {
+      "id": "7283668",
+      "name": "MAMMA MIA! at The National",
+      "date": "Oct 31 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283668"
+    },
+    {
+      "id": "7283672",
+      "name": "MAMMA MIA! at The National",
+      "date": "Nov 1 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283672"
+    },
+    {
+      "id": "7538235",
+      "name": "Zamboni Ride at Dallas Stars vs. Washington Capitals",
+      "date": "Nov 3 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538235"
+    },
+    {
+      "id": "7416303",
+      "name": "Eater - A Taste of the Coast With El Camarón Peludo",
+      "date": "Nov 5 • 6:30pm",
+      "location": "El Camaron Peludo • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416303"
+    },
+    {
+      "id": "7416441",
+      "name": "MICHELIN - A Thanksgiving Masterclass at The Dabney",
+      "date": "Nov 7 • 5:00pm",
+      "location": "The Dabney • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7416441"
+    },
+    {
+      "id": "7430004",
+      "name": "Capital One MLB Open Exclusive VIP Experience",
+      "date": "Nov 9 • 3:00pm",
+      "location": "Shadow Creek Golf Course • North Las Vegas, NV",
+      "url": "https://entertainment.capitalone.com/events/7430004"
+    },
+    {
+      "id": "7416373",
+      "name": "il Carciofo - Chef Joe Flamm's Love Letter to Rome",
+      "date": "Nov 10 • 6:00pm",
+      "location": "il Carciofo • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7416373"
+    },
+    {
+      "id": "7430006",
+      "name": "Capital One MLB Open",
+      "date": "Nov 11 • 8:30am",
+      "location": "Shadow Creek Golf Course • North Las Vegas, NV",
+      "url": "https://entertainment.capitalone.com/events/7430006"
+    },
+    {
+      "id": "7505872",
+      "name": "Vinous Icons Miami - All Access Day One",
+      "date": "Nov 13 • 12:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505872"
+    },
+    {
+      "id": "7505870",
+      "name": "Vinous Icons Miami - Two Day Full Access",
+      "date": "Nov 13 • 12:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505870"
+    },
+    {
+      "id": "7505876",
+      "name": "Vinous Icons Miami - Day One Walkaround Tasting",
+      "date": "Nov 13 • 4:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505876"
+    },
+    {
+      "id": "7505878",
+      "name": "Vinous Icons Miami - All Access Day Two",
+      "date": "Nov 14 • 10:00am",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505878"
+    },
+    {
+      "id": "7505880",
+      "name": "Vinous Icons Miami - Day Two Walkaround Tasting",
+      "date": "Nov 14 • 4:00pm",
+      "location": "Jungle Island • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7505880"
+    },
+    {
+      "id": "7082398",
+      "name": "TPC Scottsdale Golf Academy with Billy Horschel and Cameron Young",
+      "date": "Nov 16 • 8:00am",
+      "location": "TPC of Scottsdale • Scottsdale, AZ",
+      "url": "https://entertainment.capitalone.com/events/7082398"
+    },
+    {
+      "id": "7433044",
+      "name": "Orlando Magic at Washington Wizards",
+      "date": "Nov 22 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7433044"
+    },
+    {
+      "id": "7538319",
+      "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
+      "date": "Nov 24 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538319"
+    },
+    {
+      "id": "7283678",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 27 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283678"
+    },
+    {
+      "id": "7283682",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 28 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283682"
+    },
+    {
+      "id": "7283684",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 28 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283684"
+    },
+    {
+      "id": "7283690",
+      "name": "HELL'S KITCHEN at The National",
+      "date": "Nov 29 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283690"
+    },
+    {
+      "id": "7538331",
+      "name": "The Nutcracker Rehearsal and Exclusive Dinner",
+      "date": "Dec 1 • 6:30pm",
+      "location": "David H. Koch Theater • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7538331"
+    },
+    {
+      "id": "7538237",
+      "name": "Zamboni Ride at Vancouver Canucks vs. Washington Capitals",
+      "date": "Dec 1 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538237"
+    },
+    {
+      "id": "7430025",
+      "name": "Gracie Abrams: The Look at My Life Tour (DEN N1) (Cardholder Exclusives)",
+      "date": "Dec 2 • 8:00pm",
+      "location": "Ball Arena • Denver, CO",
+      "url": "https://entertainment.capitalone.com/events/7430025"
+    },
+    {
+      "id": "7416449",
+      "name": "MICHELIN - An Exclusive Menu by Oriole & Providence",
+      "date": "Dec 3 • 6:30pm",
+      "location": "Oriole • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7416449"
+    },
+    {
+      "id": "7416317",
+      "name": "Eater - A Family Feast with Ellizabetta La Strega",
+      "date": "Dec 3 • 6:30pm",
+      "location": "Ellizabetta La Strega • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7416317"
+    },
+    {
+      "id": "7430027",
+      "name": "Gracie Abrams: The Look at My Life Tour (DEN N2) (Cardholder Exclusives)",
+      "date": "Dec 3 • 8:00pm",
+      "location": "Ball Arena • Denver, CO",
+      "url": "https://entertainment.capitalone.com/events/7430027"
+    },
+    {
+      "id": "7538335",
+      "name": "George Balanchine's The Nutcracker® and Brunch",
+      "date": "Dec 5 • 12:00pm",
+      "location": "David H. Koch Theater • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7538335"
+    },
+    {
+      "id": "7430145",
+      "name": "Gracie Abrams: The Look at My Life Tour (OAK N1) (Cardholder Exclusives)",
+      "date": "Dec 6 • 8:00pm",
+      "location": "Oakland Arena • Oakland, CA",
+      "url": "https://entertainment.capitalone.com/events/7430145"
+    },
+    {
+      "id": "7082400",
+      "name": "Palos Verdes Golf Academy with Sir Nick Faldo",
+      "date": "Dec 7 • 9:00am",
+      "location": "Palos Verdes Golf Club • Palos Verdes Estates, CA",
+      "url": "https://entertainment.capitalone.com/events/7082400"
+    },
+    {
+      "id": "7430149",
+      "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
+      "date": "Dec 7 • 8:00pm",
+      "location": "Oakland Arena • Oakland, CA",
+      "url": "https://entertainment.capitalone.com/events/7430149"
+    },
+    {
+      "id": "7416393",
+      "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
+      "date": "Dec 9 • 6:00pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416393"
+    },
+    {
+      "id": "7416405",
+      "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
+      "date": "Dec 9 • 6:30pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7416405"
+    },
+    {
+      "id": "7430111",
+      "name": "Gracie Abrams: The Look at My Life Tour (GLEN N1) (Cardholder Exclusives)",
+      "date": "Dec 9 • 8:00pm",
+      "location": "Desert Diamond Arena • Glendale, AZ",
+      "url": "https://entertainment.capitalone.com/events/7430111"
+    },
+    {
+      "id": "7430113",
+      "name": "Gracie Abrams: The Look at My Life Tour (GLEN N2) (Cardholder Exclusives)",
+      "date": "Dec 10 • 8:00pm",
+      "location": "Desert Diamond Arena • Glendale, AZ",
+      "url": "https://entertainment.capitalone.com/events/7430113"
+    },
+    {
+      "id": "7283694",
+      "name": "WAITRESS at The National",
+      "date": "Dec 11 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283694"
+    },
+    {
+      "id": "7283702",
+      "name": "WAITRESS at The National",
+      "date": "Dec 12 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283702"
+    },
+    {
+      "id": "7283706",
+      "name": "WAITRESS at The National",
+      "date": "Dec 12 • 7:30pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283706"
+    },
+    {
+      "id": "7283718",
+      "name": "WAITRESS at The National",
+      "date": "Dec 13 • 2:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283718"
+    },
+    {
+      "id": "7430117",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N1) (Cardholder Exclusives)",
+      "date": "Dec 14 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430117"
+    },
+    {
+      "id": "7283720",
+      "name": "HAMILTON at The National",
+      "date": "Dec 18 • 7:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283720"
+    },
+    {
+      "id": "7430121",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N2) (Cardholder Exclusives)",
+      "date": "Dec 18 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430121"
+    },
+    {
+      "id": "7283724",
+      "name": "HAMILTON at The National",
+      "date": "Dec 19 • 1:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283724"
+    },
+    {
+      "id": "7283726",
+      "name": "HAMILTON at The National",
+      "date": "Dec 19 • 7:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283726"
+    },
+    {
+      "id": "7430127",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N3) (Cardholder Exclusives)",
+      "date": "Dec 19 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430127"
+    },
+    {
+      "id": "7283738",
+      "name": "HAMILTON at The National",
+      "date": "Dec 20 • 1:00pm",
+      "location": "National Theatre - DC • Washington DC, DC",
+      "url": "https://entertainment.capitalone.com/events/7283738"
+    },
+    {
+      "id": "7430133",
+      "name": "Gracie Abrams: The Look at My Life Tour (LA N4) (Cardholder Exclusives)",
+      "date": "Dec 20 • 8:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7430133"
+    },
+    {
+      "id": "7431082",
+      "name": "Toronto Raptors at Washington Wizards",
+      "date": "Dec 22 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431082"
+    },
+    {
+      "id": "7538321",
+      "name": "Co-Captain of the Game Oklahoma City vs. Washington Wizards",
+      "date": "Jan 7 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538321"
+    },
+    {
+      "id": "7431493",
+      "name": "Minnesota Timberwolves at Washington Wizards",
+      "date": "Jan 8 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431493"
+    },
+    {
+      "id": "7538239",
+      "name": "Zamboni Ride at Carolina Hurricanes vs. Washington Capitals",
+      "date": "Jan 14 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538239"
+    },
+    {
+      "id": "7393814",
+      "name": "Opening Night of DOLLY: A True Original Musical",
+      "date": "Jan 19 • 4:00pm",
+      "location": "St. James Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7393814"
+    },
+    {
+      "id": "7430095",
+      "name": "Gracie Abrams: The Look at My Life Tour (SEA N1) (Cardholder Exclusives)",
+      "date": "Jan 26 • 8:00pm",
+      "location": "Climate Pledge Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7430095"
+    },
+    {
+      "id": "7430101",
+      "name": "Gracie Abrams: The Look at My Life Tour (SEA N2) (Cardholder Exclusives)",
+      "date": "Jan 27 • 8:00pm",
+      "location": "Climate Pledge Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7430101"
+    },
+    {
+      "id": "7430103",
+      "name": "Gracie Abrams: The Look at My Life Tour (SEA N3) (Cardholder Exclusives)",
+      "date": "Jan 29 • 8:00pm",
+      "location": "Climate Pledge Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7430103"
+    },
+    {
+      "id": "7430137",
+      "name": "Gracie Abrams: The Look at My Life Tour (PDX N1) (Cardholder Exclusives)",
+      "date": "Jan 31 • 8:00pm",
+      "location": "Moda Center • Portland, OR",
+      "url": "https://entertainment.capitalone.com/events/7430137"
+    },
+    {
+      "id": "7430141",
+      "name": "Gracie Abrams: The Look at My Life Tour (PDX N2) (Cardholder Exclusives)",
+      "date": "Feb 1 • 8:00pm",
+      "location": "Moda Center • Portland, OR",
+      "url": "https://entertainment.capitalone.com/events/7430141"
+    },
+    {
+      "id": "7430175",
+      "name": "Gracie Abrams: The Look at My Life Tour (CHI N1) (Cardholder Exclusives)",
+      "date": "Feb 11 • 8:00pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7430175"
+    },
+    {
+      "id": "7538325",
+      "name": "Co-Captain of the Game Brooklyn Nets vs. Washington Wizards",
+      "date": "Feb 12 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538325"
+    },
+    {
+      "id": "7430177",
+      "name": "Gracie Abrams: The Look at My Life Tour (CHI N2) (Cardholder Exclusives)",
+      "date": "Feb 12 • 8:00pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7430177"
+    },
+    {
+      "id": "7431873",
+      "name": "Milwaukee Bucks at Washington Wizards",
+      "date": "Feb 13 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431873"
+    },
+    {
+      "id": "7430059",
+      "name": "Gracie Abrams: The Look at My Life Tour (NASH N1) (Cardholder Exclusives)",
+      "date": "Feb 14 • 8:00pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7430059"
+    },
+    {
+      "id": "7431881",
+      "name": "Phoenix Suns at Washington Wizards",
+      "date": "Feb 15 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431881"
+    },
+    {
+      "id": "7438441",
+      "name": "Gracie Abrams: The Look at My Life Tour (NASH N2) (Cardholder Exclusives)",
+      "date": "Feb 15 • 8:00pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7438441"
+    },
+    {
+      "id": "7538243",
+      "name": "Zamboni Ride at Anaheim Ducks vs. Washington Capitals",
+      "date": "Feb 16 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538243"
+    },
+    {
+      "id": "7430163",
+      "name": "Gracie Abrams: The Look at My Life Tour (ATL N1) (Cardholder Exclusives)",
+      "date": "Feb 23 • 8:00pm",
+      "location": "State Farm Arena • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7430163"
+    },
+    {
+      "id": "7430165",
+      "name": "Gracie Abrams: The Look at My Life Tour (ATL N2) (Cardholder Exclusives)",
+      "date": "Feb 24 • 8:00pm",
+      "location": "State Farm Arena • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7430165"
+    },
+    {
+      "id": "7430157",
+      "name": "Gracie Abrams: The Look at My Life Tour (CLT N1) (Cardholder Exclusives)",
+      "date": "Feb 26 • 8:00pm",
+      "location": "Spectrum Center • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7430157"
+    },
+    {
+      "id": "7430159",
+      "name": "Gracie Abrams: The Look at My Life Tour (CLT N2) (Cardholder Exclusives)",
+      "date": "Feb 27 • 8:00pm",
+      "location": "Spectrum Center • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7430159"
+    },
+    {
+      "id": "7430167",
+      "name": "Gracie Abrams: The Look at My Life Tour (BOS N1) (Cardholder Exclusives)",
+      "date": "Mar 1 • 8:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7430167"
+    },
+    {
+      "id": "7430171",
+      "name": "Gracie Abrams: The Look at My Life Tour (BOS N2) (Cardholder Exclusives)",
+      "date": "Mar 2 • 8:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7430171"
+    },
+    {
+      "id": "7430069",
+      "name": "Gracie Abrams: The Look at My Life Tour (DC N1) (Cardholder Exclusives)",
+      "date": "Mar 4 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7430069"
+    },
+    {
+      "id": "7430071",
+      "name": "Gracie Abrams: The Look at My Life Tour (DC N2) (Cardholder Exclusives)",
+      "date": "Mar 5 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7430071"
+    },
+    {
+      "id": "7538327",
+      "name": "Co-Captain of the Game Utah Jazz vs. Washington Wizards",
+      "date": "Mar 6 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538327"
+    },
+    {
+      "id": "7430181",
+      "name": "Gracie Abrams: The Look at My Life Tour (PHL N1) (Cardholder Exclusives)",
+      "date": "Mar 12 • 8:00pm",
+      "location": "Xfinity Mobile Arena • Philadelphia, PA",
+      "url": "https://entertainment.capitalone.com/events/7430181"
+    },
+    {
+      "id": "7430183",
+      "name": "Gracie Abrams: The Look at My Life Tour (PHL N2) (Cardholder Exclusives)",
+      "date": "Mar 13 • 8:00pm",
+      "location": "Xfinity Mobile Arena • Philadelphia, PA",
+      "url": "https://entertainment.capitalone.com/events/7430183"
+    },
+    {
+      "id": "7430031",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N1) (Cardholder Exclusives)",
+      "date": "Mar 16 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430031"
+    },
+    {
+      "id": "7430033",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N2) (Cardholder Exclusives)",
+      "date": "Mar 17 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430033"
+    },
+    {
+      "id": "7430037",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N3) (Cardholder Exclusives)",
+      "date": "Mar 19 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430037"
+    },
+    {
+      "id": "7430041",
+      "name": "Gracie Abrams: The Look at My Life Tour (BK N4) (Cardholder Exclusives)",
+      "date": "Mar 20 • 8:00pm",
+      "location": "Barclays Center • Brooklyn, NY",
+      "url": "https://entertainment.capitalone.com/events/7430041"
+    },
+    {
+      "id": "7538245",
+      "name": "Zamboni Ride at Detroit Red Wings vs. Washington Capitals",
+      "date": "Mar 23 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538245"
+    },
+    {
+      "id": "7289997",
+      "name": "NCAA Mens Hockey Tournament Loveland Regional - All Session (Date TBD)",
+      "date": "Mar 25 • 10:59am",
+      "location": "Blue FCU Arena at The Ranch Events Complex • Loveland, CO",
+      "url": "https://entertainment.capitalone.com/events/7289997"
+    },
+    {
+      "id": "7289749",
+      "name": "NCAA Mens Hockey Tournament Fargo Regional - All Sessions (Date TBD)",
+      "date": "Mar 25 • 10:59am",
+      "location": "Scheels Arena • Fargo, ND",
+      "url": "https://entertainment.capitalone.com/events/7289749"
+    },
+    {
+      "id": "7289999",
+      "name": "NCAA Mens Hockey Tournament Loveland Regional - Session 1 (Date TBD)",
+      "date": "Mar 25 • 11:59pm",
+      "location": "Blue FCU Arena at The Ranch Events Complex • Loveland, CO",
+      "url": "https://entertainment.capitalone.com/events/7289999"
+    },
+    {
+      "id": "7289753",
+      "name": "NCAA Mens Hockey Tournament Fargo Regional - Session 1 (Date TBD)",
+      "date": "Mar 25 • 11:59pm",
+      "location": "Scheels Arena • Fargo, ND",
+      "url": "https://entertainment.capitalone.com/events/7289753"
+    },
+    {
+      "id": "7290009",
+      "name": "NCAA Mens Hockey Tournament Loveland Regional - Session 2 (Date TBD)",
+      "date": "Mar 27 • 11:59pm",
+      "location": "Blue FCU Arena at The Ranch Events Complex • Loveland, CO",
+      "url": "https://entertainment.capitalone.com/events/7290009"
+    },
+    {
+      "id": "7289754",
+      "name": "NCAA Mens Hockey Tournament Fargo Regional - Session 2 (Date TBD)",
+      "date": "Mar 27 • 11:59pm",
+      "location": "Scheels Arena • Fargo, ND",
+      "url": "https://entertainment.capitalone.com/events/7289754"
+    },
+    {
+      "id": "7431451",
+      "name": "Dallas Mavericks at Washington Wizards",
+      "date": "Mar 28 • 6:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431451"
+    },
+    {
+      "id": "7538329",
+      "name": "Co-Captain of the Game Chicago Bulls vs. Washington Wizards",
+      "date": "Mar 31 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538329"
+    },
+    {
+      "id": "6752219",
+      "name": "2027 NCAA Mens Frozen Four - All Session (4/8 and 4/10)",
+      "date": "Apr 8 • 10:59am",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752219"
+    },
+    {
+      "id": "6752215",
+      "name": "2027 NCAA Mens Frozen Four - Semifinals",
+      "date": "Apr 8 • 12:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752215"
+    },
+    {
+      "id": "6752217",
+      "name": "2027 NCAA Mens Frozen Four - Championship",
+      "date": "Apr 10 • 11:59pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752217"
+    },
+    {
+      "id": "7431959",
+      "name": "Detroit Pistons at Washington Wizards",
+      "date": "Apr 11 • 6:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431959"
+    },
+    {
+      "id": "6752221",
+      "name": "2028 NCAA Mens Frozen Four - All Session (4/6 and 4/8)",
+      "date": "Apr 6 • 10:59am",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/6752221"
+    },
+    {
+      "id": "6752223",
+      "name": "2028 NCAA Mens Frozen Four - Semifinals",
+      "date": "Apr 6 • 12:00pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/6752223"
+    },
+    {
+      "id": "6752227",
+      "name": "2028 NCAA Mens Frozen Four - Championship",
+      "date": "Apr 8 • 11:59pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/6752227"
+    }
+  ],
+  "pending": [],
+  "failures": 0,
+  "failureEpisode": null,
+  "lastSuccess": "2026-09-17T14:00:38.423Z"
+}
