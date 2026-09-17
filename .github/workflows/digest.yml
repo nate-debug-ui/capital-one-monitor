@@ -4,9 +4,6 @@ on:
     - cron: '30 7 * * *'
       timezone: America/New_York
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/digest.yml'
 permissions:
   contents: read
   issues: write
