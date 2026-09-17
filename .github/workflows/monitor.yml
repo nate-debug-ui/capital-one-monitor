@@ -1,0 +1,33 @@
+name: Capital One new events
+on:
+  schedule:
+    - cron: '0,20,40 8-17 * * *'
+      timezone: America/New_York
+    - cron: '0 18 * * *'
+      timezone: America/New_York
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/monitor.yml'
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: capital-one-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - run: npm test
+      - run: npx playwright install --with-deps chromium
+      - run: npm start
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MONITOR_OWNER: ${{ github.repository_owner }}

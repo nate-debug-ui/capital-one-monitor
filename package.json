@@ -1,0 +1,7 @@
+{
+  "name": "capital-one-monitor",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test", "start": "node monitor.mjs"},
+  "dependencies": {"playwright": "1.58.2"}
+}
