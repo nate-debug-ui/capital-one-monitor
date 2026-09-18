@@ -901,20 +901,6 @@
   },
   "previous": [
     {
-      "id": "7082329",
-      "name": "Eater - A Welcome Home Party for Alfie's",
-      "date": "Sep 17 • 6:30pm",
-      "location": "Alfie's • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7082329"
-    },
-    {
-      "id": "7538224",
-      "name": "NYC: Carbone Fine Food Pizza Tour Hosted by Capital One",
-      "date": "Sep 17 • 7:00pm",
-      "location": "Lucali • Brooklyn, NY",
-      "url": "https://entertainment.capitalone.com/events/7538224"
-    },
-    {
       "id": "7425115",
       "name": "HAMILTON on Broadway and Curated Wine Tasting",
       "date": "Sep 18 • 5:00pm",
@@ -1800,5 +1786,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-17T22:00:49.413Z"
+  "lastSuccess": "2026-09-18T12:21:51.946Z"
 }
