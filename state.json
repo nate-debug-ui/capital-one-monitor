@@ -901,20 +901,6 @@
   },
   "previous": [
     {
-      "id": "7425115",
-      "name": "HAMILTON on Broadway and Curated Wine Tasting",
-      "date": "Sep 18 • 5:00pm",
-      "location": "Richard Rodgers Theatre New York • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7425115"
-    },
-    {
-      "id": "7147770",
-      "name": "2026 iHeartRadioMusic Festival presented by Capital One",
-      "date": "Sep 18 • 7:30pm",
-      "location": "T-Mobile Arena • Las Vegas, NV",
-      "url": "https://entertainment.capitalone.com/events/7147770"
-    },
-    {
       "id": "6845927",
       "name": "The MICHELIN Guide Tuscany Trip",
       "date": "Sep 19 • 4:00pm",
@@ -1786,5 +1772,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-18T21:51:41.365Z"
+  "lastSuccess": "2026-09-19T12:21:12.011Z"
 }
