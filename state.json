@@ -901,13 +901,6 @@
   },
   "previous": [
     {
-      "id": "6845927",
-      "name": "The MICHELIN Guide Tuscany Trip",
-      "date": "Sep 19 • 4:00pm",
-      "location": "Hotel Borgo San Felice • Siena, IT",
-      "url": "https://entertainment.capitalone.com/events/6845927"
-    },
-    {
       "id": "7082389",
       "name": "TPC Craig Ranch Golf Academy with Corey Pavin",
       "date": "Sep 21 • 9:00am",
@@ -1772,5 +1765,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-19T21:59:40.548Z"
+  "lastSuccess": "2026-09-20T12:21:10.282Z"
 }
