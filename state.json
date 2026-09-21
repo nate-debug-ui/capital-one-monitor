@@ -1834,17 +1834,6 @@
   ],
   "pending": [
     {
-      "key": "event-7587527",
-      "title": "New Capital One Exclusive: Ohio State vs. Indiana (Cardholder Exclusive)",
-      "event": {
-        "id": "7587527",
-        "name": "Ohio State vs. Indiana (Cardholder Exclusive)",
-        "date": "Oct 17 • 11:59pm",
-        "location": "Merchants Bank Field at Memorial Stadium • Bloomington, IN",
-        "url": "https://entertainment.capitalone.com/events/7587527"
-      }
-    },
-    {
       "key": "event-7587540",
       "title": "New Capital One Exclusive: Indiana vs. Michigan (Cardholder Exclusive)",
       "event": {
