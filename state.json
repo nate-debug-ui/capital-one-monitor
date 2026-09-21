@@ -1834,17 +1834,6 @@
   ],
   "pending": [
     {
-      "key": "event-7587544",
-      "title": "New Capital One Exclusive: USC vs. Penn State (Cardholder Exclusive)",
-      "event": {
-        "id": "7587544",
-        "name": "USC vs. Penn State (Cardholder Exclusive)",
-        "date": "Oct 10 • 11:59pm",
-        "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
-        "url": "https://entertainment.capitalone.com/events/7587544"
-      }
-    },
-    {
       "key": "event-7587527",
       "title": "New Capital One Exclusive: Ohio State vs. Indiana (Cardholder Exclusive)",
       "event": {
