@@ -26,6 +26,13 @@
     },
     "6": {
       "done": true
+    },
+    "7": {
+      "parts": [
+        "New Capital One Exclusive: Oregon vs. USC (Cardholder Exclusive)\n\nOregon vs. USC (Cardholder Exclusive)\n\nDate: Sep 26 • 11:59pm\n\nLocation: LA Memorial Coliseum • Los Angeles, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7587548\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/7"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
