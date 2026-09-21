@@ -908,7 +908,7 @@
     "7587534": {
       "id": "7587534",
       "name": "Ohio State vs. Iowa (Cardholder Exclusive)",
-      "date": "Oct 3 • 11:59pm",
+      "date": "Oct 3 • 2:30pm",
       "location": "Kinnick Stadium • Iowa City, IA",
       "url": "https://entertainment.capitalone.com/events/7587534"
     },
@@ -929,7 +929,7 @@
     "7587548": {
       "id": "7587548",
       "name": "Oregon vs. USC (Cardholder Exclusive)",
-      "date": "Sep 26 • 11:59pm",
+      "date": "Sep 26 • 4:30pm",
       "location": "LA Memorial Coliseum • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7587548"
     }
@@ -966,7 +966,7 @@
     {
       "id": "7587548",
       "name": "Oregon vs. USC (Cardholder Exclusive)",
-      "date": "Sep 26 • 11:59pm",
+      "date": "Sep 26 • 4:30pm",
       "location": "LA Memorial Coliseum • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7587548"
     },
@@ -999,6 +999,13 @@
       "url": "https://entertainment.capitalone.com/events/7283633"
     },
     {
+      "id": "7587534",
+      "name": "Ohio State vs. Iowa (Cardholder Exclusive)",
+      "date": "Oct 3 • 2:30pm",
+      "location": "Kinnick Stadium • Iowa City, IA",
+      "url": "https://entertainment.capitalone.com/events/7587534"
+    },
+    {
       "id": "6845936",
       "name": "The MICHELIN Guide Bordeaux Trip",
       "date": "Oct 3 • 4:00pm",
@@ -1011,13 +1018,6 @@
       "date": "Oct 3 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283635"
-    },
-    {
-      "id": "7587534",
-      "name": "Ohio State vs. Iowa (Cardholder Exclusive)",
-      "date": "Oct 3 • 11:59pm",
-      "location": "Kinnick Stadium • Iowa City, IA",
-      "url": "https://entertainment.capitalone.com/events/7587534"
     },
     {
       "id": "7283637",
@@ -1835,5 +1835,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-21T21:00:56.909Z"
+  "lastSuccess": "2026-09-21T21:20:59.129Z"
 }
