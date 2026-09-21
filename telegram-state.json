@@ -38,6 +38,13 @@
     },
     "10": {
       "done": true
+    },
+    "11": {
+      "parts": [
+        "New Capital One Exclusive: Indiana vs. Michigan (Cardholder Exclusive)\n\nIndiana vs. Michigan (Cardholder Exclusive)\n\nDate: Oct 24 • 11:59pm\n\nLocation: Michigan Stadium • Ann Arbor, MI\n\nEvent details\nhttps://entertainment.capitalone.com/events/7587540\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/11"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
