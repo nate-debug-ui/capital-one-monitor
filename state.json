@@ -1832,19 +1832,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7587540",
-      "title": "New Capital One Exclusive: Indiana vs. Michigan (Cardholder Exclusive)",
-      "event": {
-        "id": "7587540",
-        "name": "Indiana vs. Michigan (Cardholder Exclusive)",
-        "date": "Oct 24 • 11:59pm",
-        "location": "Michigan Stadium • Ann Arbor, MI",
-        "url": "https://entertainment.capitalone.com/events/7587540"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-21T20:33:12.567Z"
