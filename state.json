@@ -897,6 +897,41 @@
       "date": "Dec 5 • 12:00pm",
       "location": "David H. Koch Theater • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7538335"
+    },
+    "7587527": {
+      "id": "7587527",
+      "name": "Ohio State vs. Indiana (Cardholder Exclusive)",
+      "date": "Oct 17 • 11:59pm",
+      "location": "Merchants Bank Field at Memorial Stadium • Bloomington, IN",
+      "url": "https://entertainment.capitalone.com/events/7587527"
+    },
+    "7587534": {
+      "id": "7587534",
+      "name": "Ohio State vs. Iowa (Cardholder Exclusive)",
+      "date": "Oct 3 • 11:59pm",
+      "location": "Kinnick Stadium • Iowa City, IA",
+      "url": "https://entertainment.capitalone.com/events/7587534"
+    },
+    "7587540": {
+      "id": "7587540",
+      "name": "Indiana vs. Michigan (Cardholder Exclusive)",
+      "date": "Oct 24 • 11:59pm",
+      "location": "Michigan Stadium • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7587540"
+    },
+    "7587544": {
+      "id": "7587544",
+      "name": "USC vs. Penn State (Cardholder Exclusive)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
+      "url": "https://entertainment.capitalone.com/events/7587544"
+    },
+    "7587548": {
+      "id": "7587548",
+      "name": "Oregon vs. USC (Cardholder Exclusive)",
+      "date": "Sep 26 • 11:59pm",
+      "location": "LA Memorial Coliseum • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7587548"
     }
   },
   "previous": [
@@ -927,6 +962,13 @@
       "date": "Sep 24 • 6:30pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7258329"
+    },
+    {
+      "id": "7587548",
+      "name": "Oregon vs. USC (Cardholder Exclusive)",
+      "date": "Sep 26 • 11:59pm",
+      "location": "LA Memorial Coliseum • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7587548"
     },
     {
       "id": "7538229",
@@ -969,6 +1011,13 @@
       "date": "Oct 3 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283635"
+    },
+    {
+      "id": "7587534",
+      "name": "Ohio State vs. Iowa (Cardholder Exclusive)",
+      "date": "Oct 3 • 11:59pm",
+      "location": "Kinnick Stadium • Iowa City, IA",
+      "url": "https://entertainment.capitalone.com/events/7587534"
     },
     {
       "id": "7283637",
@@ -1027,6 +1076,13 @@
       "url": "https://entertainment.capitalone.com/events/7283646"
     },
     {
+      "id": "7587544",
+      "name": "USC vs. Penn State (Cardholder Exclusive)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
+      "url": "https://entertainment.capitalone.com/events/7587544"
+    },
+    {
       "id": "7283660",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 11 • 2:00pm",
@@ -1046,6 +1102,13 @@
       "date": "Oct 15 • 6:30pm",
       "location": "Muhajir • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7416285"
+    },
+    {
+      "id": "7587527",
+      "name": "Ohio State vs. Indiana (Cardholder Exclusive)",
+      "date": "Oct 17 • 11:59pm",
+      "location": "Merchants Bank Field at Memorial Stadium • Bloomington, IN",
+      "url": "https://entertainment.capitalone.com/events/7587527"
     },
     {
       "id": "7453787",
@@ -1074,6 +1137,13 @@
       "date": "Oct 22 • 6:30pm",
       "location": "Jean-Georges • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7416429"
+    },
+    {
+      "id": "7587540",
+      "name": "Indiana vs. Michigan (Cardholder Exclusive)",
+      "date": "Oct 24 • 11:59pm",
+      "location": "Michigan Stadium • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7587540"
     },
     {
       "id": "7419803",
@@ -1762,8 +1832,64 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7587548",
+      "title": "New Capital One Exclusive: Oregon vs. USC (Cardholder Exclusive)",
+      "event": {
+        "id": "7587548",
+        "name": "Oregon vs. USC (Cardholder Exclusive)",
+        "date": "Sep 26 • 11:59pm",
+        "location": "LA Memorial Coliseum • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7587548"
+      }
+    },
+    {
+      "key": "event-7587534",
+      "title": "New Capital One Exclusive: Ohio State vs. Iowa (Cardholder Exclusive)",
+      "event": {
+        "id": "7587534",
+        "name": "Ohio State vs. Iowa (Cardholder Exclusive)",
+        "date": "Oct 3 • 11:59pm",
+        "location": "Kinnick Stadium • Iowa City, IA",
+        "url": "https://entertainment.capitalone.com/events/7587534"
+      }
+    },
+    {
+      "key": "event-7587544",
+      "title": "New Capital One Exclusive: USC vs. Penn State (Cardholder Exclusive)",
+      "event": {
+        "id": "7587544",
+        "name": "USC vs. Penn State (Cardholder Exclusive)",
+        "date": "Oct 10 • 11:59pm",
+        "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
+        "url": "https://entertainment.capitalone.com/events/7587544"
+      }
+    },
+    {
+      "key": "event-7587527",
+      "title": "New Capital One Exclusive: Ohio State vs. Indiana (Cardholder Exclusive)",
+      "event": {
+        "id": "7587527",
+        "name": "Ohio State vs. Indiana (Cardholder Exclusive)",
+        "date": "Oct 17 • 11:59pm",
+        "location": "Merchants Bank Field at Memorial Stadium • Bloomington, IN",
+        "url": "https://entertainment.capitalone.com/events/7587527"
+      }
+    },
+    {
+      "key": "event-7587540",
+      "title": "New Capital One Exclusive: Indiana vs. Michigan (Cardholder Exclusive)",
+      "event": {
+        "id": "7587540",
+        "name": "Indiana vs. Michigan (Cardholder Exclusive)",
+        "date": "Oct 24 • 11:59pm",
+        "location": "Michigan Stadium • Ann Arbor, MI",
+        "url": "https://entertainment.capitalone.com/events/7587540"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-21T20:17:19.034Z"
+  "lastSuccess": "2026-09-21T20:33:12.567Z"
 }
