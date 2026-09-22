@@ -185,6 +185,13 @@
     },
     "59": {
       "done": true
+    },
+    "60": {
+      "parts": [
+        "New Capital One Exclusive: Vancouver Canucks at New Jersey Devils\n\nVancouver Canucks at New Jersey Devils\n\nDate: Oct 10 • 3:30pm\n\nLocation: Prudential Center • Newark, NJ\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301412\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/60"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
