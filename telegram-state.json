@@ -464,6 +464,13 @@
     },
     "152": {
       "done": true
+    },
+    "153": {
+      "parts": [
+        "New Capital One Exclusive: Utah Mammoth at Pittsburgh Penguins\n\nUtah Mammoth at Pittsburgh Penguins\n\nDate: Oct 29 • 7:00pm\n\nLocation: PPG Paints Arena • Pittsburgh, PA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301851\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/153"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
