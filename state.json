@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300518",
-      "title": "New Capital One Exclusive: Dallas Stars at Pittsburgh Penguins",
-      "event": {
-        "id": "7300518",
-        "name": "Dallas Stars at Pittsburgh Penguins",
-        "date": "Oct 10 • 7:00pm",
-        "location": "PPG Paints Arena • Pittsburgh, PA",
-        "url": "https://entertainment.capitalone.com/events/7300518"
-      }
-    },
-    {
       "key": "event-7301394",
       "title": "New Capital One Exclusive: Tampa Bay Lightning at New York Islanders",
       "event": {
