@@ -263,6 +263,13 @@
     },
     "85": {
       "done": true
+    },
+    "86": {
+      "parts": [
+        "New Capital One Exclusive: Vancouver Canucks at Florida Panthers\n\nVancouver Canucks at Florida Panthers\n\nDate: Oct 15 • 7:00pm\n\nLocation: Amerant Bank Arena • Sunrise, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302213\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/86"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
