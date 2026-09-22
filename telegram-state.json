@@ -230,6 +230,13 @@
     },
     "74": {
       "done": true
+    },
+    "75": {
+      "parts": [
+        "New Capital One Exclusive: Calgary Flames at Anaheim Ducks\n\nCalgary Flames at Anaheim Ducks\n\nDate: Oct 13 • 6:45pm\n\nLocation: Honda Center • Anaheim, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302527\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/75"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
