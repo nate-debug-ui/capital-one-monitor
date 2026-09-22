@@ -206,6 +206,13 @@
     },
     "66": {
       "done": true
+    },
+    "67": {
+      "parts": [
+        "New Capital One Exclusive: Dallas Stars at Pittsburgh Penguins\n\nDallas Stars at Pittsburgh Penguins\n\nDate: Oct 10 • 7:00pm\n\nLocation: PPG Paints Arena • Pittsburgh, PA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300518\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/67"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
