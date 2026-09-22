@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300911",
-      "title": "New Capital One Exclusive: Boston Bruins at Los Angeles Kings",
-      "event": {
-        "id": "7300911",
-        "name": "Boston Bruins at Los Angeles Kings",
-        "date": "Oct 17 • 6:00pm",
-        "location": "Crypto.com Arena • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7300911"
-      }
-    },
-    {
       "key": "event-7300232",
       "title": "New Capital One Exclusive: Dallas Stars at Chicago Blackhawks",
       "event": {
