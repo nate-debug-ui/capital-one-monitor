@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300917",
-      "title": "New Capital One Exclusive: Los Angeles Kings at Washington Capitals",
-      "event": {
-        "id": "7300917",
-        "name": "Los Angeles Kings at Washington Capitals",
-        "date": "Oct 20 • 7:00pm",
-        "location": "Capital One Arena • Washington, DC",
-        "url": "https://entertainment.capitalone.com/events/7300917"
-      }
-    },
-    {
       "key": "event-7301799",
       "title": "New Capital One Exclusive: Philadelphia Flyers at Washington Capitals",
       "event": {
