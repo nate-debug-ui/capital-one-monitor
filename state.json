@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300799",
-      "title": "New Capital One Exclusive: Philadelphia Flyers at Detroit Red Wings",
-      "event": {
-        "id": "7300799",
-        "name": "Philadelphia Flyers at Detroit Red Wings",
-        "date": "Oct 15 • 7:30pm",
-        "location": "Little Caesars Arena • Detroit, MI",
-        "url": "https://entertainment.capitalone.com/events/7300799"
-      }
-    },
-    {
       "key": "event-7302517",
       "title": "New Capital One Exclusive: Boston Bruins at Anaheim Ducks",
       "event": {
