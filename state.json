@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292407",
-      "title": "New Capital One Exclusive: Chicago Blackhawks at Buffalo Sabres",
-      "event": {
-        "id": "7292407",
-        "name": "Chicago Blackhawks at Buffalo Sabres",
-        "date": "Oct 3 • 7:00pm",
-        "location": "KeyBank Center • Buffalo, NY",
-        "url": "https://entertainment.capitalone.com/events/7292407"
-      }
-    },
-    {
       "key": "event-7292429",
       "title": "New Capital One Exclusive: New Jersey Devils at New York Islanders",
       "event": {
