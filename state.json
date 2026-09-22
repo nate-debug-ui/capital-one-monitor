@@ -4114,19 +4114,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7301422",
-      "title": "New Capital One Exclusive: New York Rangers at Washington Capitals",
-      "event": {
-        "id": "7301422",
-        "name": "New York Rangers at Washington Capitals",
-        "date": "Oct 9 • 7:00pm",
-        "location": "Capital One Arena • Washington, DC",
-        "url": "https://entertainment.capitalone.com/events/7301422"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-22T18:26:45.937Z"
