@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301837",
-      "title": "New Capital One Exclusive: Pittsburgh Penguins at Columbus Blue Jackets",
-      "event": {
-        "id": "7301837",
-        "name": "Pittsburgh Penguins at Columbus Blue Jackets",
-        "date": "Oct 9 • 7:00pm",
-        "location": "Nationwide Arena • Columbus, OH",
-        "url": "https://entertainment.capitalone.com/events/7301837"
-      }
-    },
-    {
       "key": "event-7300793",
       "title": "New Capital One Exclusive: Seattle Kraken at Detroit Red Wings",
       "event": {
