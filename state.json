@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300905",
-      "title": "New Capital One Exclusive: Edmonton Oilers at San Jose Sharks",
-      "event": {
-        "id": "7300905",
-        "name": "Edmonton Oilers at San Jose Sharks",
-        "date": "Oct 10 • 1:00pm",
-        "location": "SAP Center • San Jose, CA",
-        "url": "https://entertainment.capitalone.com/events/7300905"
-      }
-    },
-    {
       "key": "event-7301412",
       "title": "New Capital One Exclusive: Vancouver Canucks at New Jersey Devils",
       "event": {
