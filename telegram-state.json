@@ -242,6 +242,13 @@
     },
     "78": {
       "done": true
+    },
+    "79": {
+      "parts": [
+        "New Capital One Exclusive: Pittsburgh Penguins at Chicago Blackhawks\n\nPittsburgh Penguins at Chicago Blackhawks\n\nDate: Oct 13 • 7:00pm\n\nLocation: United Center • Chicago, IL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300223\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/79"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
