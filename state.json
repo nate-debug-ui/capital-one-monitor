@@ -4093,19 +4093,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7300437",
-      "title": "New Capital One Exclusive: Calgary Flames at Colorado Avalanche",
-      "event": {
-        "id": "7300437",
-        "name": "Calgary Flames at Colorado Avalanche",
-        "date": "Oct 31 • 8:00pm",
-        "location": "Ball Arena • Denver, CO",
-        "url": "https://entertainment.capitalone.com/events/7300437"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-22T18:02:24.314Z"
