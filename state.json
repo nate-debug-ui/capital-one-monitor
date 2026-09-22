@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302527",
-      "title": "New Capital One Exclusive: Calgary Flames at Anaheim Ducks",
-      "event": {
-        "id": "7302527",
-        "name": "Calgary Flames at Anaheim Ducks",
-        "date": "Oct 13 • 6:45pm",
-        "location": "Honda Center • Anaheim, CA",
-        "url": "https://entertainment.capitalone.com/events/7302527"
-      }
-    },
-    {
       "key": "event-7300227",
       "title": "New Capital One Exclusive: Washington Capitals at Carolina Hurricanes",
       "event": {
