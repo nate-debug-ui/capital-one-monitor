@@ -257,6 +257,13 @@
     },
     "83": {
       "done": true
+    },
+    "84": {
+      "parts": [
+        "New Capital One Exclusive: Dallas Stars at Colorado Avalanche\n\nDallas Stars at Colorado Avalanche\n\nDate: Oct 14 • 6:30pm\n\nLocation: Ball Arena • Denver, CO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300397\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/84"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
