@@ -461,6 +461,13 @@
     },
     "151": {
       "done": true
+    },
+    "152": {
+      "parts": [
+        "New Capital One Exclusive: Vancouver Canucks at San Jose Sharks\n\nVancouver Canucks at San Jose Sharks\n\nDate: Oct 29 • 7:00pm\n\nLocation: SAP Center • San Jose, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301909\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/152"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
