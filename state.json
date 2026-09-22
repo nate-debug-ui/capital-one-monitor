@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301428",
-      "title": "New Capital One Exclusive: New York Rangers at New Jersey Devils",
-      "event": {
-        "id": "7301428",
-        "name": "New York Rangers at New Jersey Devils",
-        "date": "Oct 15 • 7:00pm",
-        "location": "Prudential Center • Newark, NJ",
-        "url": "https://entertainment.capitalone.com/events/7301428"
-      }
-    },
-    {
       "key": "event-7301287",
       "title": "New Capital One Exclusive: San Jose Sharks at Nashville Predators",
       "event": {
