@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301412",
-      "title": "New Capital One Exclusive: Vancouver Canucks at New Jersey Devils",
-      "event": {
-        "id": "7301412",
-        "name": "Vancouver Canucks at New Jersey Devils",
-        "date": "Oct 10 • 3:30pm",
-        "location": "Prudential Center • Newark, NJ",
-        "url": "https://entertainment.capitalone.com/events/7301412"
-      }
-    },
-    {
       "key": "event-7300385",
       "title": "New Capital One Exclusive: Toronto Maple Leafs at Colorado Avalanche",
       "event": {
