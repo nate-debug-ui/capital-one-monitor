@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301799",
-      "title": "New Capital One Exclusive: Philadelphia Flyers at Washington Capitals",
-      "event": {
-        "id": "7301799",
-        "name": "Philadelphia Flyers at Washington Capitals",
-        "date": "Oct 28 • 7:30pm",
-        "location": "Capital One Arena • Washington, DC",
-        "url": "https://entertainment.capitalone.com/events/7301799"
-      }
-    },
-    {
       "key": "event-7301447",
       "title": "New Capital One Exclusive: New Jersey Devils at Vegas Golden Knights",
       "event": {
