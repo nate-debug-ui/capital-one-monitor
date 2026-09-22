@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300494",
-      "title": "New Capital One Exclusive: Dallas Stars at Nashville Predators",
-      "event": {
-        "id": "7300494",
-        "name": "Dallas Stars at Nashville Predators",
-        "date": "Oct 3 • 7:00pm",
-        "location": "Bridgestone Arena • Nashville, TN",
-        "url": "https://entertainment.capitalone.com/events/7300494"
-      }
-    },
-    {
       "key": "event-7300368",
       "title": "New Capital One Exclusive: St. Louis Blues at Colorado Avalanche",
       "event": {
