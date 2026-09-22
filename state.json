@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300409",
-      "title": "New Capital One Exclusive: Colorado Avalanche at Philadelphia Flyers",
-      "event": {
-        "id": "7300409",
-        "name": "Colorado Avalanche at Philadelphia Flyers",
-        "date": "Oct 19 • 7:00pm",
-        "location": "Xfinity Mobile Arena • Philadelphia, PA",
-        "url": "https://entertainment.capitalone.com/events/7300409"
-      }
-    },
-    {
       "key": "event-7300803",
       "title": "New Capital One Exclusive: Detroit Red Wings at Seattle Kraken",
       "event": {
