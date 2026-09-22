@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302121",
-      "title": "New Capital One Exclusive: Toronto Maple Leafs at Seattle Kraken",
-      "event": {
-        "id": "7302121",
-        "name": "Toronto Maple Leafs at Seattle Kraken",
-        "date": "Oct 28 • 7:00pm",
-        "location": "Climate Pledge Arena • Seattle, WA",
-        "url": "https://entertainment.capitalone.com/events/7302121"
-      }
-    },
-    {
       "key": "event-7300431",
       "title": "New Capital One Exclusive: New Jersey Devils at Colorado Avalanche",
       "event": {
