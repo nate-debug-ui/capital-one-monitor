@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301843",
-      "title": "New Capital One Exclusive: Pittsburgh Penguins at Utah Mammoth",
-      "event": {
-        "id": "7301843",
-        "name": "Pittsburgh Penguins at Utah Mammoth",
-        "date": "Oct 19 • 7:00pm",
-        "location": "Delta Center • Salt Lake City, UT",
-        "url": "https://entertainment.capitalone.com/events/7301843"
-      }
-    },
-    {
       "key": "event-7300409",
       "title": "New Capital One Exclusive: Colorado Avalanche at Philadelphia Flyers",
       "event": {
