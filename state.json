@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301441",
-      "title": "New Capital One Exclusive: Anaheim Ducks at New Jersey Devils",
-      "event": {
-        "id": "7301441",
-        "name": "Anaheim Ducks at New Jersey Devils",
-        "date": "Oct 22 • 7:00pm",
-        "location": "Prudential Center • Newark, NJ",
-        "url": "https://entertainment.capitalone.com/events/7301441"
-      }
-    },
-    {
       "key": "event-7301291",
       "title": "New Capital One Exclusive: Nashville Predators at Boston Bruins",
       "event": {
