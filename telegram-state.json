@@ -350,6 +350,13 @@
     },
     "114": {
       "done": true
+    },
+    "115": {
+      "parts": [
+        "New Capital One Exclusive: Philadelphia Flyers at Buffalo Sabres\n\nPhiladelphia Flyers at Buffalo Sabres\n\nDate: Oct 21 • 7:30pm\n\nLocation: KeyBank Center • Buffalo, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301793\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/115"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
