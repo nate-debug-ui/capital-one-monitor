@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300923",
-      "title": "New Capital One Exclusive: Los Angeles Kings at New York Islanders",
-      "event": {
-        "id": "7300923",
-        "name": "Los Angeles Kings at New York Islanders",
-        "date": "Oct 22 • 7:30pm",
-        "location": "UBS Arena • Elmont, NY",
-        "url": "https://entertainment.capitalone.com/events/7300923"
-      }
-    },
-    {
       "key": "event-7300419",
       "title": "New Capital One Exclusive: Tampa Bay Lightning at Colorado Avalanche",
       "event": {
