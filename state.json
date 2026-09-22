@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302119",
-      "title": "New Capital One Exclusive: Tampa Bay Lightning at Utah Mammoth",
-      "event": {
-        "id": "7302119",
-        "name": "Tampa Bay Lightning at Utah Mammoth",
-        "date": "Oct 24 • 7:00pm",
-        "location": "Delta Center • Salt Lake City, UT",
-        "url": "https://entertainment.capitalone.com/events/7302119"
-      }
-    },
-    {
       "key": "event-7301899",
       "title": "New Capital One Exclusive: San Jose Sharks at Boston Bruins",
       "event": {
