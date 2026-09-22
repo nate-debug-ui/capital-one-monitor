@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300237",
-      "title": "New Capital One Exclusive: Montreal Canadiens at Chicago Blackhawks",
-      "event": {
-        "id": "7300237",
-        "name": "Montreal Canadiens at Chicago Blackhawks",
-        "date": "Oct 23 • 7:00pm",
-        "location": "United Center • Chicago, IL",
-        "url": "https://entertainment.capitalone.com/events/7300237"
-      }
-    },
-    {
       "key": "event-7301795",
       "title": "New Capital One Exclusive: Anaheim Ducks at Philadelphia Flyers",
       "event": {
