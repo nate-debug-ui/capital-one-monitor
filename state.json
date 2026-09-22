@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302419",
-      "title": "New Capital One Exclusive: Calgary Flames at Vegas Golden Knights",
-      "event": {
-        "id": "7302419",
-        "name": "Calgary Flames at Vegas Golden Knights",
-        "date": "Oct 15 • 7:00pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7302419"
-      }
-    },
-    {
       "key": "event-7302213",
       "title": "New Capital One Exclusive: Vancouver Canucks at Florida Panthers",
       "event": {
