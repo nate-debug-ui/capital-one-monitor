@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292405",
-      "title": "New Capital One Exclusive: New York Rangers at Boston Bruins",
-      "event": {
-        "id": "7292405",
-        "name": "New York Rangers at Boston Bruins",
-        "date": "Sep 29 • 8:00pm",
-        "location": "TD Garden • Boston, MA",
-        "url": "https://entertainment.capitalone.com/events/7292405"
-      }
-    },
-    {
       "key": "event-7292434",
       "title": "New Capital One Exclusive: Pittsburgh Penguins at Philadelphia Flyers",
       "event": {
