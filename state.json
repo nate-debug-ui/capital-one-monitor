@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300897",
-      "title": "New Capital One Exclusive: Edmonton Oilers at Anaheim Ducks",
-      "event": {
-        "id": "7300897",
-        "name": "Edmonton Oilers at Anaheim Ducks",
-        "date": "Oct 7 • 7:00pm",
-        "location": "Honda Center • Anaheim, CA",
-        "url": "https://entertainment.capitalone.com/events/7300897"
-      }
-    },
-    {
       "key": "event-7302493",
       "title": "New Capital One Exclusive: Utah Mammoth at Boston Bruins",
       "event": {
