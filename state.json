@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300901",
-      "title": "New Capital One Exclusive: Los Angeles Kings at Vegas Golden Knights",
-      "event": {
-        "id": "7300901",
-        "name": "Los Angeles Kings at Vegas Golden Knights",
-        "date": "Oct 10 • 7:00pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7300901"
-      }
-    },
-    {
       "key": "event-7300518",
       "title": "New Capital One Exclusive: Dallas Stars at Pittsburgh Penguins",
       "event": {
