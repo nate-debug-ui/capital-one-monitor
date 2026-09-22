@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301787",
-      "title": "New Capital One Exclusive: Philadelphia Flyers at Tampa Bay Lightning",
-      "event": {
-        "id": "7301787",
-        "name": "Philadelphia Flyers at Tampa Bay Lightning",
-        "date": "Oct 5 • 7:00pm",
-        "location": "Benchmark International Arena • Tampa, FL",
-        "url": "https://entertainment.capitalone.com/events/7301787"
-      }
-    },
-    {
       "key": "event-7300504",
       "title": "New Capital One Exclusive: San Jose Sharks at Dallas Stars",
       "event": {
