@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300947",
-      "title": "New Capital One Exclusive: Edmonton Oilers at New York Islanders",
-      "event": {
-        "id": "7300947",
-        "name": "Edmonton Oilers at New York Islanders",
-        "date": "Oct 31 • 2:00pm",
-        "location": "UBS Arena • Elmont, NY",
-        "url": "https://entertainment.capitalone.com/events/7300947"
-      }
-    },
-    {
       "key": "event-7300571",
       "title": "New Capital One Exclusive: Columbus Blue Jackets at Dallas Stars",
       "event": {
