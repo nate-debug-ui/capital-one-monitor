@@ -2399,20 +2399,6 @@
       "url": "https://entertainment.capitalone.com/events/7082398"
     },
     {
-      "id": "7433044",
-      "name": "Orlando Magic at Washington Wizards",
-      "date": "Nov 22 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7433044"
-    },
-    {
-      "id": "7538319",
-      "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
-      "date": "Nov 24 • 8:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538319"
-    },
-    {
       "id": "7283678",
       "name": "HELL'S KITCHEN at The National",
       "date": "Nov 27 • 7:30pm",
@@ -2969,5 +2955,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-22T21:47:27.158Z"
+  "lastSuccess": "2026-09-22T22:00:48.168Z"
 }
