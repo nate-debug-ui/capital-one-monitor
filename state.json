@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302109",
-      "title": "New Capital One Exclusive: Seattle Kraken at Tampa Bay Lightning",
-      "event": {
-        "id": "7302109",
-        "name": "Seattle Kraken at Tampa Bay Lightning",
-        "date": "Oct 15 • 7:00pm",
-        "location": "Benchmark International Arena • Tampa, FL",
-        "url": "https://entertainment.capitalone.com/events/7302109"
-      }
-    },
-    {
       "key": "event-7302033",
       "title": "New Capital One Exclusive: St. Louis Blues at Minnesota Wild",
       "event": {
