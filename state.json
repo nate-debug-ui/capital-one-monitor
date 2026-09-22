@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292425",
-      "title": "New Capital One Exclusive: Boston Bruins at Minnesota Wild",
-      "event": {
-        "id": "7292425",
-        "name": "Boston Bruins at Minnesota Wild",
-        "date": "Oct 3 • 7:00pm",
-        "location": "Grand Casino Arena • Saint Paul, MN",
-        "url": "https://entertainment.capitalone.com/events/7292425"
-      }
-    },
-    {
       "key": "event-7292407",
       "title": "New Capital One Exclusive: Chicago Blackhawks at Buffalo Sabres",
       "event": {
