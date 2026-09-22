@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301447",
-      "title": "New Capital One Exclusive: New Jersey Devils at Vegas Golden Knights",
-      "event": {
-        "id": "7301447",
-        "name": "New Jersey Devils at Vegas Golden Knights",
-        "date": "Oct 30 • 3:00pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7301447"
-      }
-    },
-    {
       "key": "event-7301713",
       "title": "New Capital One Exclusive: Ottawa Senators at San Jose Sharks",
       "event": {
