@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302033",
-      "title": "New Capital One Exclusive: St. Louis Blues at Minnesota Wild",
-      "event": {
-        "id": "7302033",
-        "name": "St. Louis Blues at Minnesota Wild",
-        "date": "Oct 15 • 7:00pm",
-        "location": "Grand Casino Arena • Saint Paul, MN",
-        "url": "https://entertainment.capitalone.com/events/7302033"
-      }
-    },
-    {
       "key": "event-7301428",
       "title": "New Capital One Exclusive: New York Rangers at New Jersey Devils",
       "event": {
