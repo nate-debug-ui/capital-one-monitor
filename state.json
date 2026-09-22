@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300907",
-      "title": "New Capital One Exclusive: Edmonton Oilers at Los Angeles Kings",
-      "event": {
-        "id": "7300907",
-        "name": "Edmonton Oilers at Los Angeles Kings",
-        "date": "Oct 13 • 7:30pm",
-        "location": "Crypto.com Arena • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7300907"
-      }
-    },
-    {
       "key": "event-7301396",
       "title": "New Capital One Exclusive: Vancouver Canucks at New York Islanders",
       "event": {
