@@ -296,6 +296,13 @@
     },
     "96": {
       "done": true
+    },
+    "97": {
+      "parts": [
+        "New Capital One Exclusive: Boston Bruins at Los Angeles Kings\n\nBoston Bruins at Los Angeles Kings\n\nDate: Oct 17 • 6:00pm\n\nLocation: Crypto.com Arena • Los Angeles, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300911\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/97"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
