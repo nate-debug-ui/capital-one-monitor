@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301404",
-      "title": "New Capital One Exclusive: New York Islanders at Minnesota Wild",
-      "event": {
-        "id": "7301404",
-        "name": "New York Islanders at Minnesota Wild",
-        "date": "Oct 29 • 7:00pm",
-        "location": "Grand Casino Arena • Saint Paul, MN",
-        "url": "https://entertainment.capitalone.com/events/7301404"
-      }
-    },
-    {
       "key": "event-7301297",
       "title": "New Capital One Exclusive: Washington Capitals at Nashville Predators",
       "event": {
