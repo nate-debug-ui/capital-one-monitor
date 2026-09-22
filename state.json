@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300217",
-      "title": "New Capital One Exclusive: Chicago Blackhawks at New York Islanders",
-      "event": {
-        "id": "7300217",
-        "name": "Chicago Blackhawks at New York Islanders",
-        "date": "Oct 8 • 7:30pm",
-        "location": "UBS Arena • Elmont, NY",
-        "url": "https://entertainment.capitalone.com/events/7300217"
-      }
-    },
-    {
       "key": "event-7301837",
       "title": "New Capital One Exclusive: Pittsburgh Penguins at Columbus Blue Jackets",
       "event": {
