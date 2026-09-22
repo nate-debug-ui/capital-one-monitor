@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302101",
-      "title": "New Capital One Exclusive: Toronto Maple Leafs at Vegas Golden Knights",
-      "event": {
-        "id": "7302101",
-        "name": "Toronto Maple Leafs at Vegas Golden Knights",
-        "date": "Oct 8 • 7:00pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7302101"
-      }
-    },
-    {
       "key": "event-7300510",
       "title": "New Capital One Exclusive: Dallas Stars at Buffalo Sabres",
       "event": {
