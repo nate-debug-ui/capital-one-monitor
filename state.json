@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301793",
-      "title": "New Capital One Exclusive: Philadelphia Flyers at Buffalo Sabres",
-      "event": {
-        "id": "7301793",
-        "name": "Philadelphia Flyers at Buffalo Sabres",
-        "date": "Oct 21 • 7:30pm",
-        "location": "KeyBank Center • Buffalo, NY",
-        "url": "https://entertainment.capitalone.com/events/7301793"
-      }
-    },
-    {
       "key": "event-7302403",
       "title": "New Capital One Exclusive: Utah Mammoth at Seattle Kraken",
       "event": {
