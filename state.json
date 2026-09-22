@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302417",
-      "title": "New Capital One Exclusive: Buffalo Sabres at Washington Capitals",
-      "event": {
-        "id": "7302417",
-        "name": "Buffalo Sabres at Washington Capitals",
-        "date": "Oct 24 • 7:00pm",
-        "location": "Capital One Arena • Washington, DC",
-        "url": "https://entertainment.capitalone.com/events/7302417"
-      }
-    },
-    {
       "key": "event-7302307",
       "title": "New Capital One Exclusive: Minnesota Wild at Seattle Kraken",
       "event": {
