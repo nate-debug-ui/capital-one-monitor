@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300921",
-      "title": "New Capital One Exclusive: Edmonton Oilers at Utah Mammoth",
-      "event": {
-        "id": "7300921",
-        "name": "Edmonton Oilers at Utah Mammoth",
-        "date": "Oct 17 • 8:00pm",
-        "location": "Delta Center • Salt Lake City, UT",
-        "url": "https://entertainment.capitalone.com/events/7300921"
-      }
-    },
-    {
       "key": "event-7302291",
       "title": "New Capital One Exclusive: Columbus Blue Jackets at Minnesota Wild",
       "event": {
