@@ -304,11 +304,7 @@
       "done": true
     },
     "99": {
-      "parts": [
-        "New Capital One Exclusive: Pittsburgh Penguins at Vegas Golden Knights\n\nPittsburgh Penguins at Vegas Golden Knights\n\nDate: Oct 17 • 7:00pm\n\nLocation: T-Mobile Arena • Las Vegas, NV\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301841\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/99"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
