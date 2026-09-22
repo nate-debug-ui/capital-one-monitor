@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301438",
-      "title": "New Capital One Exclusive: New York Rangers at Columbus Blue Jackets",
-      "event": {
-        "id": "7301438",
-        "name": "New York Rangers at Columbus Blue Jackets",
-        "date": "Oct 17 • 7:00pm",
-        "location": "Nationwide Arena • Columbus, OH",
-        "url": "https://entertainment.capitalone.com/events/7301438"
-      }
-    },
-    {
       "key": "event-7301289",
       "title": "New Capital One Exclusive: St. Louis Blues at Nashville Predators",
       "event": {
