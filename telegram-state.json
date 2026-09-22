@@ -310,11 +310,7 @@
       "done": true
     },
     "101": {
-      "parts": [
-        "New Capital One Exclusive: New York Rangers at Columbus Blue Jackets\n\nNew York Rangers at Columbus Blue Jackets\n\nDate: Oct 17 • 7:00pm\n\nLocation: Nationwide Arena • Columbus, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301438\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/101"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
