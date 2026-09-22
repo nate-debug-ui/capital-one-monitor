@@ -344,6 +344,13 @@
     },
     "112": {
       "done": true
+    },
+    "113": {
+      "parts": [
+        "New Capital One Exclusive: Colorado Avalanche at New Jersey Devils\n\nColorado Avalanche at New Jersey Devils\n\nDate: Oct 20 • 7:00pm\n\nLocation: Prudential Center • Newark, NJ\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300414\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/113"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
