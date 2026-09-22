@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300951",
-      "title": "New Capital One Exclusive: Buffalo Sabres at Los Angeles Kings",
-      "event": {
-        "id": "7300951",
-        "name": "Buffalo Sabres at Los Angeles Kings",
-        "date": "Oct 31 • 1:00pm",
-        "location": "Crypto.com Arena • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7300951"
-      }
-    },
-    {
       "key": "event-7300811",
       "title": "New Capital One Exclusive: St. Louis Blues at Detroit Red Wings",
       "event": {
