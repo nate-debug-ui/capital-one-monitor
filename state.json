@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300414",
-      "title": "New Capital One Exclusive: Colorado Avalanche at New Jersey Devils",
-      "event": {
-        "id": "7300414",
-        "name": "Colorado Avalanche at New Jersey Devils",
-        "date": "Oct 20 • 7:00pm",
-        "location": "Prudential Center • Newark, NJ",
-        "url": "https://entertainment.capitalone.com/events/7300414"
-      }
-    },
-    {
       "key": "event-7302115",
       "title": "New Capital One Exclusive: Tampa Bay Lightning at Vegas Golden Knights",
       "event": {
