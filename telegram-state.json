@@ -227,6 +227,13 @@
     },
     "73": {
       "done": true
+    },
+    "74": {
+      "parts": [
+        "New Capital One Exclusive: Florida Panthers at Columbus Blue Jackets\n\nFlorida Panthers at Columbus Blue Jackets\n\nDate: Oct 13 • 6:15pm\n\nLocation: Nationwide Arena • Columbus, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302273\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/74"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
