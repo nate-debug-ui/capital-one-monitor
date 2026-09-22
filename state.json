@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302113",
-      "title": "New Capital One Exclusive: Toronto Maple Leafs at Columbus Blue Jackets",
-      "event": {
-        "id": "7302113",
-        "name": "Toronto Maple Leafs at Columbus Blue Jackets",
-        "date": "Oct 20 • 7:00pm",
-        "location": "Nationwide Arena • Columbus, OH",
-        "url": "https://entertainment.capitalone.com/events/7302113"
-      }
-    },
-    {
       "key": "event-7302035",
       "title": "New Capital One Exclusive: Winnipeg Jets at St. Louis Blues",
       "event": {
