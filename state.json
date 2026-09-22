@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302105",
-      "title": "New Capital One Exclusive: Toronto Maple Leafs at Utah Mammoth",
-      "event": {
-        "id": "7302105",
-        "name": "Toronto Maple Leafs at Utah Mammoth",
-        "date": "Oct 13 • 7:00pm",
-        "location": "Delta Center • Salt Lake City, UT",
-        "url": "https://entertainment.capitalone.com/events/7302105"
-      }
-    },
-    {
       "key": "event-7301791",
       "title": "New Capital One Exclusive: Seattle Kraken at Philadelphia Flyers",
       "event": {
