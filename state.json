@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300535",
-      "title": "New Capital One Exclusive: Winnipeg Jets at Dallas Stars",
-      "event": {
-        "id": "7300535",
-        "name": "Winnipeg Jets at Dallas Stars",
-        "date": "Oct 22 • 7:00pm",
-        "location": "American Airlines Center - TX • Dallas, TX",
-        "url": "https://entertainment.capitalone.com/events/7300535"
-      }
-    },
-    {
       "key": "event-7300923",
       "title": "New Capital One Exclusive: Los Angeles Kings at New York Islanders",
       "event": {
