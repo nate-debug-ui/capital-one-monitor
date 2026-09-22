@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300213",
-      "title": "New Capital One Exclusive: Washington Capitals at Carolina Hurricanes",
-      "event": {
-        "id": "7300213",
-        "name": "Washington Capitals at Carolina Hurricanes",
-        "date": "Oct 2 • 7:00pm",
-        "location": "Lenovo Center • Raleigh, NC",
-        "url": "https://entertainment.capitalone.com/events/7300213"
-      }
-    },
-    {
       "key": "event-7292415",
       "title": "New Capital One Exclusive: St. Louis Blues at Dallas Stars",
       "event": {
