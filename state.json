@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302517",
-      "title": "New Capital One Exclusive: Boston Bruins at Anaheim Ducks",
-      "event": {
-        "id": "7302517",
-        "name": "Boston Bruins at Anaheim Ducks",
-        "date": "Oct 16 • 7:00pm",
-        "location": "Honda Center • Anaheim, CA",
-        "url": "https://entertainment.capitalone.com/events/7302517"
-      }
-    },
-    {
       "key": "event-7300403",
       "title": "New Capital One Exclusive: Pittsburgh Penguins at Colorado Avalanche",
       "event": {
