@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301402",
-      "title": "New Capital One Exclusive: Anaheim Ducks at New York Islanders",
-      "event": {
-        "id": "7301402",
-        "name": "Anaheim Ducks at New York Islanders",
-        "date": "Oct 20 • 7:00pm",
-        "location": "UBS Arena • Elmont, NY",
-        "url": "https://entertainment.capitalone.com/events/7301402"
-      }
-    },
-    {
       "key": "event-7300529",
       "title": "New Capital One Exclusive: Boston Bruins at Dallas Stars",
       "event": {
