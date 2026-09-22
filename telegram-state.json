@@ -92,6 +92,13 @@
     },
     "28": {
       "done": true
+    },
+    "29": {
+      "parts": [
+        "New Capital One Exclusive: Dallas Stars at Nashville Predators\n\nDallas Stars at Nashville Predators\n\nDate: Oct 3 • 7:00pm\n\nLocation: Bridgestone Arena • Nashville, TN\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300494\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/29"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
