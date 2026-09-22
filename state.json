@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301899",
-      "title": "New Capital One Exclusive: San Jose Sharks at Boston Bruins",
-      "event": {
-        "id": "7301899",
-        "name": "San Jose Sharks at Boston Bruins",
-        "date": "Oct 24 • 7:00pm",
-        "location": "TD Garden • Boston, MA",
-        "url": "https://entertainment.capitalone.com/events/7301899"
-      }
-    },
-    {
       "key": "event-7301293",
       "title": "New Capital One Exclusive: Nashville Predators at Pittsburgh Penguins",
       "event": {
