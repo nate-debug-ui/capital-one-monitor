@@ -97,11 +97,7 @@
       "done": true
     },
     "30": {
-      "parts": [
-        "New Capital One Exclusive: St. Louis Blues at Colorado Avalanche\n\nSt. Louis Blues at Colorado Avalanche\n\nDate: Oct 3 • 7:00pm\n\nLocation: Ball Arena • Denver, CO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300368\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/30"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
