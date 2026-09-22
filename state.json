@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300225",
-      "title": "New Capital One Exclusive: Carolina Hurricanes at Philadelphia Flyers",
-      "event": {
-        "id": "7300225",
-        "name": "Carolina Hurricanes at Philadelphia Flyers",
-        "date": "Oct 11 • 7:00pm",
-        "location": "Xfinity Mobile Arena • Philadelphia, PA",
-        "url": "https://entertainment.capitalone.com/events/7300225"
-      }
-    },
-    {
       "key": "event-7302271",
       "title": "New Capital One Exclusive: Florida Panthers at Buffalo Sabres",
       "event": {
