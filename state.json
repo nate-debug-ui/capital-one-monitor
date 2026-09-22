@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302035",
-      "title": "New Capital One Exclusive: Winnipeg Jets at St. Louis Blues",
-      "event": {
-        "id": "7302035",
-        "name": "Winnipeg Jets at St. Louis Blues",
-        "date": "Oct 20 • 7:00pm",
-        "location": "Enterprise Center • St. Louis, MO",
-        "url": "https://entertainment.capitalone.com/events/7302035"
-      }
-    },
-    {
       "key": "event-7301402",
       "title": "New Capital One Exclusive: Anaheim Ducks at New York Islanders",
       "event": {
