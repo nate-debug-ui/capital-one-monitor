@@ -52,11 +52,7 @@
       "done": true
     },
     "15": {
-      "parts": [
-        "New Capital One Exclusive: New York Rangers at Boston Bruins\n\nNew York Rangers at Boston Bruins\n\nDate: Sep 29 • 8:00pm\n\nLocation: TD Garden • Boston, MA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7292405\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/15"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
