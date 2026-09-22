@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302493",
-      "title": "New Capital One Exclusive: Utah Mammoth at Boston Bruins",
-      "event": {
-        "id": "7302493",
-        "name": "Utah Mammoth at Boston Bruins",
-        "date": "Oct 8 • 7:00pm",
-        "location": "TD Garden • Boston, MA",
-        "url": "https://entertainment.capitalone.com/events/7302493"
-      }
-    },
-    {
       "key": "event-7302103",
       "title": "New Capital One Exclusive: Minnesota Wild at Tampa Bay Lightning",
       "event": {
