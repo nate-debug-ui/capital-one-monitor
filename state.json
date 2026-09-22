@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301909",
-      "title": "New Capital One Exclusive: Vancouver Canucks at San Jose Sharks",
-      "event": {
-        "id": "7301909",
-        "name": "Vancouver Canucks at San Jose Sharks",
-        "date": "Oct 29 • 7:00pm",
-        "location": "SAP Center • San Jose, CA",
-        "url": "https://entertainment.capitalone.com/events/7301909"
-      }
-    },
-    {
       "key": "event-7301851",
       "title": "New Capital One Exclusive: Utah Mammoth at Pittsburgh Penguins",
       "event": {
