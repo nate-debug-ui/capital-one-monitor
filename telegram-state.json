@@ -191,6 +191,13 @@
     },
     "61": {
       "done": true
+    },
+    "62": {
+      "parts": [
+        "New Capital One Exclusive: Columbus Blue Jackets at St. Louis Blues\n\nColumbus Blue Jackets at St. Louis Blues\n\nDate: Oct 10 • 6:00pm\n\nLocation: Enterprise Center • St. Louis, MO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302031\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/62"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
