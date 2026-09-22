@@ -506,6 +506,13 @@
     },
     "166": {
       "done": true
+    },
+    "167": {
+      "parts": [
+        "New Capital One Exclusive: Ottawa Senators at San Jose Sharks\n\nOttawa Senators at San Jose Sharks\n\nDate: Oct 31 • 1:00pm\n\nLocation: SAP Center • San Jose, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301713\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/167"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
