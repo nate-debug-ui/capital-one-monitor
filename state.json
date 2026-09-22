@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300219",
-      "title": "New Capital One Exclusive: Vancouver Canucks at Carolina Hurricanes",
-      "event": {
-        "id": "7300219",
-        "name": "Vancouver Canucks at Carolina Hurricanes",
-        "date": "Oct 8 • 7:00pm",
-        "location": "Lenovo Center • Raleigh, NC",
-        "url": "https://entertainment.capitalone.com/events/7300219"
-      }
-    },
-    {
       "key": "event-7292441",
       "title": "New Capital One Exclusive: San Jose Sharks at St. Louis Blues",
       "event": {
