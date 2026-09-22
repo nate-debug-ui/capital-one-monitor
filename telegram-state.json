@@ -323,6 +323,13 @@
     },
     "105": {
       "done": true
+    },
+    "106": {
+      "parts": [
+        "New Capital One Exclusive: Pittsburgh Penguins at Utah Mammoth\n\nPittsburgh Penguins at Utah Mammoth\n\nDate: Oct 19 • 7:00pm\n\nLocation: Delta Center • Salt Lake City, UT\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301843\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/106"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
