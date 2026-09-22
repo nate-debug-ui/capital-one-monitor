@@ -440,6 +440,13 @@
     },
     "144": {
       "done": true
+    },
+    "145": {
+      "parts": [
+        "New Capital One Exclusive: Buffalo Sabres at San Jose Sharks\n\nBuffalo Sabres at San Jose Sharks\n\nDate: Oct 27 • 7:30pm\n\nLocation: SAP Center • San Jose, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301904\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/145"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
