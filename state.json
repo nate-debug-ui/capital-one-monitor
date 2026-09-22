@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300223",
-      "title": "New Capital One Exclusive: Pittsburgh Penguins at Chicago Blackhawks",
-      "event": {
-        "id": "7300223",
-        "name": "Pittsburgh Penguins at Chicago Blackhawks",
-        "date": "Oct 13 • 7:00pm",
-        "location": "United Center • Chicago, IL",
-        "url": "https://entertainment.capitalone.com/events/7300223"
-      }
-    },
-    {
       "key": "event-7300907",
       "title": "New Capital One Exclusive: Edmonton Oilers at Los Angeles Kings",
       "event": {
