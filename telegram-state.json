@@ -467,6 +467,13 @@
     },
     "153": {
       "done": true
+    },
+    "154": {
+      "parts": [
+        "New Capital One Exclusive: New York Islanders at Minnesota Wild\n\nNew York Islanders at Minnesota Wild\n\nDate: Oct 29 • 7:00pm\n\nLocation: Grand Casino Arena • Saint Paul, MN\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301404\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/154"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
