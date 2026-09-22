@@ -247,11 +247,7 @@
       "done": true
     },
     "80": {
-      "parts": [
-        "New Capital One Exclusive: Edmonton Oilers at Los Angeles Kings\n\nEdmonton Oilers at Los Angeles Kings\n\nDate: Oct 13 • 7:30pm\n\nLocation: Crypto.com Arena • Los Angeles, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300907\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/80"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
