@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301904",
-      "title": "New Capital One Exclusive: Buffalo Sabres at San Jose Sharks",
-      "event": {
-        "id": "7301904",
-        "name": "Buffalo Sabres at San Jose Sharks",
-        "date": "Oct 27 • 7:30pm",
-        "location": "SAP Center • San Jose, CA",
-        "url": "https://entertainment.capitalone.com/events/7301904"
-      }
-    },
-    {
       "key": "event-7300251",
       "title": "New Capital One Exclusive: Boston Bruins at Carolina Hurricanes",
       "event": {
