@@ -277,11 +277,7 @@
       "done": true
     },
     "90": {
-      "parts": [
-        "New Capital One Exclusive: San Jose Sharks at Nashville Predators\n\nSan Jose Sharks at Nashville Predators\n\nDate: Oct 15 • 7:00pm\n\nLocation: Bridgestone Arena • Nashville, TN\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301287\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/90"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
