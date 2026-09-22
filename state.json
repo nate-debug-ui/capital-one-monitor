@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300931",
-      "title": "New Capital One Exclusive: Los Angeles Kings at New Jersey Devils",
-      "event": {
-        "id": "7300931",
-        "name": "Los Angeles Kings at New Jersey Devils",
-        "date": "Oct 24 • 3:30pm",
-        "location": "Prudential Center • Newark, NJ",
-        "url": "https://entertainment.capitalone.com/events/7300931"
-      }
-    },
-    {
       "key": "event-7300247",
       "title": "New Capital One Exclusive: Carolina Hurricanes at St. Louis Blues",
       "event": {
