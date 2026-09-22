@@ -293,6 +293,13 @@
     },
     "95": {
       "done": true
+    },
+    "96": {
+      "parts": [
+        "New Capital One Exclusive: Seattle Kraken at Florida Panthers\n\nSeattle Kraken at Florida Panthers\n\nDate: Oct 17 • 6:00pm\n\nLocation: Amerant Bank Arena • Sunrise, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302275\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/96"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
