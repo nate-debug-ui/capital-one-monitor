@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300553",
-      "title": "New Capital One Exclusive: New Jersey Devils at Dallas Stars",
-      "event": {
-        "id": "7300553",
-        "name": "New Jersey Devils at Dallas Stars",
-        "date": "Oct 27 • 7:00pm",
-        "location": "American Airlines Center - TX • Dallas, TX",
-        "url": "https://entertainment.capitalone.com/events/7300553"
-      }
-    },
-    {
       "key": "event-7300245",
       "title": "New Capital One Exclusive: Los Angeles Kings at Chicago Blackhawks",
       "event": {
