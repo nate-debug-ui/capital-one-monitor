@@ -233,6 +233,13 @@
     },
     "75": {
       "done": true
+    },
+    "76": {
+      "parts": [
+        "New Capital One Exclusive: Washington Capitals at Carolina Hurricanes\n\nWashington Capitals at Carolina Hurricanes\n\nDate: Oct 13 • 6:45pm\n\nLocation: Lenovo Center • Raleigh, NC\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300227\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/76"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
