@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300529",
-      "title": "New Capital One Exclusive: Boston Bruins at Dallas Stars",
-      "event": {
-        "id": "7300529",
-        "name": "Boston Bruins at Dallas Stars",
-        "date": "Oct 20 • 7:00pm",
-        "location": "American Airlines Center - TX • Dallas, TX",
-        "url": "https://entertainment.capitalone.com/events/7300529"
-      }
-    },
-    {
       "key": "event-7300414",
       "title": "New Capital One Exclusive: Colorado Avalanche at New Jersey Devils",
       "event": {
