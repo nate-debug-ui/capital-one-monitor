@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292436",
-      "title": "New Capital One Exclusive: Montreal Canadiens at Pittsburgh Penguins",
-      "event": {
-        "id": "7292436",
-        "name": "Montreal Canadiens at Pittsburgh Penguins",
-        "date": "Oct 3 • 7:00pm",
-        "location": "PPG Paints Arena • Pittsburgh, PA",
-        "url": "https://entertainment.capitalone.com/events/7292436"
-      }
-    },
-    {
       "key": "event-7292425",
       "title": "New Capital One Exclusive: Boston Bruins at Minnesota Wild",
       "event": {
