@@ -316,11 +316,7 @@
       "done": true
     },
     "103": {
-      "parts": [
-        "New Capital One Exclusive: San Jose Sharks at Detroit Red Wings\n\nSan Jose Sharks at Detroit Red Wings\n\nDate: Oct 17 • 7:00pm\n\nLocation: Little Caesars Arena • Detroit, MI\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300801\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/103"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
