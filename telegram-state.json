@@ -158,6 +158,13 @@
     },
     "50": {
       "done": true
+    },
+    "51": {
+      "parts": [
+        "New Capital One Exclusive: Toronto Maple Leafs at Vegas Golden Knights\n\nToronto Maple Leafs at Vegas Golden Knights\n\nDate: Oct 8 • 7:00pm\n\nLocation: T-Mobile Arena • Las Vegas, NV\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302101\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/51"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
