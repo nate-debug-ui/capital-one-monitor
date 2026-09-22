@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302103",
-      "title": "New Capital One Exclusive: Minnesota Wild at Tampa Bay Lightning",
-      "event": {
-        "id": "7302103",
-        "name": "Minnesota Wild at Tampa Bay Lightning",
-        "date": "Oct 8 • 7:00pm",
-        "location": "Benchmark International Arena • Tampa, FL",
-        "url": "https://entertainment.capitalone.com/events/7302103"
-      }
-    },
-    {
       "key": "event-7302101",
       "title": "New Capital One Exclusive: Toronto Maple Leafs at Vegas Golden Knights",
       "event": {
