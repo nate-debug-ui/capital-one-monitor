@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300249",
-      "title": "New Capital One Exclusive: Chicago Blackhawks at Detroit Red Wings",
-      "event": {
-        "id": "7300249",
-        "name": "Chicago Blackhawks at Detroit Red Wings",
-        "date": "Oct 29 • 7:30pm",
-        "location": "Little Caesars Arena • Detroit, MI",
-        "url": "https://entertainment.capitalone.com/events/7300249"
-      }
-    },
-    {
       "key": "event-7302279",
       "title": "New Capital One Exclusive: Winnipeg Jets at Florida Panthers",
       "event": {
