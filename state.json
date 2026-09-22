@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292449",
-      "title": "New Capital One Exclusive: Chicago Blackhawks at Vegas Golden Knights",
-      "event": {
-        "id": "7292449",
-        "name": "Chicago Blackhawks at Vegas Golden Knights",
-        "date": "Sep 29 • 7:30pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7292449"
-      }
-    },
-    {
       "key": "event-7292405",
       "title": "New Capital One Exclusive: New York Rangers at Boston Bruins",
       "event": {
