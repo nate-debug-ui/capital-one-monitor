@@ -404,6 +404,13 @@
     },
     "132": {
       "done": true
+    },
+    "133": {
+      "parts": [
+        "New Capital One Exclusive: Nashville Predators at Pittsburgh Penguins\n\nNashville Predators at Pittsburgh Penguins\n\nDate: Oct 24 • 7:00pm\n\nLocation: PPG Paints Arena • Pittsburgh, PA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301293\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/133"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
