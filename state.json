@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292674",
-      "title": "New Capital One Exclusive: Philadelphia Flyers at New Jersey Devils",
-      "event": {
-        "id": "7292674",
-        "name": "Philadelphia Flyers at New Jersey Devils",
-        "date": "Oct 1 • 7:00pm",
-        "location": "Prudential Center • Newark, NJ",
-        "url": "https://entertainment.capitalone.com/events/7292674"
-      }
-    },
-    {
       "key": "event-7292666",
       "title": "New Capital One Exclusive: Buffalo Sabres at Columbus Blue Jackets",
       "event": {
