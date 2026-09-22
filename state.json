@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300253",
-      "title": "New Capital One Exclusive: Chicago Blackhawks at Boston Bruins",
-      "event": {
-        "id": "7300253",
-        "name": "Chicago Blackhawks at Boston Bruins",
-        "date": "Oct 31 • 1:00pm",
-        "location": "TD Garden • Boston, MA",
-        "url": "https://entertainment.capitalone.com/events/7300253"
-      }
-    },
-    {
       "key": "event-7300947",
       "title": "New Capital One Exclusive: Edmonton Oilers at New York Islanders",
       "event": {
