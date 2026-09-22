@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300385",
-      "title": "New Capital One Exclusive: Toronto Maple Leafs at Colorado Avalanche",
-      "event": {
-        "id": "7300385",
-        "name": "Toronto Maple Leafs at Colorado Avalanche",
-        "date": "Oct 10 • 5:00pm",
-        "location": "Ball Arena • Denver, CO",
-        "url": "https://entertainment.capitalone.com/events/7300385"
-      }
-    },
-    {
       "key": "event-7302031",
       "title": "New Capital One Exclusive: Columbus Blue Jackets at St. Louis Blues",
       "event": {
