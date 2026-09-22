@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301394",
-      "title": "New Capital One Exclusive: Tampa Bay Lightning at New York Islanders",
-      "event": {
-        "id": "7301394",
-        "name": "Tampa Bay Lightning at New York Islanders",
-        "date": "Oct 10 • 7:30pm",
-        "location": "UBS Arena • Elmont, NY",
-        "url": "https://entertainment.capitalone.com/events/7301394"
-      }
-    },
-    {
       "key": "event-7300225",
       "title": "New Capital One Exclusive: Carolina Hurricanes at Philadelphia Flyers",
       "event": {
