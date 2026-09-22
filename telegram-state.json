@@ -59,6 +59,13 @@
     },
     "17": {
       "done": true
+    },
+    "18": {
+      "parts": [
+        "New Capital One Exclusive: Florida Panthers at San Jose Sharks\n\nFlorida Panthers at San Jose Sharks\n\nDate: Oct 1 • 7:00pm\n\nLocation: SAP Center • San Jose, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7293035\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/18"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
