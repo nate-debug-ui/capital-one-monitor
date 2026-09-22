@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302123",
-      "title": "New Capital One Exclusive: Winnipeg Jets at Tampa Bay Lightning",
-      "event": {
-        "id": "7302123",
-        "name": "Winnipeg Jets at Tampa Bay Lightning",
-        "date": "Oct 29 • 7:00pm",
-        "location": "Benchmark International Arena • Tampa, FL",
-        "url": "https://entertainment.capitalone.com/events/7302123"
-      }
-    },
-    {
       "key": "event-7302039",
       "title": "New Capital One Exclusive: Boston Bruins at St. Louis Blues",
       "event": {
