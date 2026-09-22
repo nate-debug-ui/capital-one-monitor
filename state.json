@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301887",
-      "title": "New Capital One Exclusive: Boston Bruins at San Jose Sharks",
-      "event": {
-        "id": "7301887",
-        "name": "Boston Bruins at San Jose Sharks",
-        "date": "Oct 13 • 8:00pm",
-        "location": "SAP Center • San Jose, CA",
-        "url": "https://entertainment.capitalone.com/events/7301887"
-      }
-    },
-    {
       "key": "event-7300397",
       "title": "New Capital One Exclusive: Dallas Stars at Colorado Avalanche",
       "event": {
