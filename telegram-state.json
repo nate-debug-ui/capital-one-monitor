@@ -101,6 +101,13 @@
     },
     "31": {
       "done": true
+    },
+    "32": {
+      "parts": [
+        "New Capital One Exclusive: Montreal Canadiens at Pittsburgh Penguins\n\nMontreal Canadiens at Pittsburgh Penguins\n\nDate: Oct 3 • 7:00pm\n\nLocation: PPG Paints Arena • Pittsburgh, PA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7292436\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/32"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
