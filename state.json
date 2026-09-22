@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301841",
-      "title": "New Capital One Exclusive: Pittsburgh Penguins at Vegas Golden Knights",
-      "event": {
-        "id": "7301841",
-        "name": "Pittsburgh Penguins at Vegas Golden Knights",
-        "date": "Oct 17 • 7:00pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7301841"
-      }
-    },
-    {
       "key": "event-7301705",
       "title": "New Capital One Exclusive: Ottawa Senators at Philadelphia Flyers",
       "event": {
