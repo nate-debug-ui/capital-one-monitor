@@ -488,6 +488,13 @@
     },
     "160": {
       "done": true
+    },
+    "161": {
+      "parts": [
+        "New Capital One Exclusive: Seattle Kraken at Washington Capitals\n\nSeattle Kraken at Washington Capitals\n\nDate: Oct 11 • 5:00pm\n\nLocation: Capital One Arena • Washington, DC\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302401\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/161"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
