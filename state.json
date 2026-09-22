@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301791",
-      "title": "New Capital One Exclusive: Seattle Kraken at Philadelphia Flyers",
-      "event": {
-        "id": "7301791",
-        "name": "Seattle Kraken at Philadelphia Flyers",
-        "date": "Oct 13 • 7:00pm",
-        "location": "Xfinity Mobile Arena • Philadelphia, PA",
-        "url": "https://entertainment.capitalone.com/events/7301791"
-      }
-    },
-    {
       "key": "event-7300223",
       "title": "New Capital One Exclusive: Pittsburgh Penguins at Chicago Blackhawks",
       "event": {
