@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300368",
-      "title": "New Capital One Exclusive: St. Louis Blues at Colorado Avalanche",
-      "event": {
-        "id": "7300368",
-        "name": "St. Louis Blues at Colorado Avalanche",
-        "date": "Oct 3 • 7:00pm",
-        "location": "Ball Arena • Denver, CO",
-        "url": "https://entertainment.capitalone.com/events/7300368"
-      }
-    },
-    {
       "key": "event-7292445",
       "title": "New Capital One Exclusive: Washington Capitals at Tampa Bay Lightning",
       "event": {
