@@ -443,6 +443,13 @@
     },
     "145": {
       "done": true
+    },
+    "146": {
+      "parts": [
+        "New Capital One Exclusive: Boston Bruins at Carolina Hurricanes\n\nBoston Bruins at Carolina Hurricanes\n\nDate: Oct 27 • 8:00pm\n\nLocation: Lenovo Center • Raleigh, NC\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300251\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/146"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
