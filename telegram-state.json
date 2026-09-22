@@ -86,6 +86,13 @@
     },
     "26": {
       "done": true
+    },
+    "27": {
+      "parts": [
+        "New Capital One Exclusive: Utah Mammoth at Columbus Blue Jackets\n\nUtah Mammoth at Columbus Blue Jackets\n\nDate: Oct 3 • 7:00pm\n\nLocation: Nationwide Arena • Columbus, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302287\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/27"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
