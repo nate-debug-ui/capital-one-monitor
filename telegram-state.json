@@ -98,6 +98,13 @@
     },
     "30": {
       "done": true
+    },
+    "31": {
+      "parts": [
+        "New Capital One Exclusive: Washington Capitals at Tampa Bay Lightning\n\nWashington Capitals at Tampa Bay Lightning\n\nDate: Oct 3 • 7:00pm\n\nLocation: Benchmark International Arena • Tampa, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7292445\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/31"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
