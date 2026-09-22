@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292445",
-      "title": "New Capital One Exclusive: Washington Capitals at Tampa Bay Lightning",
-      "event": {
-        "id": "7292445",
-        "name": "Washington Capitals at Tampa Bay Lightning",
-        "date": "Oct 3 • 7:00pm",
-        "location": "Benchmark International Arena • Tampa, FL",
-        "url": "https://entertainment.capitalone.com/events/7292445"
-      }
-    },
-    {
       "key": "event-7292436",
       "title": "New Capital One Exclusive: Montreal Canadiens at Pittsburgh Penguins",
       "event": {
