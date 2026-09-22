@@ -292,11 +292,7 @@
       "done": true
     },
     "95": {
-      "parts": [
-        "New Capital One Exclusive: Vancouver Canucks at Tampa Bay Lightning\n\nVancouver Canucks at Tampa Bay Lightning\n\nDate: Oct 17 • 4:00pm\n\nLocation: Benchmark International Arena • Tampa, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302111\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/95"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
