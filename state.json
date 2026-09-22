@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301795",
-      "title": "New Capital One Exclusive: Anaheim Ducks at Philadelphia Flyers",
-      "event": {
-        "id": "7301795",
-        "name": "Anaheim Ducks at Philadelphia Flyers",
-        "date": "Oct 24 • 1:00pm",
-        "location": "Xfinity Mobile Arena • Philadelphia, PA",
-        "url": "https://entertainment.capitalone.com/events/7301795"
-      }
-    },
-    {
       "key": "event-7300931",
       "title": "New Capital One Exclusive: Los Angeles Kings at New Jersey Devils",
       "event": {
