@@ -457,6 +457,13 @@
       "location": "T-Mobile Arena • Las Vegas, NV",
       "url": "https://entertainment.capitalone.com/events/7292449"
     },
+    "7292451": {
+      "id": "7292451",
+      "name": "Pittsburgh Penguins at Washington Capitals",
+      "date": "Oct 7 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7292451"
+    },
     "7292662": {
       "id": "7292662",
       "name": "Minnesota Wild at Nashville Predators",
@@ -1016,6 +1023,13 @@
       "date": "Oct 12 • 7:00pm",
       "location": "Prudential Center • Newark, NJ",
       "url": "https://entertainment.capitalone.com/events/7301418"
+    },
+    "7301422": {
+      "id": "7301422",
+      "name": "New York Rangers at Washington Capitals",
+      "date": "Oct 9 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7301422"
     },
     "7301428": {
       "id": "7301428",
@@ -2434,6 +2448,13 @@
       "url": "https://entertainment.capitalone.com/events/7538231"
     },
     {
+      "id": "7292451",
+      "name": "Pittsburgh Penguins at Washington Capitals",
+      "date": "Oct 7 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7292451"
+    },
+    {
       "id": "7302493",
       "name": "Utah Mammoth at Boston Bruins",
       "date": "Oct 8 • 7:00pm",
@@ -2446,13 +2467,6 @@
       "date": "Oct 8 • 7:00pm",
       "location": "Benchmark International Arena • Tampa, FL",
       "url": "https://entertainment.capitalone.com/events/7302103"
-    },
-    {
-      "id": "7302101",
-      "name": "Toronto Maple Leafs at Vegas Golden Knights",
-      "date": "Oct 8 • 7:00pm",
-      "location": "T-Mobile Arena • Las Vegas, NV",
-      "url": "https://entertainment.capitalone.com/events/7302101"
     },
     {
       "id": "7300510",
@@ -2488,6 +2502,13 @@
       "date": "Oct 9 • 7:00pm",
       "location": "Nationwide Arena • Columbus, OH",
       "url": "https://entertainment.capitalone.com/events/7301837"
+    },
+    {
+      "id": "7301422",
+      "name": "New York Rangers at Washington Capitals",
+      "date": "Oct 9 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7301422"
     },
     {
       "id": "7300793",
@@ -4093,8 +4114,31 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7292451",
+      "title": "New Capital One Exclusive: Pittsburgh Penguins at Washington Capitals",
+      "event": {
+        "id": "7292451",
+        "name": "Pittsburgh Penguins at Washington Capitals",
+        "date": "Oct 7 • 7:30pm",
+        "location": "Capital One Arena • Washington, DC",
+        "url": "https://entertainment.capitalone.com/events/7292451"
+      }
+    },
+    {
+      "key": "event-7301422",
+      "title": "New Capital One Exclusive: New York Rangers at Washington Capitals",
+      "event": {
+        "id": "7301422",
+        "name": "New York Rangers at Washington Capitals",
+        "date": "Oct 9 • 7:00pm",
+        "location": "Capital One Arena • Washington, DC",
+        "url": "https://entertainment.capitalone.com/events/7301422"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-22T18:02:24.314Z"
+  "lastSuccess": "2026-09-22T18:26:45.937Z"
 }
