@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300801",
-      "title": "New Capital One Exclusive: San Jose Sharks at Detroit Red Wings",
-      "event": {
-        "id": "7300801",
-        "name": "San Jose Sharks at Detroit Red Wings",
-        "date": "Oct 17 • 7:00pm",
-        "location": "Little Caesars Arena • Detroit, MI",
-        "url": "https://entertainment.capitalone.com/events/7300801"
-      }
-    },
-    {
       "key": "event-7300921",
       "title": "New Capital One Exclusive: Edmonton Oilers at Utah Mammoth",
       "event": {
