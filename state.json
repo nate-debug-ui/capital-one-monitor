@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302111",
-      "title": "New Capital One Exclusive: Vancouver Canucks at Tampa Bay Lightning",
-      "event": {
-        "id": "7302111",
-        "name": "Vancouver Canucks at Tampa Bay Lightning",
-        "date": "Oct 17 • 4:00pm",
-        "location": "Benchmark International Arena • Tampa, FL",
-        "url": "https://entertainment.capitalone.com/events/7302111"
-      }
-    },
-    {
       "key": "event-7302275",
       "title": "New Capital One Exclusive: Seattle Kraken at Florida Panthers",
       "event": {
