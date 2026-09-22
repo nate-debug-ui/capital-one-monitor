@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301713",
-      "title": "New Capital One Exclusive: Ottawa Senators at San Jose Sharks",
-      "event": {
-        "id": "7301713",
-        "name": "Ottawa Senators at San Jose Sharks",
-        "date": "Oct 31 • 1:00pm",
-        "location": "SAP Center • San Jose, CA",
-        "url": "https://entertainment.capitalone.com/events/7301713"
-      }
-    },
-    {
       "key": "event-7301299",
       "title": "New Capital One Exclusive: Tampa Bay Lightning at Nashville Predators",
       "event": {
