@@ -67,11 +67,7 @@
       "done": true
     },
     "20": {
-      "parts": [
-        "New Capital One Exclusive: Buffalo Sabres at Columbus Blue Jackets\n\nBuffalo Sabres at Columbus Blue Jackets\n\nDate: Oct 1 • 7:00pm\n\nLocation: Nationwide Arena • Columbus, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/7292666\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/20"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
