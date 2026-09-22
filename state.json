@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300889",
-      "title": "New Capital One Exclusive: Los Angeles Kings at San Jose Sharks",
-      "event": {
-        "id": "7300889",
-        "name": "Los Angeles Kings at San Jose Sharks",
-        "date": "Oct 3 • 7:00pm",
-        "location": "SAP Center • San Jose, CA",
-        "url": "https://entertainment.capitalone.com/events/7300889"
-      }
-    },
-    {
       "key": "event-7300494",
       "title": "New Capital One Exclusive: Dallas Stars at Nashville Predators",
       "event": {
