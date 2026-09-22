@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300811",
-      "title": "New Capital One Exclusive: St. Louis Blues at Detroit Red Wings",
-      "event": {
-        "id": "7300811",
-        "name": "St. Louis Blues at Detroit Red Wings",
-        "date": "Oct 31 • 1:00pm",
-        "location": "Little Caesars Arena • Detroit, MI",
-        "url": "https://entertainment.capitalone.com/events/7300811"
-      }
-    },
-    {
       "key": "event-7300253",
       "title": "New Capital One Exclusive: Chicago Blackhawks at Boston Bruins",
       "event": {
