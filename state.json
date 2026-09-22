@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300793",
-      "title": "New Capital One Exclusive: Seattle Kraken at Detroit Red Wings",
-      "event": {
-        "id": "7300793",
-        "name": "Seattle Kraken at Detroit Red Wings",
-        "date": "Oct 9 • 7:00pm",
-        "location": "Little Caesars Arena • Detroit, MI",
-        "url": "https://entertainment.capitalone.com/events/7300793"
-      }
-    },
-    {
       "key": "event-7301789",
       "title": "New Capital One Exclusive: Philadelphia Flyers at Boston Bruins",
       "event": {
