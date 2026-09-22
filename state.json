@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302115",
-      "title": "New Capital One Exclusive: Tampa Bay Lightning at Vegas Golden Knights",
-      "event": {
-        "id": "7302115",
-        "name": "Tampa Bay Lightning at Vegas Golden Knights",
-        "date": "Oct 20 • 7:30pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7302115"
-      }
-    },
-    {
       "key": "event-7301793",
       "title": "New Capital One Exclusive: Philadelphia Flyers at Buffalo Sabres",
       "event": {
