@@ -287,6 +287,13 @@
     },
     "93": {
       "done": true
+    },
+    "94": {
+      "parts": [
+        "New Capital One Exclusive: Pittsburgh Penguins at Colorado Avalanche\n\nPittsburgh Penguins at Colorado Avalanche\n\nDate: Oct 16 • 7:00pm\n\nLocation: Ball Arena • Denver, CO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300403\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/94"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
