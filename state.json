@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300247",
-      "title": "New Capital One Exclusive: Carolina Hurricanes at St. Louis Blues",
-      "event": {
-        "id": "7300247",
-        "name": "Carolina Hurricanes at St. Louis Blues",
-        "date": "Oct 24 • 6:00pm",
-        "location": "Enterprise Center • St. Louis, MO",
-        "url": "https://entertainment.capitalone.com/events/7300247"
-      }
-    },
-    {
       "key": "event-7302417",
       "title": "New Capital One Exclusive: Buffalo Sabres at Washington Capitals",
       "event": {
