@@ -74,6 +74,13 @@
     },
     "22": {
       "done": true
+    },
+    "23": {
+      "parts": [
+        "New Capital One Exclusive: New York Rangers at Detroit Red Wings\n\nNew York Rangers at Detroit Red Wings\n\nDate: Oct 2 • 6:30pm\n\nLocation: Little Caesars Arena • Detroit, MI\n\nEvent details\nhttps://entertainment.capitalone.com/events/7292417\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/23"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
