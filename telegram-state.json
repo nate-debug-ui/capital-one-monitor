@@ -236,6 +236,13 @@
     },
     "76": {
       "done": true
+    },
+    "77": {
+      "parts": [
+        "New Capital One Exclusive: Toronto Maple Leafs at Utah Mammoth\n\nToronto Maple Leafs at Utah Mammoth\n\nDate: Oct 13 • 7:00pm\n\nLocation: Delta Center • Salt Lake City, UT\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302105\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/77"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
