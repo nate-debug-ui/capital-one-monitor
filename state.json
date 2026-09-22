@@ -3897,19 +3897,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7302279",
-      "title": "New Capital One Exclusive: Winnipeg Jets at Florida Panthers",
-      "event": {
-        "id": "7302279",
-        "name": "Winnipeg Jets at Florida Panthers",
-        "date": "Oct 30 • 7:00pm",
-        "location": "Amerant Bank Arena • Sunrise, FL",
-        "url": "https://entertainment.capitalone.com/events/7302279"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-22T16:26:12.314Z"
