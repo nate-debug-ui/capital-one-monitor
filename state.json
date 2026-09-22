@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300419",
-      "title": "New Capital One Exclusive: Tampa Bay Lightning at Colorado Avalanche",
-      "event": {
-        "id": "7300419",
-        "name": "Tampa Bay Lightning at Colorado Avalanche",
-        "date": "Oct 23 • 7:00pm",
-        "location": "Ball Arena • Denver, CO",
-        "url": "https://entertainment.capitalone.com/events/7300419"
-      }
-    },
-    {
       "key": "event-7300237",
       "title": "New Capital One Exclusive: Montreal Canadiens at Chicago Blackhawks",
       "event": {
