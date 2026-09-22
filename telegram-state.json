@@ -329,6 +329,13 @@
     },
     "107": {
       "done": true
+    },
+    "108": {
+      "parts": [
+        "New Capital One Exclusive: Detroit Red Wings at Seattle Kraken\n\nDetroit Red Wings at Seattle Kraken\n\nDate: Oct 20 • 6:40pm\n\nLocation: Climate Pledge Arena • Seattle, WA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300803\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/108"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
