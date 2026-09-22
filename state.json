@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300504",
-      "title": "New Capital One Exclusive: San Jose Sharks at Dallas Stars",
-      "event": {
-        "id": "7300504",
-        "name": "San Jose Sharks at Dallas Stars",
-        "date": "Oct 5 • 7:00pm",
-        "location": "American Airlines Center - TX • Dallas, TX",
-        "url": "https://entertainment.capitalone.com/events/7300504"
-      }
-    },
-    {
       "key": "event-7301833",
       "title": "New Capital One Exclusive: Winnipeg Jets at Pittsburgh Penguins",
       "event": {
