@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300510",
-      "title": "New Capital One Exclusive: Dallas Stars at Buffalo Sabres",
-      "event": {
-        "id": "7300510",
-        "name": "Dallas Stars at Buffalo Sabres",
-        "date": "Oct 8 • 7:00pm",
-        "location": "KeyBank Center • Buffalo, NY",
-        "url": "https://entertainment.capitalone.com/events/7300510"
-      }
-    },
-    {
       "key": "event-7300219",
       "title": "New Capital One Exclusive: Vancouver Canucks at Carolina Hurricanes",
       "event": {
