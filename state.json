@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301295",
-      "title": "New Capital One Exclusive: New York Islanders at Nashville Predators",
-      "event": {
-        "id": "7301295",
-        "name": "New York Islanders at Nashville Predators",
-        "date": "Oct 27 • 7:00pm",
-        "location": "Bridgestone Arena • Nashville, TN",
-        "url": "https://entertainment.capitalone.com/events/7301295"
-      }
-    },
-    {
       "key": "event-7301073",
       "title": "New Capital One Exclusive: Montreal Canadiens at St. Louis Blues",
       "event": {
