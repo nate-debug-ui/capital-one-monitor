@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300251",
-      "title": "New Capital One Exclusive: Boston Bruins at Carolina Hurricanes",
-      "event": {
-        "id": "7300251",
-        "name": "Boston Bruins at Carolina Hurricanes",
-        "date": "Oct 27 • 8:00pm",
-        "location": "Lenovo Center • Raleigh, NC",
-        "url": "https://entertainment.capitalone.com/events/7300251"
-      }
-    },
-    {
       "key": "event-7302121",
       "title": "New Capital One Exclusive: Toronto Maple Leafs at Seattle Kraken",
       "event": {
