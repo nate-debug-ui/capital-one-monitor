@@ -431,6 +431,13 @@
     },
     "141": {
       "done": true
+    },
+    "142": {
+      "parts": [
+        "New Capital One Exclusive: Montreal Canadiens at St. Louis Blues\n\nMontreal Canadiens at St. Louis Blues\n\nDate: Oct 27 • 7:00pm\n\nLocation: Enterprise Center • St. Louis, MO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7301073\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/142"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
