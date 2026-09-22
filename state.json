@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300544",
-      "title": "New Capital One Exclusive: New York Islanders at Dallas Stars",
-      "event": {
-        "id": "7300544",
-        "name": "New York Islanders at Dallas Stars",
-        "date": "Oct 25 • 5:00pm",
-        "location": "American Airlines Center - TX • Dallas, TX",
-        "url": "https://entertainment.capitalone.com/events/7300544"
-      }
-    },
-    {
       "key": "event-7300426",
       "title": "New Capital One Exclusive: Colorado Avalanche at Nashville Predators",
       "event": {
