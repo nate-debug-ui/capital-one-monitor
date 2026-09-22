@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292441",
-      "title": "New Capital One Exclusive: San Jose Sharks at St. Louis Blues",
-      "event": {
-        "id": "7292441",
-        "name": "San Jose Sharks at St. Louis Blues",
-        "date": "Oct 8 • 7:00pm",
-        "location": "Enterprise Center • St. Louis, MO",
-        "url": "https://entertainment.capitalone.com/events/7292441"
-      }
-    },
-    {
       "key": "event-7300217",
       "title": "New Capital One Exclusive: Chicago Blackhawks at New York Islanders",
       "event": {
