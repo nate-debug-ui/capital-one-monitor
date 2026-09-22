@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7292434",
-      "title": "New Capital One Exclusive: Pittsburgh Penguins at Philadelphia Flyers",
-      "event": {
-        "id": "7292434",
-        "name": "Pittsburgh Penguins at Philadelphia Flyers",
-        "date": "Sep 30 • 7:30pm",
-        "location": "Xfinity Mobile Arena • Philadelphia, PA",
-        "url": "https://entertainment.capitalone.com/events/7292434"
-      }
-    },
-    {
       "key": "event-7292413",
       "title": "New Capital One Exclusive: Los Angeles Kings at Colorado Avalanche",
       "event": {
