@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300943",
-      "title": "New Capital One Exclusive: Ottawa Senators at Los Angeles Kings",
-      "event": {
-        "id": "7300943",
-        "name": "Ottawa Senators at Los Angeles Kings",
-        "date": "Oct 29 • 7:00pm",
-        "location": "Crypto.com Arena • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7300943"
-      }
-    },
-    {
       "key": "event-7300563",
       "title": "New Capital One Exclusive: Montreal Canadiens at Dallas Stars",
       "event": {
