@@ -388,11 +388,7 @@
       "done": true
     },
     "127": {
-      "parts": [
-        "New Capital One Exclusive: Carolina Hurricanes at St. Louis Blues\n\nCarolina Hurricanes at St. Louis Blues\n\nDate: Oct 24 • 6:00pm\n\nLocation: Enterprise Center • St. Louis, MO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300247\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/127"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
