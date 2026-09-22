@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300232",
-      "title": "New Capital One Exclusive: Dallas Stars at Chicago Blackhawks",
-      "event": {
-        "id": "7300232",
-        "name": "Dallas Stars at Chicago Blackhawks",
-        "date": "Oct 17 • 6:00pm",
-        "location": "United Center • Chicago, IL",
-        "url": "https://entertainment.capitalone.com/events/7300232"
-      }
-    },
-    {
       "key": "event-7301841",
       "title": "New Capital One Exclusive: Pittsburgh Penguins at Vegas Golden Knights",
       "event": {
