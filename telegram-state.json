@@ -116,6 +116,13 @@
     },
     "36": {
       "done": true
+    },
+    "37": {
+      "parts": [
+        "New Capital One Exclusive: Calgary Flames at Seattle Kraken\n\nCalgary Flames at Seattle Kraken\n\nDate: Oct 4 • 5:00pm\n\nLocation: Climate Pledge Arena • Seattle, WA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7292438\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/37"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
