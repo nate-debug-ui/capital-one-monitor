@@ -473,6 +473,13 @@
     },
     "155": {
       "done": true
+    },
+    "156": {
+      "parts": [
+        "New Capital One Exclusive: Ottawa Senators at Los Angeles Kings\n\nOttawa Senators at Los Angeles Kings\n\nDate: Oct 29 • 7:00pm\n\nLocation: Crypto.com Arena • Los Angeles, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7300943\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/156"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
