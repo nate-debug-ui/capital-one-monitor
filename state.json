@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7301711",
-      "title": "New Capital One Exclusive: Ottawa Senators at Vegas Golden Knights",
-      "event": {
-        "id": "7301711",
-        "name": "Ottawa Senators at Vegas Golden Knights",
-        "date": "Oct 27 • 7:00pm",
-        "location": "T-Mobile Arena • Las Vegas, NV",
-        "url": "https://entertainment.capitalone.com/events/7301711"
-      }
-    },
-    {
       "key": "event-7301295",
       "title": "New Capital One Exclusive: New York Islanders at Nashville Predators",
       "event": {
