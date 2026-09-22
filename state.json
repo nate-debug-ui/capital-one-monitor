@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302213",
-      "title": "New Capital One Exclusive: Vancouver Canucks at Florida Panthers",
-      "event": {
-        "id": "7302213",
-        "name": "Vancouver Canucks at Florida Panthers",
-        "date": "Oct 15 • 7:00pm",
-        "location": "Amerant Bank Arena • Sunrise, FL",
-        "url": "https://entertainment.capitalone.com/events/7302213"
-      }
-    },
-    {
       "key": "event-7302109",
       "title": "New Capital One Exclusive: Seattle Kraken at Tampa Bay Lightning",
       "event": {
