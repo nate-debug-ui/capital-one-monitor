@@ -4095,17 +4095,6 @@
   ],
   "pending": [
     {
-      "key": "event-7302401",
-      "title": "New Capital One Exclusive: Seattle Kraken at Washington Capitals",
-      "event": {
-        "id": "7302401",
-        "name": "Seattle Kraken at Washington Capitals",
-        "date": "Oct 11 • 5:00pm",
-        "location": "Capital One Arena • Washington, DC",
-        "url": "https://entertainment.capitalone.com/events/7302401"
-      }
-    },
-    {
       "key": "event-7301051",
       "title": "New Capital One Exclusive: Montreal Canadiens at Washington Capitals",
       "event": {
