@@ -3899,17 +3899,6 @@
   ],
   "pending": [
     {
-      "key": "event-7300403",
-      "title": "New Capital One Exclusive: Pittsburgh Penguins at Colorado Avalanche",
-      "event": {
-        "id": "7300403",
-        "name": "Pittsburgh Penguins at Colorado Avalanche",
-        "date": "Oct 16 • 7:00pm",
-        "location": "Ball Arena • Denver, CO",
-        "url": "https://entertainment.capitalone.com/events/7300403"
-      }
-    },
-    {
       "key": "event-7302111",
       "title": "New Capital One Exclusive: Vancouver Canucks at Tampa Bay Lightning",
       "event": {
