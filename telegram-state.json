@@ -269,6 +269,13 @@
     },
     "87": {
       "done": true
+    },
+    "88": {
+      "parts": [
+        "New Capital One Exclusive: St. Louis Blues at Minnesota Wild\n\nSt. Louis Blues at Minnesota Wild\n\nDate: Oct 15 • 7:00pm\n\nLocation: Grand Casino Arena • Saint Paul, MN\n\nEvent details\nhttps://entertainment.capitalone.com/events/7302033\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/88"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
