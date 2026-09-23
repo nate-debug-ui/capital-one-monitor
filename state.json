@@ -2081,6 +2081,20 @@
       "location": "LA Memorial Coliseum • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7587548"
     },
+    "7591680": {
+      "id": "7591680",
+      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "date": "Oct 16 • 6:30pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7591680"
+    },
+    "7591684": {
+      "id": "7591684",
+      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "date": "Oct 17 • 6:30pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7591684"
+    },
     "7595137": {
       "id": "7595137",
       "name": "Three Iterations of Cristal: Celebrating 150 Years",
@@ -2243,6 +2257,20 @@
       "date": "Oct 15 • 6:30pm",
       "location": "Muhajir • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7416285"
+    },
+    {
+      "id": "7591680",
+      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "date": "Oct 16 • 6:30pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7591680"
+    },
+    {
+      "id": "7591684",
+      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "date": "Oct 17 • 6:30pm",
+      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7591684"
     },
     {
       "id": "7587527",
@@ -2973,8 +3001,31 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7591680",
+      "title": "New Capital One Exclusive: José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "event": {
+        "id": "7591680",
+        "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+        "date": "Oct 16 • 6:30pm",
+        "location": "Bazaar Meat by José Andrés • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7591680"
+      }
+    },
+    {
+      "key": "event-7591684",
+      "title": "New Capital One Exclusive: José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "event": {
+        "id": "7591684",
+        "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+        "date": "Oct 17 • 6:30pm",
+        "location": "Bazaar Meat by José Andrés • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7591684"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-23T14:19:39.002Z"
+  "lastSuccess": "2026-09-23T14:39:07.437Z"
 }
