@@ -2973,19 +2973,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7595137",
-      "title": "New Capital One Exclusive: Three Iterations of Cristal: Celebrating 150 Years",
-      "event": {
-        "id": "7595137",
-        "name": "Three Iterations of Cristal: Celebrating 150 Years",
-        "date": "Oct 13 • 11:00am",
-        "location": "The Standard Grill • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7595137"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-23T12:22:36.180Z"
