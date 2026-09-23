@@ -545,6 +545,13 @@
     },
     "179": {
       "done": true
+    },
+    "180": {
+      "parts": [
+        "New Capital One Exclusive: José Andrés Group Preview Dinner: Bazaar Meat Miami\n\nJosé Andrés Group Preview Dinner: Bazaar Meat Miami\n\nDate: Oct 17 • 6:30pm\n\nLocation: Bazaar Meat by José Andrés • New York, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7591684\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/180"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
