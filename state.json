@@ -2085,14 +2085,14 @@
       "id": "7591680",
       "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
       "date": "Oct 16 • 6:30pm",
-      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
       "url": "https://entertainment.capitalone.com/events/7591680"
     },
     "7591684": {
       "id": "7591684",
       "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
       "date": "Oct 17 • 6:30pm",
-      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
       "url": "https://entertainment.capitalone.com/events/7591684"
     },
     "7595137": {
@@ -2262,14 +2262,14 @@
       "id": "7591680",
       "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
       "date": "Oct 16 • 6:30pm",
-      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
       "url": "https://entertainment.capitalone.com/events/7591680"
     },
     {
       "id": "7591684",
       "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
       "date": "Oct 17 • 6:30pm",
-      "location": "Bazaar Meat by José Andrés • New York, NY",
+      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
       "url": "https://entertainment.capitalone.com/events/7591684"
     },
     {
@@ -3004,5 +3004,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-23T14:39:07.437Z"
+  "lastSuccess": "2026-09-23T14:56:40.913Z"
 }
