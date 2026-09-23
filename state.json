@@ -3001,19 +3001,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7591684",
-      "title": "New Capital One Exclusive: José Andrés Group Preview Dinner: Bazaar Meat Miami",
-      "event": {
-        "id": "7591684",
-        "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
-        "date": "Oct 17 • 6:30pm",
-        "location": "Bazaar Meat by José Andrés • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7591684"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-23T14:39:07.437Z"
