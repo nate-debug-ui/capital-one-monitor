@@ -2080,16 +2080,16 @@
       "date": "Sep 26 • 4:30pm",
       "location": "LA Memorial Coliseum • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7587548"
+    },
+    "7595137": {
+      "id": "7595137",
+      "name": "Three Iterations of Cristal: Celebrating 150 Years",
+      "date": "Oct 13 • 11:00am",
+      "location": "The Standard Grill • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7595137"
     }
   },
   "previous": [
-    {
-      "id": "7082374",
-      "name": "Jungsik - Celebrating 15 Years",
-      "date": "Sep 22 • 6:00pm",
-      "location": "Jungsik • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7082374"
-    },
     {
       "id": "6845960",
       "name": "Vienna with Athena Calderone",
@@ -2229,6 +2229,13 @@
       "date": "Oct 12 • 9:00am",
       "location": "TPC Jasna Polana • Princeton, NJ",
       "url": "https://entertainment.capitalone.com/events/7082393"
+    },
+    {
+      "id": "7595137",
+      "name": "Three Iterations of Cristal: Celebrating 150 Years",
+      "date": "Oct 13 • 11:00am",
+      "location": "The Standard Grill • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7595137"
     },
     {
       "id": "7416285",
@@ -2397,6 +2404,20 @@
       "date": "Nov 16 • 8:00am",
       "location": "TPC of Scottsdale • Scottsdale, AZ",
       "url": "https://entertainment.capitalone.com/events/7082398"
+    },
+    {
+      "id": "7433044",
+      "name": "Orlando Magic at Washington Wizards",
+      "date": "Nov 22 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7433044"
+    },
+    {
+      "id": "7538319",
+      "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
+      "date": "Nov 24 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538319"
     },
     {
       "id": "7283678",
@@ -2952,8 +2973,20 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7595137",
+      "title": "New Capital One Exclusive: Three Iterations of Cristal: Celebrating 150 Years",
+      "event": {
+        "id": "7595137",
+        "name": "Three Iterations of Cristal: Celebrating 150 Years",
+        "date": "Oct 13 • 11:00am",
+        "location": "The Standard Grill • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7595137"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-22T22:00:48.168Z"
+  "lastSuccess": "2026-09-23T12:22:36.180Z"
 }
