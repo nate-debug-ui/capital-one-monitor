@@ -2084,7 +2084,7 @@
     "7595137": {
       "id": "7595137",
       "name": "Three Iterations of Cristal: Celebrating 150 Years",
-      "date": "Oct 13 • 11:00am",
+      "date": "Oct 3 • 11:00am",
       "location": "The Standard Grill • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7595137"
     }
@@ -2131,6 +2131,13 @@
       "date": "Oct 2 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283631"
+    },
+    {
+      "id": "7595137",
+      "name": "Three Iterations of Cristal: Celebrating 150 Years",
+      "date": "Oct 3 • 11:00am",
+      "location": "The Standard Grill • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7595137"
     },
     {
       "id": "7283633",
@@ -2229,13 +2236,6 @@
       "date": "Oct 12 • 9:00am",
       "location": "TPC Jasna Polana • Princeton, NJ",
       "url": "https://entertainment.capitalone.com/events/7082393"
-    },
-    {
-      "id": "7595137",
-      "name": "Three Iterations of Cristal: Celebrating 150 Years",
-      "date": "Oct 13 • 11:00am",
-      "location": "The Standard Grill • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7595137"
     },
     {
       "id": "7416285",
@@ -2976,5 +2976,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-23T13:00:57.393Z"
+  "lastSuccess": "2026-09-23T13:23:32.121Z"
 }
