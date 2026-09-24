@@ -551,6 +551,13 @@
     },
     "181": {
       "done": true
+    },
+    "182": {
+      "parts": [
+        "New Capital One Exclusive: TBD at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)\n\nTBD at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)\n\nDate: Sep 29 • 11:59pm\n\nLocation: Truist Park • Atlanta, GA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7606528\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/182"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
