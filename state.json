@@ -2122,6 +2122,13 @@
       "date": "Oct 1 • 11:59pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606532"
+    },
+    "7608222": {
+      "id": "7608222",
+      "name": "Womens Volleyball - Wisconsin vs Minnesota (Cardholder Exclusive)",
+      "date": "Oct 4 • 5:00pm",
+      "location": "Maturi Pavilion • Minneapolis, MN",
+      "url": "https://entertainment.capitalone.com/events/7608222"
     }
   },
   "previous": [
@@ -2215,6 +2222,13 @@
       "date": "Oct 4 • 2:00pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283637"
+    },
+    {
+      "id": "7608222",
+      "name": "Womens Volleyball - Wisconsin vs Minnesota (Cardholder Exclusive)",
+      "date": "Oct 4 • 5:00pm",
+      "location": "Maturi Pavilion • Minneapolis, MN",
+      "url": "https://entertainment.capitalone.com/events/7608222"
     },
     {
       "id": "6845978",
@@ -3029,8 +3043,20 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7608222",
+      "title": "New Capital One Exclusive: Womens Volleyball - Wisconsin vs Minnesota (Cardholder Exclusive)",
+      "event": {
+        "id": "7608222",
+        "name": "Womens Volleyball - Wisconsin vs Minnesota (Cardholder Exclusive)",
+        "date": "Oct 4 • 5:00pm",
+        "location": "Maturi Pavilion • Minneapolis, MN",
+        "url": "https://entertainment.capitalone.com/events/7608222"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-25T19:00:38.474Z"
+  "lastSuccess": "2026-09-25T19:19:32.126Z"
 }
