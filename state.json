@@ -2081,6 +2081,20 @@
       "location": "LA Memorial Coliseum • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7587548"
     },
+    "7591656": {
+      "id": "7591656",
+      "name": "Nebraska vs. Illinois (Cardholder Exclusive)",
+      "date": "Nov 6 • 7:00pm",
+      "location": "Gies Memorial Stadium • Champaign, IL",
+      "url": "https://entertainment.capitalone.com/events/7591656"
+    },
+    "7591666": {
+      "id": "7591666",
+      "name": "Penn State vs. Michigan (Cardholder Exclusive)",
+      "date": "Oct 17 • 11:59pm",
+      "location": "Michigan Stadium • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7591666"
+    },
     "7591680": {
       "id": "7591680",
       "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
@@ -2123,6 +2137,34 @@
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606532"
     },
+    "7608178": {
+      "id": "7608178",
+      "name": "Womens Volleyball: Michigan vs Illinois (Cardholder Exclusive)",
+      "date": "Oct 18 • 1:00pm",
+      "location": "University of Illinois - Huff Hall • Champaign, IL",
+      "url": "https://entertainment.capitalone.com/events/7608178"
+    },
+    "7608180": {
+      "id": "7608180",
+      "name": "Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)",
+      "date": "Oct 24 • 6:00pm",
+      "location": "Xtream Arena • Coralville, IA",
+      "url": "https://entertainment.capitalone.com/events/7608180"
+    },
+    "7608204": {
+      "id": "7608204",
+      "name": "Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "Cliff Keen Arena • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7608204"
+    },
+    "7608218": {
+      "id": "7608218",
+      "name": "Womens Volleyball - Indiana vs Michigan (Cardholder Exclusive)",
+      "date": "Oct 31 • 11:59pm",
+      "location": "Cliff Keen Arena • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7608218"
+    },
     "7608222": {
       "id": "7608222",
       "name": "Womens Volleyball - Wisconsin vs Minnesota (Cardholder Exclusive)",
@@ -2130,12 +2172,47 @@
       "location": "Maturi Pavilion • Minneapolis, MN",
       "url": "https://entertainment.capitalone.com/events/7608222"
     },
+    "7608234": {
+      "id": "7608234",
+      "name": "Womens Volleyball - Washington vs Minnesota (Cardholder Exclusive)",
+      "date": "Oct 25 • 1:00pm",
+      "location": "Maturi Pavilion • Minneapolis, MN",
+      "url": "https://entertainment.capitalone.com/events/7608234"
+    },
+    "7608236": {
+      "id": "7608236",
+      "name": "Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
+      "date": "Oct 17 • 6:00pm",
+      "location": "Maturi Pavilion • Minneapolis, MN",
+      "url": "https://entertainment.capitalone.com/events/7608236"
+    },
+    "7608256": {
+      "id": "7608256",
+      "name": "Washington vs Oregon (Cardholder Exclusive)",
+      "date": "Nov 28 • 11:59pm",
+      "location": "Autzen Stadium • Eugene, OR",
+      "url": "https://entertainment.capitalone.com/events/7608256"
+    },
     "7608258": {
       "id": "7608258",
       "name": "Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
       "date": "Oct 4 • 1:00pm",
       "location": "Matthew Knight Arena • Eugene, OR",
       "url": "https://entertainment.capitalone.com/events/7608258"
+    },
+    "7608260": {
+      "id": "7608260",
+      "name": "Womens Volleyball - Purdue vs Washington (Cardholder Exclusive)",
+      "date": "Oct 4 • 2:00pm",
+      "location": "Alaska Airlines Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7608260"
+    },
+    "7608264": {
+      "id": "7608264",
+      "name": "Womens Volleyball - Maryland vs Washington (Cardholder Exclusive)",
+      "date": "Nov 1 • 11:59pm",
+      "location": "Alaska Airlines Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7608264"
     }
   },
   "previous": [
@@ -2231,6 +2308,13 @@
       "url": "https://entertainment.capitalone.com/events/7608258"
     },
     {
+      "id": "7608260",
+      "name": "Womens Volleyball - Purdue vs Washington (Cardholder Exclusive)",
+      "date": "Oct 4 • 2:00pm",
+      "location": "Alaska Airlines Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7608260"
+    },
+    {
       "id": "7283637",
       "name": "DIRTY DANCING at The National",
       "date": "Oct 4 • 2:00pm",
@@ -2287,6 +2371,13 @@
       "url": "https://entertainment.capitalone.com/events/7283646"
     },
     {
+      "id": "7608204",
+      "name": "Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "Cliff Keen Arena • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7608204"
+    },
+    {
       "id": "7587544",
       "name": "USC vs. Penn State (Cardholder Exclusive)",
       "date": "Oct 10 • 11:59pm",
@@ -2322,6 +2413,13 @@
       "url": "https://entertainment.capitalone.com/events/7591680"
     },
     {
+      "id": "7608236",
+      "name": "Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
+      "date": "Oct 17 • 6:00pm",
+      "location": "Maturi Pavilion • Minneapolis, MN",
+      "url": "https://entertainment.capitalone.com/events/7608236"
+    },
+    {
       "id": "7591684",
       "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
       "date": "Oct 17 • 6:30pm",
@@ -2329,11 +2427,25 @@
       "url": "https://entertainment.capitalone.com/events/7591684"
     },
     {
+      "id": "7591666",
+      "name": "Penn State vs. Michigan (Cardholder Exclusive)",
+      "date": "Oct 17 • 11:59pm",
+      "location": "Michigan Stadium • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7591666"
+    },
+    {
       "id": "7587527",
       "name": "Ohio State vs. Indiana (Cardholder Exclusive)",
       "date": "Oct 17 • 11:59pm",
       "location": "Merchants Bank Field at Memorial Stadium • Bloomington, IN",
       "url": "https://entertainment.capitalone.com/events/7587527"
+    },
+    {
+      "id": "7608178",
+      "name": "Womens Volleyball: Michigan vs Illinois (Cardholder Exclusive)",
+      "date": "Oct 18 • 1:00pm",
+      "location": "University of Illinois - Huff Hall • Champaign, IL",
+      "url": "https://entertainment.capitalone.com/events/7608178"
     },
     {
       "id": "7453787",
@@ -2364,11 +2476,25 @@
       "url": "https://entertainment.capitalone.com/events/7416429"
     },
     {
+      "id": "7608180",
+      "name": "Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)",
+      "date": "Oct 24 • 6:00pm",
+      "location": "Xtream Arena • Coralville, IA",
+      "url": "https://entertainment.capitalone.com/events/7608180"
+    },
+    {
       "id": "7587540",
       "name": "Indiana vs. Michigan (Cardholder Exclusive)",
       "date": "Oct 24 • 11:59pm",
       "location": "Michigan Stadium • Ann Arbor, MI",
       "url": "https://entertainment.capitalone.com/events/7587540"
+    },
+    {
+      "id": "7608234",
+      "name": "Womens Volleyball - Washington vs Minnesota (Cardholder Exclusive)",
+      "date": "Oct 25 • 1:00pm",
+      "location": "Maturi Pavilion • Minneapolis, MN",
+      "url": "https://entertainment.capitalone.com/events/7608234"
     },
     {
       "id": "7419803",
@@ -2399,11 +2525,25 @@
       "url": "https://entertainment.capitalone.com/events/7283668"
     },
     {
+      "id": "7608218",
+      "name": "Womens Volleyball - Indiana vs Michigan (Cardholder Exclusive)",
+      "date": "Oct 31 • 11:59pm",
+      "location": "Cliff Keen Arena • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7608218"
+    },
+    {
       "id": "7283672",
       "name": "MAMMA MIA! at The National",
       "date": "Nov 1 • 2:00pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283672"
+    },
+    {
+      "id": "7608264",
+      "name": "Womens Volleyball - Maryland vs Washington (Cardholder Exclusive)",
+      "date": "Nov 1 • 11:59pm",
+      "location": "Alaska Airlines Arena • Seattle, WA",
+      "url": "https://entertainment.capitalone.com/events/7608264"
     },
     {
       "id": "7538235",
@@ -2418,6 +2558,13 @@
       "date": "Nov 5 • 6:30pm",
       "location": "El Camaron Peludo • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7416303"
+    },
+    {
+      "id": "7591656",
+      "name": "Nebraska vs. Illinois (Cardholder Exclusive)",
+      "date": "Nov 6 • 7:00pm",
+      "location": "Gies Memorial Stadium • Champaign, IL",
+      "url": "https://entertainment.capitalone.com/events/7591656"
     },
     {
       "id": "7416441",
@@ -2523,6 +2670,13 @@
       "date": "Nov 28 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283684"
+    },
+    {
+      "id": "7608256",
+      "name": "Washington vs Oregon (Cardholder Exclusive)",
+      "date": "Nov 28 • 11:59pm",
+      "location": "Autzen Stadium • Eugene, OR",
+      "url": "https://entertainment.capitalone.com/events/7608256"
     },
     {
       "id": "7283690",
@@ -3057,8 +3211,130 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7608260",
+      "title": "New Capital One Exclusive: Womens Volleyball - Purdue vs Washington (Cardholder Exclusive)",
+      "event": {
+        "id": "7608260",
+        "name": "Womens Volleyball - Purdue vs Washington (Cardholder Exclusive)",
+        "date": "Oct 4 • 2:00pm",
+        "location": "Alaska Airlines Arena • Seattle, WA",
+        "url": "https://entertainment.capitalone.com/events/7608260"
+      }
+    },
+    {
+      "key": "event-7608204",
+      "title": "New Capital One Exclusive: Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)",
+      "event": {
+        "id": "7608204",
+        "name": "Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)",
+        "date": "Oct 10 • 11:59pm",
+        "location": "Cliff Keen Arena • Ann Arbor, MI",
+        "url": "https://entertainment.capitalone.com/events/7608204"
+      }
+    },
+    {
+      "key": "event-7608236",
+      "title": "New Capital One Exclusive: Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
+      "event": {
+        "id": "7608236",
+        "name": "Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
+        "date": "Oct 17 • 6:00pm",
+        "location": "Maturi Pavilion • Minneapolis, MN",
+        "url": "https://entertainment.capitalone.com/events/7608236"
+      }
+    },
+    {
+      "key": "event-7591666",
+      "title": "New Capital One Exclusive: Penn State vs. Michigan (Cardholder Exclusive)",
+      "event": {
+        "id": "7591666",
+        "name": "Penn State vs. Michigan (Cardholder Exclusive)",
+        "date": "Oct 17 • 11:59pm",
+        "location": "Michigan Stadium • Ann Arbor, MI",
+        "url": "https://entertainment.capitalone.com/events/7591666"
+      }
+    },
+    {
+      "key": "event-7608178",
+      "title": "New Capital One Exclusive: Womens Volleyball: Michigan vs Illinois (Cardholder Exclusive)",
+      "event": {
+        "id": "7608178",
+        "name": "Womens Volleyball: Michigan vs Illinois (Cardholder Exclusive)",
+        "date": "Oct 18 • 1:00pm",
+        "location": "University of Illinois - Huff Hall • Champaign, IL",
+        "url": "https://entertainment.capitalone.com/events/7608178"
+      }
+    },
+    {
+      "key": "event-7608180",
+      "title": "New Capital One Exclusive: Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)",
+      "event": {
+        "id": "7608180",
+        "name": "Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)",
+        "date": "Oct 24 • 6:00pm",
+        "location": "Xtream Arena • Coralville, IA",
+        "url": "https://entertainment.capitalone.com/events/7608180"
+      }
+    },
+    {
+      "key": "event-7608234",
+      "title": "New Capital One Exclusive: Womens Volleyball - Washington vs Minnesota (Cardholder Exclusive)",
+      "event": {
+        "id": "7608234",
+        "name": "Womens Volleyball - Washington vs Minnesota (Cardholder Exclusive)",
+        "date": "Oct 25 • 1:00pm",
+        "location": "Maturi Pavilion • Minneapolis, MN",
+        "url": "https://entertainment.capitalone.com/events/7608234"
+      }
+    },
+    {
+      "key": "event-7608218",
+      "title": "New Capital One Exclusive: Womens Volleyball - Indiana vs Michigan (Cardholder Exclusive)",
+      "event": {
+        "id": "7608218",
+        "name": "Womens Volleyball - Indiana vs Michigan (Cardholder Exclusive)",
+        "date": "Oct 31 • 11:59pm",
+        "location": "Cliff Keen Arena • Ann Arbor, MI",
+        "url": "https://entertainment.capitalone.com/events/7608218"
+      }
+    },
+    {
+      "key": "event-7608264",
+      "title": "New Capital One Exclusive: Womens Volleyball - Maryland vs Washington (Cardholder Exclusive)",
+      "event": {
+        "id": "7608264",
+        "name": "Womens Volleyball - Maryland vs Washington (Cardholder Exclusive)",
+        "date": "Nov 1 • 11:59pm",
+        "location": "Alaska Airlines Arena • Seattle, WA",
+        "url": "https://entertainment.capitalone.com/events/7608264"
+      }
+    },
+    {
+      "key": "event-7591656",
+      "title": "New Capital One Exclusive: Nebraska vs. Illinois (Cardholder Exclusive)",
+      "event": {
+        "id": "7591656",
+        "name": "Nebraska vs. Illinois (Cardholder Exclusive)",
+        "date": "Nov 6 • 7:00pm",
+        "location": "Gies Memorial Stadium • Champaign, IL",
+        "url": "https://entertainment.capitalone.com/events/7591656"
+      }
+    },
+    {
+      "key": "event-7608256",
+      "title": "New Capital One Exclusive: Washington vs Oregon (Cardholder Exclusive)",
+      "event": {
+        "id": "7608256",
+        "name": "Washington vs Oregon (Cardholder Exclusive)",
+        "date": "Nov 28 • 11:59pm",
+        "location": "Autzen Stadium • Eugene, OR",
+        "url": "https://entertainment.capitalone.com/events/7608256"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-25T20:58:12.737Z"
+  "lastSuccess": "2026-09-25T21:19:47.324Z"
 }
