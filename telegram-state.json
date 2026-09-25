@@ -596,6 +596,13 @@
     },
     "196": {
       "done": true
+    },
+    "197": {
+      "parts": [
+        "New Capital One Exclusive: Nebraska vs. Illinois (Cardholder Exclusive)\n\nNebraska vs. Illinois (Cardholder Exclusive)\n\nDate: Nov 6 • 7:00pm\n\nLocation: Gies Memorial Stadium • Champaign, IL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7591656\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/197"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
