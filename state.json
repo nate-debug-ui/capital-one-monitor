@@ -2129,6 +2129,13 @@
       "date": "Oct 4 • 5:00pm",
       "location": "Maturi Pavilion • Minneapolis, MN",
       "url": "https://entertainment.capitalone.com/events/7608222"
+    },
+    "7608258": {
+      "id": "7608258",
+      "name": "Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
+      "date": "Oct 4 • 1:00pm",
+      "location": "Matthew Knight Arena • Eugene, OR",
+      "url": "https://entertainment.capitalone.com/events/7608258"
     }
   },
   "previous": [
@@ -2215,6 +2222,13 @@
       "date": "Oct 3 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283635"
+    },
+    {
+      "id": "7608258",
+      "name": "Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
+      "date": "Oct 4 • 1:00pm",
+      "location": "Matthew Knight Arena • Eugene, OR",
+      "url": "https://entertainment.capitalone.com/events/7608258"
     },
     {
       "id": "7283637",
@@ -3043,8 +3057,20 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7608258",
+      "title": "New Capital One Exclusive: Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
+      "event": {
+        "id": "7608258",
+        "name": "Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
+        "date": "Oct 4 • 1:00pm",
+        "location": "Matthew Knight Arena • Eugene, OR",
+        "url": "https://entertainment.capitalone.com/events/7608258"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-25T19:35:10.733Z"
+  "lastSuccess": "2026-09-25T19:50:36.862Z"
 }
