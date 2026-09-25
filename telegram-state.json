@@ -572,6 +572,13 @@
     },
     "188": {
       "done": true
+    },
+    "189": {
+      "parts": [
+        "New Capital One Exclusive: Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)\n\nWomens Volleyball - Oregon vs Michigan (Cardholder Exclusive)\n\nDate: Oct 10 • 11:59pm\n\nLocation: Cliff Keen Arena • Ann Arbor, MI\n\nEvent details\nhttps://entertainment.capitalone.com/events/7608204\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/189"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
