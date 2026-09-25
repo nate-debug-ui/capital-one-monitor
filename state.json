@@ -3057,19 +3057,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7608258",
-      "title": "New Capital One Exclusive: Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
-      "event": {
-        "id": "7608258",
-        "name": "Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
-        "date": "Oct 4 • 1:00pm",
-        "location": "Matthew Knight Arena • Eugene, OR",
-        "url": "https://entertainment.capitalone.com/events/7608258"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-25T19:50:36.862Z"
