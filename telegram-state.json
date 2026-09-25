@@ -601,11 +601,7 @@
       "done": true
     },
     "198": {
-      "parts": [
-        "New Capital One Exclusive: Washington vs Oregon (Cardholder Exclusive)\n\nWashington vs Oregon (Cardholder Exclusive)\n\nDate: Nov 28 • 11:59pm\n\nLocation: Autzen Stadium • Eugene, OR\n\nEvent details\nhttps://entertainment.capitalone.com/events/7608256\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/198"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
