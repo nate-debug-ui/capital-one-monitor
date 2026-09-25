@@ -2126,13 +2126,6 @@
   },
   "previous": [
     {
-      "id": "7258329",
-      "name": "Washington Mystics Honorary Captain Experience",
-      "date": "Sep 24 • 6:30pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7258329"
-    },
-    {
       "id": "7587548",
       "name": "Oregon vs. USC (Cardholder Exclusive)",
       "date": "Sep 26 • 4:30pm",
@@ -3039,5 +3032,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-24T21:52:37.219Z"
+  "lastSuccess": "2026-09-25T12:22:47.219Z"
 }
