@@ -584,6 +584,13 @@
     },
     "192": {
       "done": true
+    },
+    "193": {
+      "parts": [
+        "New Capital One Exclusive: Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)\n\nWomens Volleyball: UCLA vs Iowa (Cardholder Exclusive)\n\nDate: Oct 24 • 6:00pm\n\nLocation: Xtream Arena • Coralville, IA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7608180\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/193"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
