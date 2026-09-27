@@ -2118,21 +2118,21 @@
     },
     "7606528": {
       "id": "7606528",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
+      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
       "date": "Sep 29 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606528"
     },
     "7606530": {
       "id": "7606530",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
+      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
       "date": "Sep 30 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606530"
     },
     "7606532": {
       "id": "7606532",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
+      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
       "date": "Oct 1 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606532"
@@ -2218,7 +2218,7 @@
   "previous": [
     {
       "id": "7606528",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
+      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
       "date": "Sep 29 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606528"
@@ -2232,14 +2232,14 @@
     },
     {
       "id": "7606530",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
+      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
       "date": "Sep 30 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606530"
     },
     {
       "id": "7606532",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
+      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
       "date": "Oct 1 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606532"
@@ -3207,5 +3207,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-27T21:31:00.341Z"
+  "lastSuccess": "2026-09-27T21:46:11.096Z"
 }
