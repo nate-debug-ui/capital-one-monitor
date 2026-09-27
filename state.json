@@ -2119,21 +2119,21 @@
     "7606528": {
       "id": "7606528",
       "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
-      "date": "Sep 29 • 11:59pm",
+      "date": "Sep 29 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606528"
     },
     "7606530": {
       "id": "7606530",
       "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
-      "date": "Sep 30 • 11:59pm",
+      "date": "Sep 30 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606530"
     },
     "7606532": {
       "id": "7606532",
       "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
-      "date": "Oct 1 • 11:59pm",
+      "date": "Oct 1 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606532"
     },
@@ -2217,6 +2217,13 @@
   },
   "previous": [
     {
+      "id": "7606528",
+      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
+      "date": "Sep 29 • 2:00pm",
+      "location": "Truist Park • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7606528"
+    },
+    {
       "id": "7538229",
       "name": "LA: Carbone Fine Food Pizza Tour Hosted by Capital One",
       "date": "Sep 29 • 7:00pm",
@@ -2224,18 +2231,18 @@
       "url": "https://entertainment.capitalone.com/events/7538229"
     },
     {
-      "id": "7606528",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
-      "date": "Sep 29 • 11:59pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7606528"
-    },
-    {
       "id": "7606530",
       "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
-      "date": "Sep 30 • 11:59pm",
+      "date": "Sep 30 • 2:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606530"
+    },
+    {
+      "id": "7606532",
+      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
+      "date": "Oct 1 • 2:00pm",
+      "location": "Truist Park • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7606532"
     },
     {
       "id": "7416345",
@@ -2243,13 +2250,6 @@
       "date": "Oct 1 • 6:00pm",
       "location": "Ox and Olive Steakhouse • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7416345"
-    },
-    {
-      "id": "7606532",
-      "name": "TBD at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
-      "date": "Oct 1 • 11:59pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7606532"
     },
     {
       "id": "7283631",
@@ -3207,5 +3207,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-27T17:34:03.458Z"
+  "lastSuccess": "2026-09-27T17:48:45.029Z"
 }
