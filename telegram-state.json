@@ -613,11 +613,7 @@
       "done": true
     },
     "202": {
-      "parts": [
-        "New Capital One Exclusive: Test Event -- Seller Integration DO NOT BUY\n\nTest Event -- Seller Integration DO NOT BUY\n\nDate: Jul 13 • 8:00pm\n\nLocation: Test Stadium • Chicago, IL\n\nEvent details\nhttps://entertainment.capitalone.com/events/1361816\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/202"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
