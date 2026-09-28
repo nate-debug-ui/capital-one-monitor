@@ -345,6 +345,27 @@
       "location": "Blue FCU Arena at The Ranch Events Complex • Loveland, CO",
       "url": "https://entertainment.capitalone.com/events/7290009"
     },
+    "7290782": {
+      "id": "7290782",
+      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 1)",
+      "date": "Sep 29 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290782"
+    },
+    "7290784": {
+      "id": "7290784",
+      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
+      "date": "Sep 30 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290784"
+    },
+    "7290786": {
+      "id": "7290786",
+      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
+      "date": "Oct 1 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290786"
+    },
     "7292405": {
       "id": "7292405",
       "name": "New York Rangers at Boston Bruins",
@@ -1493,6 +1514,27 @@
       "location": "Honda Center • Anaheim, CA",
       "url": "https://entertainment.capitalone.com/events/7302527"
     },
+    "7371131": {
+      "id": "7371131",
+      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
+      "date": "Sep 29 • 4:00pm",
+      "location": "Daikin Park • Houston, TX",
+      "url": "https://entertainment.capitalone.com/events/7371131"
+    },
+    "7371133": {
+      "id": "7371133",
+      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
+      "date": "Sep 30 • 4:00pm",
+      "location": "Daikin Park • Houston, TX",
+      "url": "https://entertainment.capitalone.com/events/7371133"
+    },
+    "7371135": {
+      "id": "7371135",
+      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
+      "date": "Oct 1 • 4:00pm",
+      "location": "Daikin Park • Houston, TX",
+      "url": "https://entertainment.capitalone.com/events/7371135"
+    },
     "7393814": {
       "id": "7393814",
       "name": "Opening Night of DOLLY: A True Original Musical",
@@ -1576,6 +1618,27 @@
       "date": "Oct 30 • 7:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7419803"
+    },
+    "7423016": {
+      "id": "7423016",
+      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 1)",
+      "date": "Sep 29 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423016"
+    },
+    "7423018": {
+      "id": "7423018",
+      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
+      "date": "Sep 30 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423018"
+    },
+    "7423020": {
+      "id": "7423020",
+      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
+      "date": "Oct 1 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423020"
     },
     "7425115": {
       "id": "7425115",
@@ -2238,11 +2301,32 @@
       "url": "https://entertainment.capitalone.com/events/7606528"
     },
     {
+      "id": "7371131",
+      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
+      "date": "Sep 29 • 4:00pm",
+      "location": "Daikin Park • Houston, TX",
+      "url": "https://entertainment.capitalone.com/events/7371131"
+    },
+    {
       "id": "7538229",
       "name": "LA: Carbone Fine Food Pizza Tour Hosted by Capital One",
       "date": "Sep 29 • 7:00pm",
       "location": "Prince Street Pizza • West Hollywood, CA",
       "url": "https://entertainment.capitalone.com/events/7538229"
+    },
+    {
+      "id": "7423016",
+      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 1)",
+      "date": "Sep 29 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423016"
+    },
+    {
+      "id": "7290782",
+      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 1)",
+      "date": "Sep 29 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290782"
     },
     {
       "id": "7606530",
@@ -2252,6 +2336,27 @@
       "url": "https://entertainment.capitalone.com/events/7606530"
     },
     {
+      "id": "7371133",
+      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
+      "date": "Sep 30 • 4:00pm",
+      "location": "Daikin Park • Houston, TX",
+      "url": "https://entertainment.capitalone.com/events/7371133"
+    },
+    {
+      "id": "7423018",
+      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
+      "date": "Sep 30 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423018"
+    },
+    {
+      "id": "7290784",
+      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
+      "date": "Sep 30 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290784"
+    },
+    {
       "id": "7606532",
       "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives) (If Necessary)",
       "date": "Oct 1 • 2:00pm",
@@ -2259,11 +2364,32 @@
       "url": "https://entertainment.capitalone.com/events/7606532"
     },
     {
+      "id": "7371135",
+      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
+      "date": "Oct 1 • 4:00pm",
+      "location": "Daikin Park • Houston, TX",
+      "url": "https://entertainment.capitalone.com/events/7371135"
+    },
+    {
       "id": "7416345",
       "name": "Ox & Olive - Chef Ryan Ratino's Steakhouse Story",
       "date": "Oct 1 • 6:00pm",
       "location": "Ox and Olive Steakhouse • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7416345"
+    },
+    {
+      "id": "7423020",
+      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
+      "date": "Oct 1 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423020"
+    },
+    {
+      "id": "7290786",
+      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
+      "date": "Oct 1 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290786"
     },
     {
       "id": "7283631",
@@ -2341,69 +2467,6 @@
       "date": "Oct 6 • 3:00pm",
       "location": "Sol y Luna • Urubamba, PE",
       "url": "https://entertainment.capitalone.com/events/6845978"
-    },
-    {
-      "id": "7538216",
-      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
-      "date": "Oct 6 • 7:00pm",
-      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7538216"
-    },
-    {
-      "id": "7538218",
-      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
-      "date": "Oct 6 • 9:30pm",
-      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7538218"
-    },
-    {
-      "id": "7283643",
-      "name": "MAYBE HAPPY ENDING at The National",
-      "date": "Oct 9 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283643"
-    },
-    {
-      "id": "7283656",
-      "name": "MAYBE HAPPY ENDING at The National",
-      "date": "Oct 10 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283656"
-    },
-    {
-      "id": "7283646",
-      "name": "MAYBE HAPPY ENDING at The National",
-      "date": "Oct 10 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283646"
-    },
-    {
-      "id": "7608204",
-      "name": "Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)",
-      "date": "Oct 10 • 11:59pm",
-      "location": "Cliff Keen Arena • Ann Arbor, MI",
-      "url": "https://entertainment.capitalone.com/events/7608204"
-    },
-    {
-      "id": "7587544",
-      "name": "USC vs. Penn State (Cardholder Exclusive)",
-      "date": "Oct 10 • 11:59pm",
-      "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
-      "url": "https://entertainment.capitalone.com/events/7587544"
-    },
-    {
-      "id": "7283660",
-      "name": "MAYBE HAPPY ENDING at The National",
-      "date": "Oct 11 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283660"
-    },
-    {
-      "id": "7082393",
-      "name": "TPC Jasna Polana Golf Academy with Will Zalatoris",
-      "date": "Oct 12 • 9:00am",
-      "location": "TPC Jasna Polana • Princeton, NJ",
-      "url": "https://entertainment.capitalone.com/events/7082393"
     },
     {
       "id": "7416285",
@@ -2670,69 +2733,6 @@
       "date": "Nov 27 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283678"
-    },
-    {
-      "id": "7283682",
-      "name": "HELL'S KITCHEN at The National",
-      "date": "Nov 28 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283682"
-    },
-    {
-      "id": "7283684",
-      "name": "HELL'S KITCHEN at The National",
-      "date": "Nov 28 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283684"
-    },
-    {
-      "id": "7608256",
-      "name": "Washington vs Oregon (Cardholder Exclusive)",
-      "date": "Nov 28 • 11:59pm",
-      "location": "Autzen Stadium • Eugene, OR",
-      "url": "https://entertainment.capitalone.com/events/7608256"
-    },
-    {
-      "id": "7283690",
-      "name": "HELL'S KITCHEN at The National",
-      "date": "Nov 29 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283690"
-    },
-    {
-      "id": "7538331",
-      "name": "The Nutcracker Rehearsal and Exclusive Dinner",
-      "date": "Dec 1 • 6:30pm",
-      "location": "David H. Koch Theater • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7538331"
-    },
-    {
-      "id": "7538237",
-      "name": "Zamboni Ride at Vancouver Canucks vs. Washington Capitals",
-      "date": "Dec 1 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538237"
-    },
-    {
-      "id": "7430025",
-      "name": "Gracie Abrams: The Look at My Life Tour (DEN N1) (Cardholder Exclusives)",
-      "date": "Dec 2 • 8:00pm",
-      "location": "Ball Arena • Denver, CO",
-      "url": "https://entertainment.capitalone.com/events/7430025"
-    },
-    {
-      "id": "7416449",
-      "name": "MICHELIN - An Exclusive Menu by Oriole & Providence",
-      "date": "Dec 3 • 6:30pm",
-      "location": "Oriole • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7416449"
-    },
-    {
-      "id": "7416317",
-      "name": "Eater - A Family Feast with Ellizabetta La Strega",
-      "date": "Dec 3 • 6:30pm",
-      "location": "Ellizabetta La Strega • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7416317"
     },
     {
       "id": "7430027",
@@ -3232,8 +3232,108 @@
       "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7371131",
+      "title": "New Capital One Exclusive: Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
+      "event": {
+        "id": "7371131",
+        "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
+        "date": "Sep 29 • 4:00pm",
+        "location": "Daikin Park • Houston, TX",
+        "url": "https://entertainment.capitalone.com/events/7371131"
+      }
+    },
+    {
+      "key": "event-7423016",
+      "title": "New Capital One Exclusive: Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 1)",
+      "event": {
+        "id": "7423016",
+        "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 1)",
+        "date": "Sep 29 • 7:00pm",
+        "location": "PETCO Park • San Diego, CA",
+        "url": "https://entertainment.capitalone.com/events/7423016"
+      }
+    },
+    {
+      "key": "event-7290782",
+      "title": "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 1)",
+      "event": {
+        "id": "7290782",
+        "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 1)",
+        "date": "Sep 29 • 8:00pm",
+        "location": "Yankee Stadium • Bronx, NY",
+        "url": "https://entertainment.capitalone.com/events/7290782"
+      }
+    },
+    {
+      "key": "event-7371133",
+      "title": "New Capital One Exclusive: Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
+      "event": {
+        "id": "7371133",
+        "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
+        "date": "Sep 30 • 4:00pm",
+        "location": "Daikin Park • Houston, TX",
+        "url": "https://entertainment.capitalone.com/events/7371133"
+      }
+    },
+    {
+      "key": "event-7423018",
+      "title": "New Capital One Exclusive: Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
+      "event": {
+        "id": "7423018",
+        "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
+        "date": "Sep 30 • 7:00pm",
+        "location": "PETCO Park • San Diego, CA",
+        "url": "https://entertainment.capitalone.com/events/7423018"
+      }
+    },
+    {
+      "key": "event-7290784",
+      "title": "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
+      "event": {
+        "id": "7290784",
+        "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
+        "date": "Sep 30 • 8:00pm",
+        "location": "Yankee Stadium • Bronx, NY",
+        "url": "https://entertainment.capitalone.com/events/7290784"
+      }
+    },
+    {
+      "key": "event-7371135",
+      "title": "New Capital One Exclusive: Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7371135",
+        "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
+        "date": "Oct 1 • 4:00pm",
+        "location": "Daikin Park • Houston, TX",
+        "url": "https://entertainment.capitalone.com/events/7371135"
+      }
+    },
+    {
+      "key": "event-7423020",
+      "title": "New Capital One Exclusive: Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7423020",
+        "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
+        "date": "Oct 1 • 7:00pm",
+        "location": "PETCO Park • San Diego, CA",
+        "url": "https://entertainment.capitalone.com/events/7423020"
+      }
+    },
+    {
+      "key": "event-7290786",
+      "title": "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7290786",
+        "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
+        "date": "Oct 1 • 8:00pm",
+        "location": "Yankee Stadium • Bronx, NY",
+        "url": "https://entertainment.capitalone.com/events/7290786"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-28T19:28:21.756Z"
+  "lastSuccess": "2026-09-28T19:47:33.000Z"
 }
