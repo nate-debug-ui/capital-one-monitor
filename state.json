@@ -3234,17 +3234,6 @@
   ],
   "pending": [
     {
-      "key": "event-7423020",
-      "title": "New Capital One Exclusive: Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
-      "event": {
-        "id": "7423020",
-        "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
-        "date": "Oct 1 • 7:00pm",
-        "location": "PETCO Park • San Diego, CA",
-        "url": "https://entertainment.capitalone.com/events/7423020"
-      }
-    },
-    {
       "key": "event-7290786",
       "title": "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
       "event": {
