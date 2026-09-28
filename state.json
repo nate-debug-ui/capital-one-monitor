@@ -3234,17 +3234,6 @@
   ],
   "pending": [
     {
-      "key": "event-7290784",
-      "title": "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
-      "event": {
-        "id": "7290784",
-        "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
-        "date": "Sep 30 • 8:00pm",
-        "location": "Yankee Stadium • Bronx, NY",
-        "url": "https://entertainment.capitalone.com/events/7290784"
-      }
-    },
-    {
       "key": "event-7371135",
       "title": "New Capital One Exclusive: Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
       "event": {
