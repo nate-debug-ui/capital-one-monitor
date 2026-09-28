@@ -2220,6 +2220,13 @@
       "date": "Nov 1 • 11:59pm",
       "location": "Alaska Airlines Arena • Seattle, WA",
       "url": "https://entertainment.capitalone.com/events/7608264"
+    },
+    "7621569": {
+      "id": "7621569",
+      "name": "Venture X Business Dinner with Jose Andres",
+      "date": "Nov 12 • 7:00pm",
+      "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7621569"
     }
   },
   "previous": [
@@ -2593,6 +2600,13 @@
       "date": "Nov 11 • 8:30am",
       "location": "Shadow Creek Golf Course • North Las Vegas, NV",
       "url": "https://entertainment.capitalone.com/events/7430006"
+    },
+    {
+      "id": "7621569",
+      "name": "Venture X Business Dinner with Jose Andres",
+      "date": "Nov 12 • 7:00pm",
+      "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7621569"
     },
     {
       "id": "7505872",
@@ -3218,8 +3232,20 @@
       "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7621569",
+      "title": "New Capital One Exclusive: Venture X Business Dinner with Jose Andres",
+      "event": {
+        "id": "7621569",
+        "name": "Venture X Business Dinner with Jose Andres",
+        "date": "Nov 12 • 7:00pm",
+        "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7621569"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-28T18:25:45.575Z"
+  "lastSuccess": "2026-09-28T18:50:18.653Z"
 }
