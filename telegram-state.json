@@ -617,6 +617,13 @@
     },
     "203": {
       "done": true
+    },
+    "204": {
+      "parts": [
+        "New Capital One Exclusive: Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)\n\nChicago White Sox at Houston Astros (AL Wild Card, Home Game 1)\n\nDate: Sep 29 • 4:00pm\n\nLocation: Daikin Park • Houston, TX\n\nEvent details\nhttps://entertainment.capitalone.com/events/7371131\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/204"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
