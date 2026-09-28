@@ -3232,19 +3232,7 @@
       "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7290786",
-      "title": "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
-      "event": {
-        "id": "7290786",
-        "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
-        "date": "Oct 1 • 8:00pm",
-        "location": "Yankee Stadium • Bronx, NY",
-        "url": "https://entertainment.capitalone.com/events/7290786"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-28T19:47:33.000Z"
