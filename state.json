@@ -3234,17 +3234,6 @@
   ],
   "pending": [
     {
-      "key": "event-7423018",
-      "title": "New Capital One Exclusive: Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
-      "event": {
-        "id": "7423018",
-        "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
-        "date": "Sep 30 • 7:00pm",
-        "location": "PETCO Park • San Diego, CA",
-        "url": "https://entertainment.capitalone.com/events/7423018"
-      }
-    },
-    {
       "key": "event-7290784",
       "title": "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
       "event": {
