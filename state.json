@@ -2,6 +2,13 @@
   "version": 1,
   "initialized": true,
   "seen": {
+    "1361816": {
+      "id": "1361816",
+      "name": "Test Event -- Seller Integration DO NOT BUY",
+      "date": "Jul 13 • 8:00pm",
+      "location": "Test Stadium • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/1361816"
+    },
     "6752215": {
       "id": "6752215",
       "name": "2027 NCAA Mens Frozen Four - Semifinals",
@@ -3202,10 +3209,29 @@
       "date": "Apr 8 • 11:59pm",
       "location": "United Center • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/6752227"
+    },
+    {
+      "id": "1361816",
+      "name": "Test Event -- Seller Integration DO NOT BUY",
+      "date": "Jul 13 • 8:00pm",
+      "location": "Test Stadium • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-1361816",
+      "title": "New Capital One Exclusive: Test Event -- Seller Integration DO NOT BUY",
+      "event": {
+        "id": "1361816",
+        "name": "Test Event -- Seller Integration DO NOT BUY",
+        "date": "Jul 13 • 8:00pm",
+        "location": "Test Stadium • Chicago, IL",
+        "url": "https://entertainment.capitalone.com/events/1361816"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-28T16:48:49.475Z"
+  "lastSuccess": "2026-09-28T17:04:48.210Z"
 }
