@@ -2140,7 +2140,7 @@
     "7587544": {
       "id": "7587544",
       "name": "USC vs. Penn State (Cardholder Exclusive)",
-      "date": "Oct 10 • 11:59pm",
+      "date": "Oct 10 • 7:30pm",
       "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
       "url": "https://entertainment.capitalone.com/events/7587544"
     },
@@ -2286,7 +2286,7 @@
     },
     "7621569": {
       "id": "7621569",
-      "name": "Venture X Business Dinner with Jose Andres",
+      "name": "Venture X Business Dinner with José Andrés",
       "date": "Nov 12 • 7:00pm",
       "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7621569"
@@ -2497,6 +2497,13 @@
       "url": "https://entertainment.capitalone.com/events/7283656"
     },
     {
+      "id": "7587544",
+      "name": "USC vs. Penn State (Cardholder Exclusive)",
+      "date": "Oct 10 • 7:30pm",
+      "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
+      "url": "https://entertainment.capitalone.com/events/7587544"
+    },
+    {
       "id": "7283646",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 10 • 7:30pm",
@@ -2509,13 +2516,6 @@
       "date": "Oct 10 • 11:59pm",
       "location": "Cliff Keen Arena • Ann Arbor, MI",
       "url": "https://entertainment.capitalone.com/events/7608204"
-    },
-    {
-      "id": "7587544",
-      "name": "USC vs. Penn State (Cardholder Exclusive)",
-      "date": "Oct 10 • 11:59pm",
-      "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
-      "url": "https://entertainment.capitalone.com/events/7587544"
     },
     {
       "id": "7283660",
@@ -2729,7 +2729,7 @@
     },
     {
       "id": "7621569",
-      "name": "Venture X Business Dinner with Jose Andres",
+      "name": "Venture X Business Dinner with José Andrés",
       "date": "Nov 12 • 7:00pm",
       "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7621569"
@@ -3361,5 +3361,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-28T20:21:55.489Z"
+  "lastSuccess": "2026-09-28T20:41:42.488Z"
 }
