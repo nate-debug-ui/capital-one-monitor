@@ -632,6 +632,13 @@
     },
     "208": {
       "done": true
+    },
+    "209": {
+      "parts": [
+        "New Capital One Exclusive: Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)\n\nBoston Red Sox at New York Yankees (AL Wild Card, Home Game 2)\n\nDate: Sep 30 • 8:00pm\n\nLocation: Yankee Stadium • Bronx, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7290784\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/209"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
