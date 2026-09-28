@@ -3234,17 +3234,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371133",
-      "title": "New Capital One Exclusive: Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
-      "event": {
-        "id": "7371133",
-        "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
-        "date": "Sep 30 • 4:00pm",
-        "location": "Daikin Park • Houston, TX",
-        "url": "https://entertainment.capitalone.com/events/7371133"
-      }
-    },
-    {
       "key": "event-7423018",
       "title": "New Capital One Exclusive: Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
       "event": {
