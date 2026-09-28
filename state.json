@@ -3234,17 +3234,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371135",
-      "title": "New Capital One Exclusive: Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
-      "event": {
-        "id": "7371135",
-        "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
-        "date": "Oct 1 • 4:00pm",
-        "location": "Daikin Park • Houston, TX",
-        "url": "https://entertainment.capitalone.com/events/7371135"
-      }
-    },
-    {
       "key": "event-7423020",
       "title": "New Capital One Exclusive: Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
       "event": {
