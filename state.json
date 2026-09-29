@@ -2371,7 +2371,7 @@
     "7622264": {
       "id": "7622264",
       "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
-      "date": "Dec 15 • 6:30pm",
+      "date": "Dec 15 • 7:30pm",
       "location": "Xfinity Mobile Arena • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7622264"
     }
@@ -3043,6 +3043,13 @@
       "url": "https://entertainment.capitalone.com/events/7430117"
     },
     {
+      "id": "7622264",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
+      "date": "Dec 15 • 7:30pm",
+      "location": "Xfinity Mobile Arena • Philadelphia, PA",
+      "url": "https://entertainment.capitalone.com/events/7622264"
+    },
+    {
       "id": "7622240",
       "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
       "date": "Dec 17 • 7:30pm",
@@ -3445,5 +3452,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T18:53:26.571Z"
+  "lastSuccess": "2026-09-29T19:14:10.752Z"
 }
