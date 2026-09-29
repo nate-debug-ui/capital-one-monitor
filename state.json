@@ -3435,19 +3435,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7622240",
-      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Nashville",
-      "event": {
-        "id": "7622240",
-        "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
-        "date": "Dec 17 • 7:30pm",
-        "location": "Bridgestone Arena • Nashville, TN",
-        "url": "https://entertainment.capitalone.com/events/7622240"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-29T15:47:14.854Z"
