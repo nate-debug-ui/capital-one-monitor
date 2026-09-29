@@ -2378,13 +2378,6 @@
   },
   "previous": [
     {
-      "id": "7606528",
-      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 1) (Cardholder Exclusives)",
-      "date": "Sep 29 • 2:00pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7606528"
-    },
-    {
       "id": "7371131",
       "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
       "date": "Sep 29 • 4:00pm",
@@ -2595,11 +2588,25 @@
       "url": "https://entertainment.capitalone.com/events/7416285"
     },
     {
+      "id": "7591680",
+      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "date": "Oct 16 • 6:30pm",
+      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
+      "url": "https://entertainment.capitalone.com/events/7591680"
+    },
+    {
       "id": "7608236",
       "name": "Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
       "date": "Oct 17 • 6:00pm",
       "location": "Maturi Pavilion • Minneapolis, MN",
       "url": "https://entertainment.capitalone.com/events/7608236"
+    },
+    {
+      "id": "7591684",
+      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
+      "date": "Oct 17 • 6:30pm",
+      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
+      "url": "https://entertainment.capitalone.com/events/7591684"
     },
     {
       "id": "7591666",
@@ -3043,13 +3050,6 @@
       "url": "https://entertainment.capitalone.com/events/7430117"
     },
     {
-      "id": "7622264",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
-      "date": "Dec 15 • 7:30pm",
-      "location": "Xfinity Mobile Arena • Philadelphia, PA",
-      "url": "https://entertainment.capitalone.com/events/7622264"
-    },
-    {
       "id": "7622240",
       "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
       "date": "Dec 17 • 7:30pm",
@@ -3452,5 +3452,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T19:14:10.752Z"
+  "lastSuccess": "2026-09-29T19:34:51.642Z"
 }
