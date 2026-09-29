@@ -2290,6 +2290,55 @@
       "date": "Nov 12 • 7:00pm",
       "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7621569"
+    },
+    "7622246": {
+      "id": "7622246",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
+      "date": "Dec 14 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7622246"
+    },
+    "7622248": {
+      "id": "7622248",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
+      "date": "Dec 14 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7622248"
+    },
+    "7622256": {
+      "id": "7622256",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
+      "date": "Dec 8 • 7:30pm",
+      "location": "Little Caesars Arena • Detroit, MI",
+      "url": "https://entertainment.capitalone.com/events/7622256"
+    },
+    "7622258": {
+      "id": "7622258",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - NYC",
+      "date": "Dec 11 • 7:00pm",
+      "location": "Madison Square Garden • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7622258"
+    },
+    "7622260": {
+      "id": "7622260",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - NYC",
+      "date": "Dec 11 • 7:00pm",
+      "location": "Madison Square Garden • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7622260"
+    },
+    "7622262": {
+      "id": "7622262",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Boston",
+      "date": "Dec 13 • 6:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7622262"
+    },
+    "7622264": {
+      "id": "7622264",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
+      "date": "Dec 15 • 6:30pm",
+      "location": "Xfinity Mobile Arena • Philadelphia, PA",
+      "url": "https://entertainment.capitalone.com/events/7622264"
     }
   },
   "previous": [
@@ -2889,6 +2938,13 @@
       "url": "https://entertainment.capitalone.com/events/7430149"
     },
     {
+      "id": "7622256",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
+      "date": "Dec 8 • 7:30pm",
+      "location": "Little Caesars Arena • Detroit, MI",
+      "url": "https://entertainment.capitalone.com/events/7622256"
+    },
+    {
       "id": "7416393",
       "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
       "date": "Dec 9 • 6:00pm",
@@ -2915,6 +2971,20 @@
       "date": "Dec 10 • 8:00pm",
       "location": "Desert Diamond Arena • Glendale, AZ",
       "url": "https://entertainment.capitalone.com/events/7430113"
+    },
+    {
+      "id": "7622260",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - NYC",
+      "date": "Dec 11 • 7:00pm",
+      "location": "Madison Square Garden • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7622260"
+    },
+    {
+      "id": "7622258",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - NYC",
+      "date": "Dec 11 • 7:00pm",
+      "location": "Madison Square Garden • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7622258"
     },
     {
       "id": "7283694",
@@ -2945,11 +3015,39 @@
       "url": "https://entertainment.capitalone.com/events/7283718"
     },
     {
+      "id": "7622262",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Boston",
+      "date": "Dec 13 • 6:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7622262"
+    },
+    {
+      "id": "7622248",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
+      "date": "Dec 14 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7622248"
+    },
+    {
+      "id": "7622246",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
+      "date": "Dec 14 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7622246"
+    },
+    {
       "id": "7430117",
       "name": "Gracie Abrams: The Look at My Life Tour (LA N1) (Cardholder Exclusives)",
       "date": "Dec 14 • 8:00pm",
       "location": "Kia Forum • Inglewood, CA",
       "url": "https://entertainment.capitalone.com/events/7430117"
+    },
+    {
+      "id": "7622264",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
+      "date": "Dec 15 • 6:30pm",
+      "location": "Xfinity Mobile Arena • Philadelphia, PA",
+      "url": "https://entertainment.capitalone.com/events/7622264"
     },
     {
       "id": "7283720",
@@ -3351,8 +3449,86 @@
       "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7622256",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Detroit",
+      "event": {
+        "id": "7622256",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
+        "date": "Dec 8 • 7:30pm",
+        "location": "Little Caesars Arena • Detroit, MI",
+        "url": "https://entertainment.capitalone.com/events/7622256"
+      }
+    },
+    {
+      "key": "event-7622260",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - NYC",
+      "event": {
+        "id": "7622260",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - NYC",
+        "date": "Dec 11 • 7:00pm",
+        "location": "Madison Square Garden • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7622260"
+      }
+    },
+    {
+      "key": "event-7622258",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball VIP Packages - NYC",
+      "event": {
+        "id": "7622258",
+        "name": "2026 iHeartRadio Jingle Ball VIP Packages - NYC",
+        "date": "Dec 11 • 7:00pm",
+        "location": "Madison Square Garden • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7622258"
+      }
+    },
+    {
+      "key": "event-7622262",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Boston",
+      "event": {
+        "id": "7622262",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - Boston",
+        "date": "Dec 13 • 6:00pm",
+        "location": "TD Garden • Boston, MA",
+        "url": "https://entertainment.capitalone.com/events/7622262"
+      }
+    },
+    {
+      "key": "event-7622248",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - D.C.",
+      "event": {
+        "id": "7622248",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
+        "date": "Dec 14 • 7:30pm",
+        "location": "Capital One Arena • Washington, DC",
+        "url": "https://entertainment.capitalone.com/events/7622248"
+      }
+    },
+    {
+      "key": "event-7622246",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
+      "event": {
+        "id": "7622246",
+        "name": "2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
+        "date": "Dec 14 • 7:30pm",
+        "location": "Capital One Arena • Washington, DC",
+        "url": "https://entertainment.capitalone.com/events/7622246"
+      }
+    },
+    {
+      "key": "event-7622264",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
+      "event": {
+        "id": "7622264",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
+        "date": "Dec 15 • 6:30pm",
+        "location": "Xfinity Mobile Arena • Philadelphia, PA",
+        "url": "https://entertainment.capitalone.com/events/7622264"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T13:55:46.646Z"
+  "lastSuccess": "2026-09-29T14:18:13.793Z"
 }
