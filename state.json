@@ -3449,19 +3449,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7622254",
-      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
-      "event": {
-        "id": "7622254",
-        "name": "2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
-        "date": "Dec 4 • 7:30pm",
-        "location": "Intuit Dome • Inglewood, CA",
-        "url": "https://entertainment.capitalone.com/events/7622254"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-29T16:27:58.780Z"
