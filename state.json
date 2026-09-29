@@ -3449,19 +3449,7 @@
       "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7622264",
-      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
-      "event": {
-        "id": "7622264",
-        "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
-        "date": "Dec 15 • 6:30pm",
-        "location": "Xfinity Mobile Arena • Philadelphia, PA",
-        "url": "https://entertainment.capitalone.com/events/7622264"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-29T14:18:13.793Z"
