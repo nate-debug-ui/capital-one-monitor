@@ -2728,13 +2728,6 @@
       "url": "https://entertainment.capitalone.com/events/7430006"
     },
     {
-      "id": "7621569",
-      "name": "Venture X Business Dinner with José Andrés",
-      "date": "Nov 12 • 7:00pm",
-      "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7621569"
-    },
-    {
       "id": "7505872",
       "name": "Vinous Icons Miami - All Access Day One",
       "date": "Nov 13 • 12:00pm",
@@ -3361,5 +3354,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-28T21:56:11.126Z"
+  "lastSuccess": "2026-09-29T12:24:23.694Z"
 }
