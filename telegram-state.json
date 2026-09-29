@@ -650,6 +650,13 @@
     },
     "214": {
       "done": true
+    },
+    "215": {
+      "parts": [
+        "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - NYC\n\n2026 iHeartRadio Jingle Ball Tickets - NYC\n\nDate: Dec 11 • 7:00pm\n\nLocation: Madison Square Garden • New York, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7622260\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/215"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
