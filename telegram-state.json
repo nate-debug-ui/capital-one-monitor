@@ -659,6 +659,13 @@
     },
     "217": {
       "done": true
+    },
+    "218": {
+      "parts": [
+        "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - D.C.\n\n2026 iHeartRadio Jingle Ball Tickets - D.C.\n\nDate: Dec 14 • 7:30pm\n\nLocation: Capital One Arena • Washington, DC\n\nEvent details\nhttps://entertainment.capitalone.com/events/7622248\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/218"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
