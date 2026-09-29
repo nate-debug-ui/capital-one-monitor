@@ -3351,19 +3351,7 @@
       "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7622250",
-      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Dallas",
-      "event": {
-        "id": "7622250",
-        "name": "2026 iHeartRadio Jingle Ball Tickets - Dallas",
-        "date": "Dec 1 • 7:30pm",
-        "location": "Dickies Arena • Fort Worth, TX",
-        "url": "https://entertainment.capitalone.com/events/7622250"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-09-29T15:24:38.490Z"
