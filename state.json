@@ -3183,76 +3183,6 @@
       "url": "https://entertainment.capitalone.com/events/7538325"
     },
     {
-      "id": "7430177",
-      "name": "Gracie Abrams: The Look at My Life Tour (CHI N2) (Cardholder Exclusives)",
-      "date": "Feb 12 • 8:00pm",
-      "location": "United Center • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7430177"
-    },
-    {
-      "id": "7431873",
-      "name": "Milwaukee Bucks at Washington Wizards",
-      "date": "Feb 13 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7431873"
-    },
-    {
-      "id": "7430059",
-      "name": "Gracie Abrams: The Look at My Life Tour (NASH N1) (Cardholder Exclusives)",
-      "date": "Feb 14 • 8:00pm",
-      "location": "Bridgestone Arena • Nashville, TN",
-      "url": "https://entertainment.capitalone.com/events/7430059"
-    },
-    {
-      "id": "7431881",
-      "name": "Phoenix Suns at Washington Wizards",
-      "date": "Feb 15 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7431881"
-    },
-    {
-      "id": "7438441",
-      "name": "Gracie Abrams: The Look at My Life Tour (NASH N2) (Cardholder Exclusives)",
-      "date": "Feb 15 • 8:00pm",
-      "location": "Bridgestone Arena • Nashville, TN",
-      "url": "https://entertainment.capitalone.com/events/7438441"
-    },
-    {
-      "id": "7538243",
-      "name": "Zamboni Ride at Anaheim Ducks vs. Washington Capitals",
-      "date": "Feb 16 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538243"
-    },
-    {
-      "id": "7430163",
-      "name": "Gracie Abrams: The Look at My Life Tour (ATL N1) (Cardholder Exclusives)",
-      "date": "Feb 23 • 8:00pm",
-      "location": "State Farm Arena • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7430163"
-    },
-    {
-      "id": "7430165",
-      "name": "Gracie Abrams: The Look at My Life Tour (ATL N2) (Cardholder Exclusives)",
-      "date": "Feb 24 • 8:00pm",
-      "location": "State Farm Arena • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7430165"
-    },
-    {
-      "id": "7430157",
-      "name": "Gracie Abrams: The Look at My Life Tour (CLT N1) (Cardholder Exclusives)",
-      "date": "Feb 26 • 8:00pm",
-      "location": "Spectrum Center • Charlotte, NC",
-      "url": "https://entertainment.capitalone.com/events/7430157"
-    },
-    {
-      "id": "7430159",
-      "name": "Gracie Abrams: The Look at My Life Tour (CLT N2) (Cardholder Exclusives)",
-      "date": "Feb 27 • 8:00pm",
-      "location": "Spectrum Center • Charlotte, NC",
-      "url": "https://entertainment.capitalone.com/events/7430159"
-    },
-    {
       "id": "7430167",
       "name": "Gracie Abrams: The Look at My Life Tour (BOS N1) (Cardholder Exclusives)",
       "date": "Mar 1 • 8:00pm",
@@ -3452,5 +3382,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T14:38:59.625Z"
+  "lastSuccess": "2026-09-29T14:59:20.529Z"
 }
