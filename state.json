@@ -2291,6 +2291,27 @@
       "location": "Nubeluz at The Ritz Carlton NoMad • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7621569"
     },
+    "7622236": {
+      "id": "7622236",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622236"
+    },
+    "7622238": {
+      "id": "7622238",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622238"
+    },
+    "7622240": {
+      "id": "7622240",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
+      "date": "Dec 17 • 7:30pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7622240"
+    },
     "7622246": {
       "id": "7622246",
       "name": "2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
@@ -2854,6 +2875,13 @@
       "url": "https://entertainment.capitalone.com/events/7416317"
     },
     {
+      "id": "7430027",
+      "name": "Gracie Abrams: The Look at My Life Tour (DEN N2) (Cardholder Exclusives)",
+      "date": "Dec 3 • 8:00pm",
+      "location": "Ball Arena • Denver, CO",
+      "url": "https://entertainment.capitalone.com/events/7430027"
+    },
+    {
       "id": "7538335",
       "name": "George Balanchine's The Nutcracker® and Brunch",
       "date": "Dec 5 • 12:00pm",
@@ -2873,6 +2901,20 @@
       "date": "Dec 7 • 9:00am",
       "location": "Palos Verdes Golf Club • Palos Verdes Estates, CA",
       "url": "https://entertainment.capitalone.com/events/7082400"
+    },
+    {
+      "id": "7622238",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622238"
+    },
+    {
+      "id": "7622236",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622236"
     },
     {
       "id": "7430149",
@@ -2966,6 +3008,13 @@
       "url": "https://entertainment.capitalone.com/events/7622262"
     },
     {
+      "id": "7622248",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
+      "date": "Dec 14 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7622248"
+    },
+    {
       "id": "7622246",
       "name": "2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
       "date": "Dec 14 • 7:30pm",
@@ -2985,6 +3034,13 @@
       "date": "Dec 15 • 6:30pm",
       "location": "Xfinity Mobile Arena • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7622264"
+    },
+    {
+      "id": "7622240",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
+      "date": "Dec 17 • 7:30pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7622240"
     },
     {
       "id": "7283720",
@@ -3330,6 +3386,41 @@
       "url": "https://entertainment.capitalone.com/events/7538329"
     },
     {
+      "id": "6752219",
+      "name": "2027 NCAA Mens Frozen Four - All Session (4/8 and 4/10)",
+      "date": "Apr 8 • 10:59am",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752219"
+    },
+    {
+      "id": "6752215",
+      "name": "2027 NCAA Mens Frozen Four - Semifinals",
+      "date": "Apr 8 • 12:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752215"
+    },
+    {
+      "id": "6752217",
+      "name": "2027 NCAA Mens Frozen Four - Championship",
+      "date": "Apr 10 • 11:59pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/6752217"
+    },
+    {
+      "id": "7431959",
+      "name": "Detroit Pistons at Washington Wizards",
+      "date": "Apr 11 • 6:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431959"
+    },
+    {
+      "id": "6752221",
+      "name": "2028 NCAA Mens Frozen Four - All Session (4/6 and 4/8)",
+      "date": "Apr 6 • 10:59am",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/6752221"
+    },
+    {
       "id": "6752223",
       "name": "2028 NCAA Mens Frozen Four - Semifinals",
       "date": "Apr 6 • 12:00pm",
@@ -3342,17 +3433,44 @@
       "date": "Apr 8 • 11:59pm",
       "location": "United Center • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/6752227"
-    },
-    {
-      "id": "1361816",
-      "name": "Test Event -- Seller Integration DO NOT BUY",
-      "date": "Jul 13 • 8:00pm",
-      "location": "Test Stadium • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7622238",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Chicago",
+      "event": {
+        "id": "7622238",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
+        "date": "Dec 7 • 7:00pm",
+        "location": "Allstate Arena • Rosemont, IL",
+        "url": "https://entertainment.capitalone.com/events/7622238"
+      }
+    },
+    {
+      "key": "event-7622236",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
+      "event": {
+        "id": "7622236",
+        "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
+        "date": "Dec 7 • 7:00pm",
+        "location": "Allstate Arena • Rosemont, IL",
+        "url": "https://entertainment.capitalone.com/events/7622236"
+      }
+    },
+    {
+      "key": "event-7622240",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Nashville",
+      "event": {
+        "id": "7622240",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
+        "date": "Dec 17 • 7:30pm",
+        "location": "Bridgestone Arena • Nashville, TN",
+        "url": "https://entertainment.capitalone.com/events/7622240"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T15:24:38.490Z"
+  "lastSuccess": "2026-09-29T15:47:14.854Z"
 }
