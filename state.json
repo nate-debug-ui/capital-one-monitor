@@ -2305,6 +2305,13 @@
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7622248"
     },
+    "7622250": {
+      "id": "7622250",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Dallas",
+      "date": "Dec 1 • 7:30pm",
+      "location": "Dickies Arena • Fort Worth, TX",
+      "url": "https://entertainment.capitalone.com/events/7622250"
+    },
     "7622256": {
       "id": "7622256",
       "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
@@ -2427,13 +2434,6 @@
       "url": "https://entertainment.capitalone.com/events/7416345"
     },
     {
-      "id": "7423020",
-      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 3) (If Necessary)",
-      "date": "Oct 1 • 7:00pm",
-      "location": "PETCO Park • San Diego, CA",
-      "url": "https://entertainment.capitalone.com/events/7423020"
-    },
-    {
       "id": "7290786",
       "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
       "date": "Oct 1 • 8:00pm",
@@ -2460,13 +2460,6 @@
       "date": "Oct 3 • 2:00pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283633"
-    },
-    {
-      "id": "7587534",
-      "name": "Ohio State vs. Iowa (Cardholder Exclusive)",
-      "date": "Oct 3 • 2:30pm",
-      "location": "Kinnick Stadium • Iowa City, IA",
-      "url": "https://entertainment.capitalone.com/events/7587534"
     },
     {
       "id": "6845936",
@@ -2504,13 +2497,6 @@
       "url": "https://entertainment.capitalone.com/events/7283637"
     },
     {
-      "id": "7608222",
-      "name": "Womens Volleyball - Wisconsin vs Minnesota (Cardholder Exclusive)",
-      "date": "Oct 4 • 5:00pm",
-      "location": "Maturi Pavilion • Minneapolis, MN",
-      "url": "https://entertainment.capitalone.com/events/7608222"
-    },
-    {
       "id": "6845978",
       "name": "Peru Trip of Wonder",
       "date": "Oct 6 • 3:00pm",
@@ -2544,13 +2530,6 @@
       "date": "Oct 10 • 2:00pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283656"
-    },
-    {
-      "id": "7587544",
-      "name": "USC vs. Penn State (Cardholder Exclusive)",
-      "date": "Oct 10 • 7:30pm",
-      "location": "West Shore Home Field at Beaver Stadium • University Park, PA",
-      "url": "https://entertainment.capitalone.com/events/7587544"
     },
     {
       "id": "7283646",
@@ -2588,13 +2567,6 @@
       "url": "https://entertainment.capitalone.com/events/7416285"
     },
     {
-      "id": "7591680",
-      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
-      "date": "Oct 16 • 6:30pm",
-      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
-      "url": "https://entertainment.capitalone.com/events/7591680"
-    },
-    {
       "id": "7608236",
       "name": "Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
       "date": "Oct 17 • 6:00pm",
@@ -2602,25 +2574,11 @@
       "url": "https://entertainment.capitalone.com/events/7608236"
     },
     {
-      "id": "7591684",
-      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
-      "date": "Oct 17 • 6:30pm",
-      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
-      "url": "https://entertainment.capitalone.com/events/7591684"
-    },
-    {
       "id": "7591666",
       "name": "Penn State vs. Michigan (Cardholder Exclusive)",
       "date": "Oct 17 • 11:59pm",
       "location": "Michigan Stadium • Ann Arbor, MI",
       "url": "https://entertainment.capitalone.com/events/7591666"
-    },
-    {
-      "id": "7587527",
-      "name": "Ohio State vs. Indiana (Cardholder Exclusive)",
-      "date": "Oct 17 • 11:59pm",
-      "location": "Merchants Bank Field at Memorial Stadium • Bloomington, IN",
-      "url": "https://entertainment.capitalone.com/events/7587527"
     },
     {
       "id": "7608178",
@@ -2665,25 +2623,11 @@
       "url": "https://entertainment.capitalone.com/events/7608180"
     },
     {
-      "id": "7587540",
-      "name": "Indiana vs. Michigan (Cardholder Exclusive)",
-      "date": "Oct 24 • 11:59pm",
-      "location": "Michigan Stadium • Ann Arbor, MI",
-      "url": "https://entertainment.capitalone.com/events/7587540"
-    },
-    {
       "id": "7608234",
       "name": "Womens Volleyball - Washington vs Minnesota (Cardholder Exclusive)",
       "date": "Oct 25 • 1:00pm",
       "location": "Maturi Pavilion • Minneapolis, MN",
       "url": "https://entertainment.capitalone.com/events/7608234"
-    },
-    {
-      "id": "7419803",
-      "name": "NBA Cup - Charlotte Hornets at Washington Wizards",
-      "date": "Oct 30 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7419803"
     },
     {
       "id": "7283662",
@@ -2882,6 +2826,13 @@
       "url": "https://entertainment.capitalone.com/events/7538237"
     },
     {
+      "id": "7622250",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Dallas",
+      "date": "Dec 1 • 7:30pm",
+      "location": "Dickies Arena • Fort Worth, TX",
+      "url": "https://entertainment.capitalone.com/events/7622250"
+    },
+    {
       "id": "7430025",
       "name": "Gracie Abrams: The Look at My Life Tour (DEN N1) (Cardholder Exclusives)",
       "date": "Dec 2 • 8:00pm",
@@ -2901,13 +2852,6 @@
       "date": "Dec 3 • 6:30pm",
       "location": "Ellizabetta La Strega • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7416317"
-    },
-    {
-      "id": "7430027",
-      "name": "Gracie Abrams: The Look at My Life Tour (DEN N2) (Cardholder Exclusives)",
-      "date": "Dec 3 • 8:00pm",
-      "location": "Ball Arena • Denver, CO",
-      "url": "https://entertainment.capitalone.com/events/7430027"
     },
     {
       "id": "7538335",
@@ -3020,13 +2964,6 @@
       "date": "Dec 13 • 6:00pm",
       "location": "TD Garden • Boston, MA",
       "url": "https://entertainment.capitalone.com/events/7622262"
-    },
-    {
-      "id": "7622248",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
-      "date": "Dec 14 • 7:30pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7622248"
     },
     {
       "id": "7622246",
@@ -3183,6 +3120,76 @@
       "url": "https://entertainment.capitalone.com/events/7538325"
     },
     {
+      "id": "7430177",
+      "name": "Gracie Abrams: The Look at My Life Tour (CHI N2) (Cardholder Exclusives)",
+      "date": "Feb 12 • 8:00pm",
+      "location": "United Center • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7430177"
+    },
+    {
+      "id": "7431873",
+      "name": "Milwaukee Bucks at Washington Wizards",
+      "date": "Feb 13 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431873"
+    },
+    {
+      "id": "7430059",
+      "name": "Gracie Abrams: The Look at My Life Tour (NASH N1) (Cardholder Exclusives)",
+      "date": "Feb 14 • 8:00pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7430059"
+    },
+    {
+      "id": "7431881",
+      "name": "Phoenix Suns at Washington Wizards",
+      "date": "Feb 15 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431881"
+    },
+    {
+      "id": "7438441",
+      "name": "Gracie Abrams: The Look at My Life Tour (NASH N2) (Cardholder Exclusives)",
+      "date": "Feb 15 • 8:00pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7438441"
+    },
+    {
+      "id": "7538243",
+      "name": "Zamboni Ride at Anaheim Ducks vs. Washington Capitals",
+      "date": "Feb 16 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538243"
+    },
+    {
+      "id": "7430163",
+      "name": "Gracie Abrams: The Look at My Life Tour (ATL N1) (Cardholder Exclusives)",
+      "date": "Feb 23 • 8:00pm",
+      "location": "State Farm Arena • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7430163"
+    },
+    {
+      "id": "7430165",
+      "name": "Gracie Abrams: The Look at My Life Tour (ATL N2) (Cardholder Exclusives)",
+      "date": "Feb 24 • 8:00pm",
+      "location": "State Farm Arena • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7430165"
+    },
+    {
+      "id": "7430157",
+      "name": "Gracie Abrams: The Look at My Life Tour (CLT N1) (Cardholder Exclusives)",
+      "date": "Feb 26 • 8:00pm",
+      "location": "Spectrum Center • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7430157"
+    },
+    {
+      "id": "7430159",
+      "name": "Gracie Abrams: The Look at My Life Tour (CLT N2) (Cardholder Exclusives)",
+      "date": "Feb 27 • 8:00pm",
+      "location": "Spectrum Center • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7430159"
+    },
+    {
       "id": "7430167",
       "name": "Gracie Abrams: The Look at My Life Tour (BOS N1) (Cardholder Exclusives)",
       "date": "Mar 1 • 8:00pm",
@@ -3323,41 +3330,6 @@
       "url": "https://entertainment.capitalone.com/events/7538329"
     },
     {
-      "id": "6752219",
-      "name": "2027 NCAA Mens Frozen Four - All Session (4/8 and 4/10)",
-      "date": "Apr 8 • 10:59am",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/6752219"
-    },
-    {
-      "id": "6752215",
-      "name": "2027 NCAA Mens Frozen Four - Semifinals",
-      "date": "Apr 8 • 12:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/6752215"
-    },
-    {
-      "id": "6752217",
-      "name": "2027 NCAA Mens Frozen Four - Championship",
-      "date": "Apr 10 • 11:59pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/6752217"
-    },
-    {
-      "id": "7431959",
-      "name": "Detroit Pistons at Washington Wizards",
-      "date": "Apr 11 • 6:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7431959"
-    },
-    {
-      "id": "6752221",
-      "name": "2028 NCAA Mens Frozen Four - All Session (4/6 and 4/8)",
-      "date": "Apr 6 • 10:59am",
-      "location": "United Center • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/6752221"
-    },
-    {
       "id": "6752223",
       "name": "2028 NCAA Mens Frozen Four - Semifinals",
       "date": "Apr 6 • 12:00pm",
@@ -3379,8 +3351,20 @@
       "url": "https://entertainment.capitalone.com/events/1361816"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7622250",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball Tickets - Dallas",
+      "event": {
+        "id": "7622250",
+        "name": "2026 iHeartRadio Jingle Ball Tickets - Dallas",
+        "date": "Dec 1 • 7:30pm",
+        "location": "Dickies Arena • Fort Worth, TX",
+        "url": "https://entertainment.capitalone.com/events/7622250"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T14:59:20.529Z"
+  "lastSuccess": "2026-09-29T15:24:38.490Z"
 }
