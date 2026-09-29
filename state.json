@@ -2333,6 +2333,13 @@
       "location": "Dickies Arena • Fort Worth, TX",
       "url": "https://entertainment.capitalone.com/events/7622250"
     },
+    "7622254": {
+      "id": "7622254",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
+      "date": "Dec 4 • 7:30pm",
+      "location": "Intuit Dome • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7622254"
+    },
     "7622256": {
       "id": "7622256",
       "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
@@ -2880,6 +2887,13 @@
       "date": "Dec 3 • 8:00pm",
       "location": "Ball Arena • Denver, CO",
       "url": "https://entertainment.capitalone.com/events/7430027"
+    },
+    {
+      "id": "7622254",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
+      "date": "Dec 4 • 7:30pm",
+      "location": "Intuit Dome • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7622254"
     },
     {
       "id": "7538335",
@@ -3435,8 +3449,20 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7622254",
+      "title": "New Capital One Exclusive: 2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
+      "event": {
+        "id": "7622254",
+        "name": "2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
+        "date": "Dec 4 • 7:30pm",
+        "location": "Intuit Dome • Inglewood, CA",
+        "url": "https://entertainment.capitalone.com/events/7622254"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T16:03:12.407Z"
+  "lastSuccess": "2026-09-29T16:27:58.780Z"
 }
