@@ -2378,32 +2378,11 @@
   },
   "previous": [
     {
-      "id": "7606530",
-      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
-      "date": "Sep 30 • 2:00pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7606530"
-    },
-    {
       "id": "7371133",
       "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
       "date": "Sep 30 • 4:00pm",
       "location": "Daikin Park • Houston, TX",
       "url": "https://entertainment.capitalone.com/events/7371133"
-    },
-    {
-      "id": "7423018",
-      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 2)",
-      "date": "Sep 30 • 7:00pm",
-      "location": "PETCO Park • San Diego, CA",
-      "url": "https://entertainment.capitalone.com/events/7423018"
-    },
-    {
-      "id": "7290784",
-      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 2)",
-      "date": "Sep 30 • 8:00pm",
-      "location": "Yankee Stadium • Bronx, NY",
-      "url": "https://entertainment.capitalone.com/events/7290784"
     },
     {
       "id": "7606532",
@@ -2882,27 +2861,6 @@
       "url": "https://entertainment.capitalone.com/events/7430145"
     },
     {
-      "id": "7082400",
-      "name": "Palos Verdes Golf Academy with Sir Nick Faldo",
-      "date": "Dec 7 • 9:00am",
-      "location": "Palos Verdes Golf Club • Palos Verdes Estates, CA",
-      "url": "https://entertainment.capitalone.com/events/7082400"
-    },
-    {
-      "id": "7622238",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
-      "date": "Dec 7 • 7:00pm",
-      "location": "Allstate Arena • Rosemont, IL",
-      "url": "https://entertainment.capitalone.com/events/7622238"
-    },
-    {
-      "id": "7622236",
-      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
-      "date": "Dec 7 • 7:00pm",
-      "location": "Allstate Arena • Rosemont, IL",
-      "url": "https://entertainment.capitalone.com/events/7622236"
-    },
-    {
       "id": "7430149",
       "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
       "date": "Dec 7 • 8:00pm",
@@ -3218,27 +3176,6 @@
       "url": "https://entertainment.capitalone.com/events/7430157"
     },
     {
-      "id": "7430159",
-      "name": "Gracie Abrams: The Look at My Life Tour (CLT N2) (Cardholder Exclusives)",
-      "date": "Feb 27 • 8:00pm",
-      "location": "Spectrum Center • Charlotte, NC",
-      "url": "https://entertainment.capitalone.com/events/7430159"
-    },
-    {
-      "id": "7430167",
-      "name": "Gracie Abrams: The Look at My Life Tour (BOS N1) (Cardholder Exclusives)",
-      "date": "Mar 1 • 8:00pm",
-      "location": "TD Garden • Boston, MA",
-      "url": "https://entertainment.capitalone.com/events/7430167"
-    },
-    {
-      "id": "7430171",
-      "name": "Gracie Abrams: The Look at My Life Tour (BOS N2) (Cardholder Exclusives)",
-      "date": "Mar 2 • 8:00pm",
-      "location": "TD Garden • Boston, MA",
-      "url": "https://entertainment.capitalone.com/events/7430171"
-    },
-    {
       "id": "7430069",
       "name": "Gracie Abrams: The Look at My Life Tour (DC N1) (Cardholder Exclusives)",
       "date": "Mar 4 • 8:00pm",
@@ -3417,5 +3354,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-30T19:16:12.772Z"
+  "lastSuccess": "2026-09-30T19:32:12.918Z"
 }
