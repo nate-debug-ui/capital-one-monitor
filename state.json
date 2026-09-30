@@ -2861,6 +2861,27 @@
       "url": "https://entertainment.capitalone.com/events/7430145"
     },
     {
+      "id": "7082400",
+      "name": "Palos Verdes Golf Academy with Sir Nick Faldo",
+      "date": "Dec 7 • 9:00am",
+      "location": "Palos Verdes Golf Club • Palos Verdes Estates, CA",
+      "url": "https://entertainment.capitalone.com/events/7082400"
+    },
+    {
+      "id": "7622238",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622238"
+    },
+    {
+      "id": "7622236",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622236"
+    },
+    {
       "id": "7430149",
       "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
       "date": "Dec 7 • 8:00pm",
@@ -3176,6 +3197,27 @@
       "url": "https://entertainment.capitalone.com/events/7430157"
     },
     {
+      "id": "7430159",
+      "name": "Gracie Abrams: The Look at My Life Tour (CLT N2) (Cardholder Exclusives)",
+      "date": "Feb 27 • 8:00pm",
+      "location": "Spectrum Center • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7430159"
+    },
+    {
+      "id": "7430167",
+      "name": "Gracie Abrams: The Look at My Life Tour (BOS N1) (Cardholder Exclusives)",
+      "date": "Mar 1 • 8:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7430167"
+    },
+    {
+      "id": "7430171",
+      "name": "Gracie Abrams: The Look at My Life Tour (BOS N2) (Cardholder Exclusives)",
+      "date": "Mar 2 • 8:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7430171"
+    },
+    {
       "id": "7430069",
       "name": "Gracie Abrams: The Look at My Life Tour (DC N1) (Cardholder Exclusives)",
       "date": "Mar 4 • 8:00pm",
@@ -3354,5 +3396,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-30T19:32:12.918Z"
+  "lastSuccess": "2026-09-30T19:49:52.333Z"
 }
