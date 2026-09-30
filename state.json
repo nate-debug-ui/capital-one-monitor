@@ -2232,7 +2232,7 @@
       "id": "7608218",
       "name": "Womens Volleyball - Indiana vs Michigan (Cardholder Exclusive)",
       "date": "Oct 31 • 11:59pm",
-      "location": "Cliff Keen Arena • Ann Arbor, MI",
+      "location": "Crisler Center • Ann Arbor, MI",
       "url": "https://entertainment.capitalone.com/events/7608218"
     },
     "7608222": {
@@ -2377,34 +2377,6 @@
     }
   },
   "previous": [
-    {
-      "id": "7371131",
-      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
-      "date": "Sep 29 • 4:00pm",
-      "location": "Daikin Park • Houston, TX",
-      "url": "https://entertainment.capitalone.com/events/7371131"
-    },
-    {
-      "id": "7538229",
-      "name": "LA: Carbone Fine Food Pizza Tour Hosted by Capital One",
-      "date": "Sep 29 • 7:00pm",
-      "location": "Prince Street Pizza • West Hollywood, CA",
-      "url": "https://entertainment.capitalone.com/events/7538229"
-    },
-    {
-      "id": "7423016",
-      "name": "Chicago Cubs at San Diego Padres (NL Wild Card, Home Game 1)",
-      "date": "Sep 29 • 7:00pm",
-      "location": "PETCO Park • San Diego, CA",
-      "url": "https://entertainment.capitalone.com/events/7423016"
-    },
-    {
-      "id": "7290782",
-      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 1)",
-      "date": "Sep 29 • 8:00pm",
-      "location": "Yankee Stadium • Bronx, NY",
-      "url": "https://entertainment.capitalone.com/events/7290782"
-    },
     {
       "id": "7606530",
       "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 2) (Cardholder Exclusives)",
@@ -2689,7 +2661,7 @@
       "id": "7608218",
       "name": "Womens Volleyball - Indiana vs Michigan (Cardholder Exclusive)",
       "date": "Oct 31 • 11:59pm",
-      "location": "Cliff Keen Arena • Ann Arbor, MI",
+      "location": "Crisler Center • Ann Arbor, MI",
       "url": "https://entertainment.capitalone.com/events/7608218"
     },
     {
@@ -3445,5 +3417,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-29T21:50:11.194Z"
+  "lastSuccess": "2026-09-30T12:27:47.516Z"
 }
