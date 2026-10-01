@@ -2472,6 +2472,13 @@
       "date": "Dec 15 • 7:30pm",
       "location": "Xfinity Mobile Arena • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7622264"
+    },
+    "7638151": {
+      "id": "7638151",
+      "name": "Penn State vs. Northwestern (Cardholder Exclusive)",
+      "date": "Oct 2 • 7:00pm",
+      "location": "Ryan Field • Evanston, IL",
+      "url": "https://entertainment.capitalone.com/events/7638151"
     }
   },
   "previous": [
@@ -2481,6 +2488,13 @@
       "date": "Oct 1 • 6:00pm",
       "location": "Ox and Olive Steakhouse • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7416345"
+    },
+    {
+      "id": "7638151",
+      "name": "Penn State vs. Northwestern (Cardholder Exclusive)",
+      "date": "Oct 2 • 7:00pm",
+      "location": "Ryan Field • Evanston, IL",
+      "url": "https://entertainment.capitalone.com/events/7638151"
     },
     {
       "id": "7283631",
@@ -3533,8 +3547,20 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7638151",
+      "title": "New Capital One Exclusive: Penn State vs. Northwestern (Cardholder Exclusive)",
+      "event": {
+        "id": "7638151",
+        "name": "Penn State vs. Northwestern (Cardholder Exclusive)",
+        "date": "Oct 2 • 7:00pm",
+        "location": "Ryan Field • Evanston, IL",
+        "url": "https://entertainment.capitalone.com/events/7638151"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T21:21:48.669Z"
+  "lastSuccess": "2026-10-01T21:43:15.597Z"
 }
