@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7299665",
-      "title": "New Capital One Exclusive: San Diego Padres at Milwaukee Brewers (NLDS Game 2, Milwaukee Home Game 2)",
-      "event": {
-        "id": "7299665",
-        "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 2, Milwaukee Home Game 2)",
-        "date": "Oct 4 • 3:00pm",
-        "location": "American Family Field • Milwaukee, WI",
-        "url": "https://entertainment.capitalone.com/events/7299665"
-      }
-    },
-    {
       "key": "event-7298755",
       "title": "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
       "event": {
