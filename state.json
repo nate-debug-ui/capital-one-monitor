@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7298741",
-      "title": "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
-      "event": {
-        "id": "7298741",
-        "name": "TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
-        "date": "Oct 3 • 1:00pm",
-        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7298741"
-      }
-    },
-    {
       "key": "event-7371095",
       "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
       "event": {
