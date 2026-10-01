@@ -709,11 +709,7 @@
       "done": true
     },
     "234": {
-      "parts": [
-        "New Capital One Exclusive: Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)\n\nChicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)\n\nDate: Oct 5 • 5:00pm\n\nLocation: Progressive Field • Cleveland, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/7371362\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/234"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
