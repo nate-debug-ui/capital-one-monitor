@@ -731,6 +731,13 @@
     },
     "241": {
       "done": true
+    },
+    "242": {
+      "parts": [
+        "New Capital One Exclusive: Penn State vs. Northwestern (Cardholder Exclusive)\n\nPenn State vs. Northwestern (Cardholder Exclusive)\n\nDate: Oct 2 • 7:00pm\n\nLocation: Ryan Field • Evanston, IL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7638151\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/242"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
