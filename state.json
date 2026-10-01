@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371095",
-      "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
-      "event": {
-        "id": "7371095",
-        "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
-        "date": "Oct 3 • 6:30pm",
-        "location": "Tropicana Field • Saint Petersburg, FL",
-        "url": "https://entertainment.capitalone.com/events/7371095"
-      }
-    },
-    {
       "key": "event-7299663",
       "title": "New Capital One Exclusive: San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
       "event": {
