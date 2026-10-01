@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7299578",
-      "title": "New Capital One Exclusive: Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
-      "event": {
-        "id": "7299578",
-        "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
-        "date": "Oct 7 • 11:59pm",
-        "location": "Rate Field • Chicago, IL",
-        "url": "https://entertainment.capitalone.com/events/7299578"
-      }
-    },
-    {
       "key": "event-7298757",
       "title": "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
       "event": {
