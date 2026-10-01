@@ -2539,6 +2539,13 @@
       "url": "https://entertainment.capitalone.com/events/6845936"
     },
     {
+      "id": "7371095",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
+      "date": "Oct 3 • 6:30pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371095"
+    },
+    {
       "id": "7299663",
       "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
       "date": "Oct 3 • 7:30pm",
@@ -2595,6 +2602,13 @@
       "url": "https://entertainment.capitalone.com/events/7371362"
     },
     {
+      "id": "7371097",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
+      "date": "Oct 5 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371097"
+    },
+    {
       "id": "6845978",
       "name": "Peru Trip of Wonder",
       "date": "Oct 6 • 3:00pm",
@@ -2614,6 +2628,20 @@
       "date": "Oct 6 • 9:30pm",
       "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7538218"
+    },
+    {
+      "id": "7299578",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
+      "date": "Oct 7 • 11:59pm",
+      "location": "Rate Field • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7299578"
+    },
+    {
+      "id": "7299580",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
+      "date": "Oct 8 • 11:59pm",
+      "location": "Rate Field • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7299580"
     },
     {
       "id": "7283643",
@@ -2663,6 +2691,13 @@
       "date": "Oct 10 • 11:59pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371364"
+    },
+    {
+      "id": "7371099",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371099"
     },
     {
       "id": "7283660",
@@ -2950,41 +2985,6 @@
       "date": "Nov 29 • 2:00pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283690"
-    },
-    {
-      "id": "7538331",
-      "name": "The Nutcracker Rehearsal and Exclusive Dinner",
-      "date": "Dec 1 • 6:30pm",
-      "location": "David H. Koch Theater • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7538331"
-    },
-    {
-      "id": "7538237",
-      "name": "Zamboni Ride at Vancouver Canucks vs. Washington Capitals",
-      "date": "Dec 1 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538237"
-    },
-    {
-      "id": "7430025",
-      "name": "Gracie Abrams: The Look at My Life Tour (DEN N1) (Cardholder Exclusives)",
-      "date": "Dec 2 • 8:00pm",
-      "location": "Ball Arena • Denver, CO",
-      "url": "https://entertainment.capitalone.com/events/7430025"
-    },
-    {
-      "id": "7416449",
-      "name": "MICHELIN - An Exclusive Menu by Oriole & Providence",
-      "date": "Dec 3 • 6:30pm",
-      "location": "Oriole • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7416449"
-    },
-    {
-      "id": "7416317",
-      "name": "Eater - A Family Feast with Ellizabetta La Strega",
-      "date": "Dec 3 • 6:30pm",
-      "location": "Ellizabetta La Strega • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7416317"
     },
     {
       "id": "7430027",
@@ -3550,5 +3550,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T21:43:15.597Z"
+  "lastSuccess": "2026-10-01T21:59:30.723Z"
 }
