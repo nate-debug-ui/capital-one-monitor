@@ -2385,13 +2385,6 @@
       "url": "https://entertainment.capitalone.com/events/7416345"
     },
     {
-      "id": "7606532",
-      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives)",
-      "date": "Oct 1 • 8:00pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7606532"
-    },
-    {
       "id": "7283631",
       "name": "DIRTY DANCING at The National",
       "date": "Oct 2 • 7:30pm",
@@ -3375,5 +3368,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T12:25:51.638Z"
+  "lastSuccess": "2026-10-01T12:52:52.181Z"
 }
