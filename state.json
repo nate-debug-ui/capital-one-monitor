@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371097",
-      "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
-      "event": {
-        "id": "7371097",
-        "name": "New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
-        "date": "Oct 5 • 8:00pm",
-        "location": "Tropicana Field • Saint Petersburg, FL",
-        "url": "https://entertainment.capitalone.com/events/7371097"
-      }
-    },
-    {
       "key": "event-7299578",
       "title": "New Capital One Exclusive: Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
       "event": {
