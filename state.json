@@ -2203,7 +2203,7 @@
     "7606532": {
       "id": "7606532",
       "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives)",
-      "date": "Oct 1 • 2:00pm",
+      "date": "Oct 1 • 8:00pm",
       "location": "Truist Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7606532"
     },
@@ -2378,27 +2378,6 @@
   },
   "previous": [
     {
-      "id": "7371133",
-      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 2)",
-      "date": "Sep 30 • 4:00pm",
-      "location": "Daikin Park • Houston, TX",
-      "url": "https://entertainment.capitalone.com/events/7371133"
-    },
-    {
-      "id": "7606532",
-      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives)",
-      "date": "Oct 1 • 2:00pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7606532"
-    },
-    {
-      "id": "7371135",
-      "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 3) (If Necessary)",
-      "date": "Oct 1 • 4:00pm",
-      "location": "Daikin Park • Houston, TX",
-      "url": "https://entertainment.capitalone.com/events/7371135"
-    },
-    {
       "id": "7416345",
       "name": "Ox & Olive - Chef Ryan Ratino's Steakhouse Story",
       "date": "Oct 1 • 6:00pm",
@@ -2406,11 +2385,11 @@
       "url": "https://entertainment.capitalone.com/events/7416345"
     },
     {
-      "id": "7290786",
-      "name": "Boston Red Sox at New York Yankees (AL Wild Card, Home Game 3) (If Necessary)",
+      "id": "7606532",
+      "name": "Philadelphia Phillies at Atlanta Braves (NL Wild Card, Home Game 3) (Cardholder Exclusives)",
       "date": "Oct 1 • 8:00pm",
-      "location": "Yankee Stadium • Bronx, NY",
-      "url": "https://entertainment.capitalone.com/events/7290786"
+      "location": "Truist Park • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7606532"
     },
     {
       "id": "7283631",
@@ -3396,5 +3375,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-09-30T21:46:07.652Z"
+  "lastSuccess": "2026-10-01T12:25:51.638Z"
 }
