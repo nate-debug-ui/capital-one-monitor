@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371364",
-      "title": "New Capital One Exclusive: Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
-      "event": {
-        "id": "7371364",
-        "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
-        "date": "Oct 10 • 11:59pm",
-        "location": "Progressive Field • Cleveland, OH",
-        "url": "https://entertainment.capitalone.com/events/7371364"
-      }
-    },
-    {
       "key": "event-7371099",
       "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
       "event": {
