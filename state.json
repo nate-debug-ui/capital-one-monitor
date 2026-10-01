@@ -3547,19 +3547,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7299667",
-      "title": "New Capital One Exclusive: San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
-      "event": {
-        "id": "7299667",
-        "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
-        "date": "Oct 9 • 11:59pm",
-        "location": "American Family Field • Milwaukee, WI",
-        "url": "https://entertainment.capitalone.com/events/7299667"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-01T18:43:09.024Z"
