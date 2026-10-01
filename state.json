@@ -527,6 +527,48 @@
       "location": "Delta Center • Salt Lake City, UT",
       "url": "https://entertainment.capitalone.com/events/7293039"
     },
+    "7298741": {
+      "id": "7298741",
+      "name": "TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
+      "date": "Oct 3 • 1:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298741"
+    },
+    "7298755": {
+      "id": "7298755",
+      "name": "TBD at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
+      "date": "Oct 4 • 5:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298755"
+    },
+    "7298757": {
+      "id": "7298757",
+      "name": "TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "date": "Oct 9 • 11:59pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298757"
+    },
+    "7299578": {
+      "id": "7299578",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
+      "date": "Oct 7 • 11:59pm",
+      "location": "Rate Field • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7299578"
+    },
+    "7299663": {
+      "id": "7299663",
+      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
+      "date": "Oct 3 • 7:30pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299663"
+    },
+    "7299665": {
+      "id": "7299665",
+      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 2, Milwaukee Home Game 2)",
+      "date": "Oct 4 • 3:00pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299665"
+    },
     "7300213": {
       "id": "7300213",
       "name": "Washington Capitals at Carolina Hurricanes",
@@ -1514,6 +1556,27 @@
       "location": "Honda Center • Anaheim, CA",
       "url": "https://entertainment.capitalone.com/events/7302527"
     },
+    "7371095": {
+      "id": "7371095",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
+      "date": "Oct 3 • 6:30pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371095"
+    },
+    "7371097": {
+      "id": "7371097",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
+      "date": "Oct 5 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371097"
+    },
+    "7371099": {
+      "id": "7371099",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371099"
+    },
     "7371131": {
       "id": "7371131",
       "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
@@ -1534,6 +1597,27 @@
       "date": "Oct 1 • 4:00pm",
       "location": "Daikin Park • Houston, TX",
       "url": "https://entertainment.capitalone.com/events/7371135"
+    },
+    "7371358": {
+      "id": "7371358",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 1, Cleveland Home Game 1)",
+      "date": "Oct 3 • 1:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371358"
+    },
+    "7371362": {
+      "id": "7371362",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
+      "date": "Oct 5 • 5:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371362"
+    },
+    "7371364": {
+      "id": "7371364",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371364"
     },
     "7393814": {
       "id": "7393814",
@@ -2399,6 +2483,20 @@
       "url": "https://entertainment.capitalone.com/events/7595137"
     },
     {
+      "id": "7371358",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 1, Cleveland Home Game 1)",
+      "date": "Oct 3 • 1:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371358"
+    },
+    {
+      "id": "7298741",
+      "name": "TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
+      "date": "Oct 3 • 1:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298741"
+    },
+    {
       "id": "7283633",
       "name": "DIRTY DANCING at The National",
       "date": "Oct 3 • 2:00pm",
@@ -2411,6 +2509,20 @@
       "date": "Oct 3 • 4:00pm",
       "location": "Les Sources de Caudalie • Martillac, FR",
       "url": "https://entertainment.capitalone.com/events/6845936"
+    },
+    {
+      "id": "7371095",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
+      "date": "Oct 3 • 6:30pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371095"
+    },
+    {
+      "id": "7299663",
+      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
+      "date": "Oct 3 • 7:30pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299663"
     },
     {
       "id": "7283635",
@@ -2441,6 +2553,34 @@
       "url": "https://entertainment.capitalone.com/events/7283637"
     },
     {
+      "id": "7299665",
+      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 2, Milwaukee Home Game 2)",
+      "date": "Oct 4 • 3:00pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299665"
+    },
+    {
+      "id": "7298755",
+      "name": "TBD at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
+      "date": "Oct 4 • 5:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298755"
+    },
+    {
+      "id": "7371362",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
+      "date": "Oct 5 • 5:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371362"
+    },
+    {
+      "id": "7371097",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
+      "date": "Oct 5 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371097"
+    },
+    {
       "id": "6845978",
       "name": "Peru Trip of Wonder",
       "date": "Oct 6 • 3:00pm",
@@ -2462,11 +2602,25 @@
       "url": "https://entertainment.capitalone.com/events/7538218"
     },
     {
+      "id": "7299578",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
+      "date": "Oct 7 • 11:59pm",
+      "location": "Rate Field • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7299578"
+    },
+    {
       "id": "7283643",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 9 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283643"
+    },
+    {
+      "id": "7298757",
+      "name": "TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "date": "Oct 9 • 11:59pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298757"
     },
     {
       "id": "7283656",
@@ -2488,6 +2642,20 @@
       "date": "Oct 10 • 11:59pm",
       "location": "Crisler Center • Ann Arbor, MI",
       "url": "https://entertainment.capitalone.com/events/7608204"
+    },
+    {
+      "id": "7371364",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371364"
+    },
+    {
+      "id": "7371099",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
+      "date": "Oct 10 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371099"
     },
     {
       "id": "7283660",
@@ -3365,8 +3533,141 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7371358",
+      "title": "New Capital One Exclusive: Chicago White Sox at Cleveland Guardians (ALDS Game 1, Cleveland Home Game 1)",
+      "event": {
+        "id": "7371358",
+        "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 1, Cleveland Home Game 1)",
+        "date": "Oct 3 • 1:00pm",
+        "location": "Progressive Field • Cleveland, OH",
+        "url": "https://entertainment.capitalone.com/events/7371358"
+      }
+    },
+    {
+      "key": "event-7298741",
+      "title": "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
+      "event": {
+        "id": "7298741",
+        "name": "TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
+        "date": "Oct 3 • 1:00pm",
+        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7298741"
+      }
+    },
+    {
+      "key": "event-7371095",
+      "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
+      "event": {
+        "id": "7371095",
+        "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
+        "date": "Oct 3 • 6:30pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7371095"
+      }
+    },
+    {
+      "key": "event-7299663",
+      "title": "New Capital One Exclusive: San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
+      "event": {
+        "id": "7299663",
+        "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
+        "date": "Oct 3 • 7:30pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7299663"
+      }
+    },
+    {
+      "key": "event-7299665",
+      "title": "New Capital One Exclusive: San Diego Padres at Milwaukee Brewers (NLDS Game 2, Milwaukee Home Game 2)",
+      "event": {
+        "id": "7299665",
+        "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 2, Milwaukee Home Game 2)",
+        "date": "Oct 4 • 3:00pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7299665"
+      }
+    },
+    {
+      "key": "event-7298755",
+      "title": "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
+      "event": {
+        "id": "7298755",
+        "name": "TBD at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
+        "date": "Oct 4 • 5:00pm",
+        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7298755"
+      }
+    },
+    {
+      "key": "event-7371362",
+      "title": "New Capital One Exclusive: Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
+      "event": {
+        "id": "7371362",
+        "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
+        "date": "Oct 5 • 5:00pm",
+        "location": "Progressive Field • Cleveland, OH",
+        "url": "https://entertainment.capitalone.com/events/7371362"
+      }
+    },
+    {
+      "key": "event-7371097",
+      "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
+      "event": {
+        "id": "7371097",
+        "name": "New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
+        "date": "Oct 5 • 8:00pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7371097"
+      }
+    },
+    {
+      "key": "event-7299578",
+      "title": "New Capital One Exclusive: Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
+      "event": {
+        "id": "7299578",
+        "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
+        "date": "Oct 7 • 11:59pm",
+        "location": "Rate Field • Chicago, IL",
+        "url": "https://entertainment.capitalone.com/events/7299578"
+      }
+    },
+    {
+      "key": "event-7298757",
+      "title": "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7298757",
+        "name": "TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
+        "date": "Oct 9 • 11:59pm",
+        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7298757"
+      }
+    },
+    {
+      "key": "event-7371364",
+      "title": "New Capital One Exclusive: Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7371364",
+        "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
+        "date": "Oct 10 • 11:59pm",
+        "location": "Progressive Field • Cleveland, OH",
+        "url": "https://entertainment.capitalone.com/events/7371364"
+      }
+    },
+    {
+      "key": "event-7371099",
+      "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7371099",
+        "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
+        "date": "Oct 10 • 11:59pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7371099"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T17:33:04.617Z"
+  "lastSuccess": "2026-10-01T17:53:16.141Z"
 }
