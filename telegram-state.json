@@ -716,6 +716,13 @@
     },
     "236": {
       "done": true
+    },
+    "237": {
+      "parts": [
+        "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)\n\nTBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)\n\nDate: Oct 9 • 11:59pm\n\nLocation: Uniqlo Field at Dodger Stadium • Los Angeles, CA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7298757\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/237"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
