@@ -555,6 +555,13 @@
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299578"
     },
+    "7299580": {
+      "id": "7299580",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
+      "date": "Oct 8 • 11:59pm",
+      "location": "Rate Field • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7299580"
+    },
     "7299663": {
       "id": "7299663",
       "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
@@ -568,6 +575,13 @@
       "date": "Oct 4 • 3:00pm",
       "location": "American Family Field • Milwaukee, WI",
       "url": "https://entertainment.capitalone.com/events/7299665"
+    },
+    "7299667": {
+      "id": "7299667",
+      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
+      "date": "Oct 9 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299667"
     },
     "7300213": {
       "id": "7300213",
@@ -2609,11 +2623,25 @@
       "url": "https://entertainment.capitalone.com/events/7299578"
     },
     {
+      "id": "7299580",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
+      "date": "Oct 8 • 11:59pm",
+      "location": "Rate Field • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7299580"
+    },
+    {
       "id": "7283643",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 9 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283643"
+    },
+    {
+      "id": "7299667",
+      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
+      "date": "Oct 9 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299667"
     },
     {
       "id": "7298757",
@@ -2796,13 +2824,6 @@
       "date": "Nov 1 • 11:59pm",
       "location": "Alaska Airlines Arena • Seattle, WA",
       "url": "https://entertainment.capitalone.com/events/7608264"
-    },
-    {
-      "id": "7538235",
-      "name": "Zamboni Ride at Dallas Stars vs. Washington Capitals",
-      "date": "Nov 3 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538235"
     },
     {
       "id": "7416303",
@@ -3288,13 +3309,6 @@
       "url": "https://entertainment.capitalone.com/events/7431873"
     },
     {
-      "id": "7430059",
-      "name": "Gracie Abrams: The Look at My Life Tour (NASH N1) (Cardholder Exclusives)",
-      "date": "Feb 14 • 8:00pm",
-      "location": "Bridgestone Arena • Nashville, TN",
-      "url": "https://entertainment.capitalone.com/events/7430059"
-    },
-    {
       "id": "7431881",
       "name": "Phoenix Suns at Washington Wizards",
       "date": "Feb 15 • 7:00pm",
@@ -3533,8 +3547,31 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7299580",
+      "title": "New Capital One Exclusive: Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
+      "event": {
+        "id": "7299580",
+        "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
+        "date": "Oct 8 • 11:59pm",
+        "location": "Rate Field • Chicago, IL",
+        "url": "https://entertainment.capitalone.com/events/7299580"
+      }
+    },
+    {
+      "key": "event-7299667",
+      "title": "New Capital One Exclusive: San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7299667",
+        "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
+        "date": "Oct 9 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7299667"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T18:17:07.632Z"
+  "lastSuccess": "2026-10-01T18:43:09.024Z"
 }
