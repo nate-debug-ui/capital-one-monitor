@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371358",
-      "title": "New Capital One Exclusive: Chicago White Sox at Cleveland Guardians (ALDS Game 1, Cleveland Home Game 1)",
-      "event": {
-        "id": "7371358",
-        "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 1, Cleveland Home Game 1)",
-        "date": "Oct 3 • 1:00pm",
-        "location": "Progressive Field • Cleveland, OH",
-        "url": "https://entertainment.capitalone.com/events/7371358"
-      }
-    },
-    {
       "key": "event-7298741",
       "title": "New Capital One Exclusive: TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
       "event": {
