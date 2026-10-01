@@ -728,6 +728,13 @@
     },
     "240": {
       "done": true
+    },
+    "241": {
+      "parts": [
+        "New Capital One Exclusive: San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)\n\nSan Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)\n\nDate: Oct 9 • 11:59pm\n\nLocation: American Family Field • Milwaukee, WI\n\nEvent details\nhttps://entertainment.capitalone.com/events/7299667\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/241"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
