@@ -3535,17 +3535,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371362",
-      "title": "New Capital One Exclusive: Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
-      "event": {
-        "id": "7371362",
-        "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
-        "date": "Oct 5 • 5:00pm",
-        "location": "Progressive Field • Cleveland, OH",
-        "url": "https://entertainment.capitalone.com/events/7371362"
-      }
-    },
-    {
       "key": "event-7371097",
       "title": "New Capital One Exclusive: New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
       "event": {
