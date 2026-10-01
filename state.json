@@ -2581,13 +2581,6 @@
       "url": "https://entertainment.capitalone.com/events/7371362"
     },
     {
-      "id": "7371097",
-      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
-      "date": "Oct 5 • 8:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371097"
-    },
-    {
       "id": "6845978",
       "name": "Peru Trip of Wonder",
       "date": "Oct 6 • 3:00pm",
@@ -2656,13 +2649,6 @@
       "date": "Oct 10 • 11:59pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371364"
-    },
-    {
-      "id": "7371099",
-      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
-      "date": "Oct 10 • 11:59pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371099"
     },
     {
       "id": "7283660",
@@ -3550,5 +3536,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T20:28:46.694Z"
+  "lastSuccess": "2026-10-01T20:43:51.311Z"
 }
