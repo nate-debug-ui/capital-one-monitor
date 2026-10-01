@@ -2525,13 +2525,6 @@
       "url": "https://entertainment.capitalone.com/events/6845936"
     },
     {
-      "id": "7371095",
-      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
-      "date": "Oct 3 • 6:30pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371095"
-    },
-    {
       "id": "7299663",
       "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
       "date": "Oct 3 • 7:30pm",
@@ -2614,13 +2607,6 @@
       "date": "Oct 6 • 9:30pm",
       "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7538218"
-    },
-    {
-      "id": "7299580",
-      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
-      "date": "Oct 8 • 11:59pm",
-      "location": "Rate Field • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7299580"
     },
     {
       "id": "7283643",
@@ -3564,5 +3550,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T19:27:32.155Z"
+  "lastSuccess": "2026-10-01T19:42:44.061Z"
 }
