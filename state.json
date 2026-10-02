@@ -529,36 +529,36 @@
     },
     "7298741": {
       "id": "7298741",
-      "name": "TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
+      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
       "date": "Oct 3 • 1:00pm",
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298741"
     },
     "7298755": {
       "id": "7298755",
-      "name": "TBD at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
+      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
       "date": "Oct 4 • 5:00pm",
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298755"
     },
     "7298757": {
       "id": "7298757",
-      "name": "TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
-      "date": "Oct 9 • 11:59pm",
+      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "date": "Oct 9 • 5:00pm",
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298757"
     },
     "7299578": {
       "id": "7299578",
       "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
-      "date": "Oct 7 • 11:59pm",
+      "date": "Oct 7 • 3:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299578"
     },
     "7299580": {
       "id": "7299580",
       "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
-      "date": "Oct 8 • 11:59pm",
+      "date": "Oct 8 • 4:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299580"
     },
@@ -579,7 +579,7 @@
     "7299667": {
       "id": "7299667",
       "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
-      "date": "Oct 9 • 11:59pm",
+      "date": "Oct 9 • 3:30pm",
       "location": "American Family Field • Milwaukee, WI",
       "url": "https://entertainment.capitalone.com/events/7299667"
     },
@@ -1587,7 +1587,7 @@
     "7371099": {
       "id": "7371099",
       "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
-      "date": "Oct 10 • 11:59pm",
+      "date": "Oct 10 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371099"
     },
@@ -1629,7 +1629,7 @@
     "7371364": {
       "id": "7371364",
       "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
-      "date": "Oct 10 • 11:59pm",
+      "date": "Oct 10 • 5:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371364"
     },
@@ -2483,13 +2483,6 @@
   },
   "previous": [
     {
-      "id": "7416345",
-      "name": "Ox & Olive - Chef Ryan Ratino's Steakhouse Story",
-      "date": "Oct 1 • 6:00pm",
-      "location": "Ox and Olive Steakhouse • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7416345"
-    },
-    {
       "id": "7638151",
       "name": "Penn State vs. Northwestern (Cardholder Exclusive)",
       "date": "Oct 2 • 7:00pm",
@@ -2519,7 +2512,7 @@
     },
     {
       "id": "7298741",
-      "name": "TBD at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
+      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
       "date": "Oct 3 • 1:00pm",
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298741"
@@ -2589,7 +2582,7 @@
     },
     {
       "id": "7298755",
-      "name": "TBD at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
+      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
       "date": "Oct 4 • 5:00pm",
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298755"
@@ -2632,16 +2625,30 @@
     {
       "id": "7299578",
       "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
-      "date": "Oct 7 • 11:59pm",
+      "date": "Oct 7 • 3:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299578"
     },
     {
       "id": "7299580",
       "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
-      "date": "Oct 8 • 11:59pm",
+      "date": "Oct 8 • 4:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299580"
+    },
+    {
+      "id": "7299667",
+      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
+      "date": "Oct 9 • 3:30pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299667"
+    },
+    {
+      "id": "7298757",
+      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "date": "Oct 9 • 5:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298757"
     },
     {
       "id": "7283643",
@@ -2651,25 +2658,18 @@
       "url": "https://entertainment.capitalone.com/events/7283643"
     },
     {
-      "id": "7299667",
-      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
-      "date": "Oct 9 • 11:59pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7299667"
-    },
-    {
-      "id": "7298757",
-      "name": "TBD at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
-      "date": "Oct 9 • 11:59pm",
-      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
-      "url": "https://entertainment.capitalone.com/events/7298757"
-    },
-    {
       "id": "7283656",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 10 • 2:00pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283656"
+    },
+    {
+      "id": "7371364",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "date": "Oct 10 • 5:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371364"
     },
     {
       "id": "7283646",
@@ -2679,25 +2679,18 @@
       "url": "https://entertainment.capitalone.com/events/7283646"
     },
     {
+      "id": "7371099",
+      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
+      "date": "Oct 10 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371099"
+    },
+    {
       "id": "7608204",
       "name": "Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)",
       "date": "Oct 10 • 11:59pm",
       "location": "Crisler Center • Ann Arbor, MI",
       "url": "https://entertainment.capitalone.com/events/7608204"
-    },
-    {
-      "id": "7371364",
-      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
-      "date": "Oct 10 • 11:59pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371364"
-    },
-    {
-      "id": "7371099",
-      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
-      "date": "Oct 10 • 11:59pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371099"
     },
     {
       "id": "7283660",
@@ -2987,18 +2980,46 @@
       "url": "https://entertainment.capitalone.com/events/7283690"
     },
     {
+      "id": "7538331",
+      "name": "The Nutcracker Rehearsal and Exclusive Dinner",
+      "date": "Dec 1 • 6:30pm",
+      "location": "David H. Koch Theater • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7538331"
+    },
+    {
+      "id": "7538237",
+      "name": "Zamboni Ride at Vancouver Canucks vs. Washington Capitals",
+      "date": "Dec 1 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538237"
+    },
+    {
+      "id": "7430025",
+      "name": "Gracie Abrams: The Look at My Life Tour (DEN N1) (Cardholder Exclusives)",
+      "date": "Dec 2 • 8:00pm",
+      "location": "Ball Arena • Denver, CO",
+      "url": "https://entertainment.capitalone.com/events/7430025"
+    },
+    {
+      "id": "7416449",
+      "name": "MICHELIN - An Exclusive Menu by Oriole & Providence",
+      "date": "Dec 3 • 6:30pm",
+      "location": "Oriole • Chicago, IL",
+      "url": "https://entertainment.capitalone.com/events/7416449"
+    },
+    {
+      "id": "7416317",
+      "name": "Eater - A Family Feast with Ellizabetta La Strega",
+      "date": "Dec 3 • 6:30pm",
+      "location": "Ellizabetta La Strega • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7416317"
+    },
+    {
       "id": "7430027",
       "name": "Gracie Abrams: The Look at My Life Tour (DEN N2) (Cardholder Exclusives)",
       "date": "Dec 3 • 8:00pm",
       "location": "Ball Arena • Denver, CO",
       "url": "https://entertainment.capitalone.com/events/7430027"
-    },
-    {
-      "id": "7622254",
-      "name": "2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
-      "date": "Dec 4 • 7:30pm",
-      "location": "Intuit Dome • Inglewood, CA",
-      "url": "https://entertainment.capitalone.com/events/7622254"
     },
     {
       "id": "7538335",
@@ -3022,32 +3043,11 @@
       "url": "https://entertainment.capitalone.com/events/7082400"
     },
     {
-      "id": "7622238",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
-      "date": "Dec 7 • 7:00pm",
-      "location": "Allstate Arena • Rosemont, IL",
-      "url": "https://entertainment.capitalone.com/events/7622238"
-    },
-    {
-      "id": "7622236",
-      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
-      "date": "Dec 7 • 7:00pm",
-      "location": "Allstate Arena • Rosemont, IL",
-      "url": "https://entertainment.capitalone.com/events/7622236"
-    },
-    {
       "id": "7430149",
       "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
       "date": "Dec 7 • 8:00pm",
       "location": "Oakland Arena • Oakland, CA",
       "url": "https://entertainment.capitalone.com/events/7430149"
-    },
-    {
-      "id": "7622256",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
-      "date": "Dec 8 • 7:30pm",
-      "location": "Little Caesars Arena • Detroit, MI",
-      "url": "https://entertainment.capitalone.com/events/7622256"
     },
     {
       "id": "7416393",
@@ -3078,20 +3078,6 @@
       "url": "https://entertainment.capitalone.com/events/7430113"
     },
     {
-      "id": "7622260",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - NYC",
-      "date": "Dec 11 • 7:00pm",
-      "location": "Madison Square Garden • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7622260"
-    },
-    {
-      "id": "7622258",
-      "name": "2026 iHeartRadio Jingle Ball VIP Packages - NYC",
-      "date": "Dec 11 • 7:00pm",
-      "location": "Madison Square Garden • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7622258"
-    },
-    {
       "id": "7283694",
       "name": "WAITRESS at The National",
       "date": "Dec 11 • 7:30pm",
@@ -3120,39 +3106,11 @@
       "url": "https://entertainment.capitalone.com/events/7283718"
     },
     {
-      "id": "7622262",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Boston",
-      "date": "Dec 13 • 6:00pm",
-      "location": "TD Garden • Boston, MA",
-      "url": "https://entertainment.capitalone.com/events/7622262"
-    },
-    {
-      "id": "7622248",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
-      "date": "Dec 14 • 7:30pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7622248"
-    },
-    {
-      "id": "7622246",
-      "name": "2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
-      "date": "Dec 14 • 7:30pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7622246"
-    },
-    {
       "id": "7430117",
       "name": "Gracie Abrams: The Look at My Life Tour (LA N1) (Cardholder Exclusives)",
       "date": "Dec 14 • 8:00pm",
       "location": "Kia Forum • Inglewood, CA",
       "url": "https://entertainment.capitalone.com/events/7430117"
-    },
-    {
-      "id": "7622240",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
-      "date": "Dec 17 • 7:30pm",
-      "location": "Bridgestone Arena • Nashville, TN",
-      "url": "https://entertainment.capitalone.com/events/7622240"
     },
     {
       "id": "7283720",
@@ -3550,5 +3508,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-01T21:59:30.723Z"
+  "lastSuccess": "2026-10-02T12:24:18.534Z"
 }
