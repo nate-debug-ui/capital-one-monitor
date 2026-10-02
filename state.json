@@ -3603,19 +3603,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7423024",
-      "title": "New Capital One Exclusive: Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
-      "event": {
-        "id": "7423024",
-        "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
-        "date": "Oct 7 • 7:00pm",
-        "location": "PETCO Park • San Diego, CA",
-        "url": "https://entertainment.capitalone.com/events/7423024"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-02T20:09:08.759Z"
