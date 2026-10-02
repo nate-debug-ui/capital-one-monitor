@@ -3050,11 +3050,32 @@
       "url": "https://entertainment.capitalone.com/events/7082400"
     },
     {
+      "id": "7622238",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622238"
+    },
+    {
+      "id": "7622236",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622236"
+    },
+    {
       "id": "7430149",
       "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
       "date": "Dec 7 • 8:00pm",
       "location": "Oakland Arena • Oakland, CA",
       "url": "https://entertainment.capitalone.com/events/7430149"
+    },
+    {
+      "id": "7622256",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
+      "date": "Dec 8 • 7:30pm",
+      "location": "Little Caesars Arena • Detroit, MI",
+      "url": "https://entertainment.capitalone.com/events/7622256"
     },
     {
       "id": "7416393",
@@ -3085,6 +3106,20 @@
       "url": "https://entertainment.capitalone.com/events/7430113"
     },
     {
+      "id": "7622260",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - NYC",
+      "date": "Dec 11 • 7:00pm",
+      "location": "Madison Square Garden • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7622260"
+    },
+    {
+      "id": "7622258",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - NYC",
+      "date": "Dec 11 • 7:00pm",
+      "location": "Madison Square Garden • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7622258"
+    },
+    {
       "id": "7283694",
       "name": "WAITRESS at The National",
       "date": "Dec 11 • 7:30pm",
@@ -3113,11 +3148,39 @@
       "url": "https://entertainment.capitalone.com/events/7283718"
     },
     {
+      "id": "7622262",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Boston",
+      "date": "Dec 13 • 6:00pm",
+      "location": "TD Garden • Boston, MA",
+      "url": "https://entertainment.capitalone.com/events/7622262"
+    },
+    {
+      "id": "7622248",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
+      "date": "Dec 14 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7622248"
+    },
+    {
+      "id": "7622246",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - D.C.",
+      "date": "Dec 14 • 7:30pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7622246"
+    },
+    {
       "id": "7430117",
       "name": "Gracie Abrams: The Look at My Life Tour (LA N1) (Cardholder Exclusives)",
       "date": "Dec 14 • 8:00pm",
       "location": "Kia Forum • Inglewood, CA",
       "url": "https://entertainment.capitalone.com/events/7430117"
+    },
+    {
+      "id": "7622240",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
+      "date": "Dec 17 • 7:30pm",
+      "location": "Bridgestone Arena • Nashville, TN",
+      "url": "https://entertainment.capitalone.com/events/7622240"
     },
     {
       "id": "7283720",
@@ -3167,13 +3230,6 @@
       "date": "Dec 20 • 8:00pm",
       "location": "Kia Forum • Inglewood, CA",
       "url": "https://entertainment.capitalone.com/events/7430133"
-    },
-    {
-      "id": "7431082",
-      "name": "Toronto Raptors at Washington Wizards",
-      "date": "Dec 22 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7431082"
     },
     {
       "id": "7538321",
@@ -3515,5 +3571,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-02T16:03:01.382Z"
+  "lastSuccess": "2026-10-02T16:25:45.509Z"
 }
