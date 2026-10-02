@@ -3232,6 +3232,13 @@
       "url": "https://entertainment.capitalone.com/events/7430133"
     },
     {
+      "id": "7431082",
+      "name": "Toronto Raptors at Washington Wizards",
+      "date": "Dec 22 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7431082"
+    },
+    {
       "id": "7538321",
       "name": "Co-Captain of the Game Oklahoma City vs. Washington Wizards",
       "date": "Jan 7 • 7:00pm",
@@ -3571,5 +3578,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-02T16:48:48.299Z"
+  "lastSuccess": "2026-10-02T17:04:25.139Z"
 }
