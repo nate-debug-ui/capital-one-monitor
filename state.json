@@ -3022,6 +3022,13 @@
       "url": "https://entertainment.capitalone.com/events/7430027"
     },
     {
+      "id": "7622254",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - L.A.",
+      "date": "Dec 4 • 7:30pm",
+      "location": "Intuit Dome • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7622254"
+    },
+    {
       "id": "7538335",
       "name": "George Balanchine's The Nutcracker® and Brunch",
       "date": "Dec 5 • 12:00pm",
@@ -3508,5 +3515,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-02T15:48:24.537Z"
+  "lastSuccess": "2026-10-02T16:03:01.382Z"
 }
