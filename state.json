@@ -1738,6 +1738,20 @@
       "location": "PETCO Park • San Diego, CA",
       "url": "https://entertainment.capitalone.com/events/7423020"
     },
+    "7423022": {
+      "id": "7423022",
+      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 3, San Diego Home Game 1)",
+      "date": "Oct 6 • 6:30pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423022"
+    },
+    "7423024": {
+      "id": "7423024",
+      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
+      "date": "Oct 7 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423024"
+    },
     "7425115": {
       "id": "7425115",
       "name": "HAMILTON on Broadway and Curated Wine Tasting",
@@ -2609,6 +2623,13 @@
       "url": "https://entertainment.capitalone.com/events/6845978"
     },
     {
+      "id": "7423022",
+      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 3, San Diego Home Game 1)",
+      "date": "Oct 6 • 6:30pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423022"
+    },
+    {
       "id": "7538216",
       "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
       "date": "Oct 6 • 7:00pm",
@@ -2628,6 +2649,13 @@
       "date": "Oct 7 • 3:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299578"
+    },
+    {
+      "id": "7423024",
+      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
+      "date": "Oct 7 • 7:00pm",
+      "location": "PETCO Park • San Diego, CA",
+      "url": "https://entertainment.capitalone.com/events/7423024"
     },
     {
       "id": "7299580",
@@ -3575,8 +3603,31 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7423022",
+      "title": "New Capital One Exclusive: Milwaukee Brewers at San Diego Padres (NLDS Game 3, San Diego Home Game 1)",
+      "event": {
+        "id": "7423022",
+        "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 3, San Diego Home Game 1)",
+        "date": "Oct 6 • 6:30pm",
+        "location": "PETCO Park • San Diego, CA",
+        "url": "https://entertainment.capitalone.com/events/7423022"
+      }
+    },
+    {
+      "key": "event-7423024",
+      "title": "New Capital One Exclusive: Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
+      "event": {
+        "id": "7423024",
+        "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
+        "date": "Oct 7 • 7:00pm",
+        "location": "PETCO Park • San Diego, CA",
+        "url": "https://entertainment.capitalone.com/events/7423024"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-02T19:52:08.623Z"
+  "lastSuccess": "2026-10-02T20:09:08.759Z"
 }
