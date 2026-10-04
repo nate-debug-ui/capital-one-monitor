@@ -2497,62 +2497,6 @@
   },
   "previous": [
     {
-      "id": "7595137",
-      "name": "Three Iterations of Cristal: Celebrating 150 Years",
-      "date": "Oct 3 • 11:00am",
-      "location": "The Standard - High Line • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7595137"
-    },
-    {
-      "id": "7371358",
-      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 1, Cleveland Home Game 1)",
-      "date": "Oct 3 • 1:00pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371358"
-    },
-    {
-      "id": "7298741",
-      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 1, Los Angeles Home Game 1)",
-      "date": "Oct 3 • 1:00pm",
-      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
-      "url": "https://entertainment.capitalone.com/events/7298741"
-    },
-    {
-      "id": "7283633",
-      "name": "DIRTY DANCING at The National",
-      "date": "Oct 3 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283633"
-    },
-    {
-      "id": "6845936",
-      "name": "The MICHELIN Guide Bordeaux Trip",
-      "date": "Oct 3 • 4:00pm",
-      "location": "Les Sources de Caudalie • Martillac, FR",
-      "url": "https://entertainment.capitalone.com/events/6845936"
-    },
-    {
-      "id": "7371095",
-      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
-      "date": "Oct 3 • 6:30pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371095"
-    },
-    {
-      "id": "7299663",
-      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 1, Milwaukee Home Game 1)",
-      "date": "Oct 3 • 7:30pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7299663"
-    },
-    {
-      "id": "7283635",
-      "name": "DIRTY DANCING at The National",
-      "date": "Oct 3 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283635"
-    },
-    {
       "id": "7608258",
       "name": "Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
       "date": "Oct 4 • 1:00pm",
@@ -3599,5 +3543,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-03T19:03:15.768Z"
+  "lastSuccess": "2026-10-04T18:17:26.213Z"
 }
