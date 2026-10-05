@@ -3561,19 +3561,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7290791",
-      "title": "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
-      "event": {
-        "id": "7290791",
-        "name": "Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
-        "date": "Oct 8 • 8:00pm",
-        "location": "Yankee Stadium • Bronx, NY",
-        "url": "https://entertainment.capitalone.com/events/7290791"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-05T15:43:52.814Z"
