@@ -3563,17 +3563,6 @@
   ],
   "pending": [
     {
-      "key": "event-7290788",
-      "title": "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
-      "event": {
-        "id": "7290788",
-        "name": "Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
-        "date": "Oct 7 • 8:00pm",
-        "location": "Yankee Stadium • Bronx, NY",
-        "url": "https://entertainment.capitalone.com/events/7290788"
-      }
-    },
-    {
       "key": "event-7290791",
       "title": "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
       "event": {
