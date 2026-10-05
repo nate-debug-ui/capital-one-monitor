@@ -761,6 +761,13 @@
     },
     "251": {
       "done": true
+    },
+    "252": {
+      "parts": [
+        "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)\n\nTampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)\n\nDate: Oct 8 • 8:00pm\n\nLocation: Yankee Stadium • Bronx, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7290791\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/252"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
