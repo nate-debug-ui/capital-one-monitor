@@ -2497,41 +2497,6 @@
   },
   "previous": [
     {
-      "id": "7608258",
-      "name": "Womens Volleyball - Illinois vs Oregon (Cardholder Exclusive)",
-      "date": "Oct 4 • 1:00pm",
-      "location": "Matthew Knight Arena • Eugene, OR",
-      "url": "https://entertainment.capitalone.com/events/7608258"
-    },
-    {
-      "id": "7608260",
-      "name": "Womens Volleyball - Purdue vs Washington (Cardholder Exclusive)",
-      "date": "Oct 4 • 2:00pm",
-      "location": "Alaska Airlines Arena • Seattle, WA",
-      "url": "https://entertainment.capitalone.com/events/7608260"
-    },
-    {
-      "id": "7283637",
-      "name": "DIRTY DANCING at The National",
-      "date": "Oct 4 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283637"
-    },
-    {
-      "id": "7299665",
-      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 2, Milwaukee Home Game 2)",
-      "date": "Oct 4 • 3:00pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7299665"
-    },
-    {
-      "id": "7298755",
-      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 2, Los Angeles Home Game 2)",
-      "date": "Oct 4 • 5:00pm",
-      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
-      "url": "https://entertainment.capitalone.com/events/7298755"
-    },
-    {
       "id": "7371362",
       "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
       "date": "Oct 5 • 5:00pm",
@@ -3543,5 +3508,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-04T21:46:19.539Z"
+  "lastSuccess": "2026-10-05T12:24:56.653Z"
 }
