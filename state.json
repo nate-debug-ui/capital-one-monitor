@@ -366,6 +366,20 @@
       "location": "Yankee Stadium • Bronx, NY",
       "url": "https://entertainment.capitalone.com/events/7290786"
     },
+    "7290788": {
+      "id": "7290788",
+      "name": "Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
+      "date": "Oct 7 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290788"
+    },
+    "7290791": {
+      "id": "7290791",
+      "name": "Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
+      "date": "Oct 8 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290791"
+    },
     "7292405": {
       "id": "7292405",
       "name": "New York Rangers at Boston Bruins",
@@ -526,6 +540,20 @@
       "date": "Oct 1 • 7:30pm",
       "location": "Delta Center • Salt Lake City, UT",
       "url": "https://entertainment.capitalone.com/events/7293039"
+    },
+    "7298464": {
+      "id": "7298464",
+      "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 3, Atlanta Home Game 1)",
+      "date": "Oct 6 • 6:00pm",
+      "location": "Truist Park • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7298464"
+    },
+    "7298466": {
+      "id": "7298466",
+      "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)",
+      "date": "Oct 7 • 6:00pm",
+      "location": "Truist Park • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7298466"
     },
     "7298741": {
       "id": "7298741",
@@ -2518,6 +2546,13 @@
       "url": "https://entertainment.capitalone.com/events/6845978"
     },
     {
+      "id": "7298464",
+      "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 3, Atlanta Home Game 1)",
+      "date": "Oct 6 • 6:00pm",
+      "location": "Truist Park • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7298464"
+    },
+    {
       "id": "7423022",
       "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 3, San Diego Home Game 1)",
       "date": "Oct 6 • 6:30pm",
@@ -2546,6 +2581,13 @@
       "url": "https://entertainment.capitalone.com/events/7299578"
     },
     {
+      "id": "7298466",
+      "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)",
+      "date": "Oct 7 • 6:00pm",
+      "location": "Truist Park • Atlanta, GA",
+      "url": "https://entertainment.capitalone.com/events/7298466"
+    },
+    {
       "id": "7423024",
       "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
       "date": "Oct 7 • 7:00pm",
@@ -2553,11 +2595,25 @@
       "url": "https://entertainment.capitalone.com/events/7423024"
     },
     {
+      "id": "7290788",
+      "name": "Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
+      "date": "Oct 7 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290788"
+    },
+    {
       "id": "7299580",
       "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
       "date": "Oct 8 • 4:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299580"
+    },
+    {
+      "id": "7290791",
+      "name": "Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
+      "date": "Oct 8 • 8:00pm",
+      "location": "Yankee Stadium • Bronx, NY",
+      "url": "https://entertainment.capitalone.com/events/7290791"
     },
     {
       "id": "7299667",
@@ -2971,6 +3027,34 @@
       "date": "Dec 7 • 9:00am",
       "location": "Palos Verdes Golf Club • Palos Verdes Estates, CA",
       "url": "https://entertainment.capitalone.com/events/7082400"
+    },
+    {
+      "id": "7622238",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622238"
+    },
+    {
+      "id": "7622236",
+      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
+      "date": "Dec 7 • 7:00pm",
+      "location": "Allstate Arena • Rosemont, IL",
+      "url": "https://entertainment.capitalone.com/events/7622236"
+    },
+    {
+      "id": "7430149",
+      "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
+      "date": "Dec 7 • 8:00pm",
+      "location": "Oakland Arena • Oakland, CA",
+      "url": "https://entertainment.capitalone.com/events/7430149"
+    },
+    {
+      "id": "7622256",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
+      "date": "Dec 8 • 7:30pm",
+      "location": "Little Caesars Arena • Detroit, MI",
+      "url": "https://entertainment.capitalone.com/events/7622256"
     },
     {
       "id": "7416393",
@@ -3477,8 +3561,53 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7298464",
+      "title": "New Capital One Exclusive: Los Angeles Dodgers at Atlanta Braves (NLDS Game 3, Atlanta Home Game 1)",
+      "event": {
+        "id": "7298464",
+        "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 3, Atlanta Home Game 1)",
+        "date": "Oct 6 • 6:00pm",
+        "location": "Truist Park • Atlanta, GA",
+        "url": "https://entertainment.capitalone.com/events/7298464"
+      }
+    },
+    {
+      "key": "event-7298466",
+      "title": "New Capital One Exclusive: Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)",
+      "event": {
+        "id": "7298466",
+        "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)",
+        "date": "Oct 7 • 6:00pm",
+        "location": "Truist Park • Atlanta, GA",
+        "url": "https://entertainment.capitalone.com/events/7298466"
+      }
+    },
+    {
+      "key": "event-7290788",
+      "title": "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
+      "event": {
+        "id": "7290788",
+        "name": "Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
+        "date": "Oct 7 • 8:00pm",
+        "location": "Yankee Stadium • Bronx, NY",
+        "url": "https://entertainment.capitalone.com/events/7290788"
+      }
+    },
+    {
+      "key": "event-7290791",
+      "title": "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
+      "event": {
+        "id": "7290791",
+        "name": "Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
+        "date": "Oct 8 • 8:00pm",
+        "location": "Yankee Stadium • Bronx, NY",
+        "url": "https://entertainment.capitalone.com/events/7290791"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-05T15:20:57.552Z"
+  "lastSuccess": "2026-10-05T15:43:52.814Z"
 }
