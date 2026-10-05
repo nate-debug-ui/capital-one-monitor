@@ -757,11 +757,7 @@
       "done": true
     },
     "250": {
-      "parts": [
-        "New Capital One Exclusive: Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)\n\nLos Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)\n\nDate: Oct 7 • 6:00pm\n\nLocation: Truist Park • Atlanta, GA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7298466\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/250"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
