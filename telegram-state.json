@@ -758,6 +758,13 @@
     },
     "250": {
       "done": true
+    },
+    "251": {
+      "parts": [
+        "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)\n\nTampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)\n\nDate: Oct 7 • 8:00pm\n\nLocation: Yankee Stadium • Bronx, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7290788\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/251"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
