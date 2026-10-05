@@ -3563,17 +3563,6 @@
   ],
   "pending": [
     {
-      "key": "event-7298466",
-      "title": "New Capital One Exclusive: Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)",
-      "event": {
-        "id": "7298466",
-        "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)",
-        "date": "Oct 7 • 6:00pm",
-        "location": "Truist Park • Atlanta, GA",
-        "url": "https://entertainment.capitalone.com/events/7298466"
-      }
-    },
-    {
       "key": "event-7290788",
       "title": "New Capital One Exclusive: Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
       "event": {
