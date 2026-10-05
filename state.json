@@ -2973,34 +2973,6 @@
       "url": "https://entertainment.capitalone.com/events/7082400"
     },
     {
-      "id": "7622238",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Chicago",
-      "date": "Dec 7 • 7:00pm",
-      "location": "Allstate Arena • Rosemont, IL",
-      "url": "https://entertainment.capitalone.com/events/7622238"
-    },
-    {
-      "id": "7622236",
-      "name": "2026 iHeartRadio Jingle Ball VIP Packages - Chicago",
-      "date": "Dec 7 • 7:00pm",
-      "location": "Allstate Arena • Rosemont, IL",
-      "url": "https://entertainment.capitalone.com/events/7622236"
-    },
-    {
-      "id": "7430149",
-      "name": "Gracie Abrams: The Look at My Life Tour (OAK N2) (Cardholder Exclusives)",
-      "date": "Dec 7 • 8:00pm",
-      "location": "Oakland Arena • Oakland, CA",
-      "url": "https://entertainment.capitalone.com/events/7430149"
-    },
-    {
-      "id": "7622256",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Detroit",
-      "date": "Dec 8 • 7:30pm",
-      "location": "Little Caesars Arena • Detroit, MI",
-      "url": "https://entertainment.capitalone.com/events/7622256"
-    },
-    {
       "id": "7416393",
       "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
       "date": "Dec 9 • 6:00pm",
@@ -3508,5 +3480,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-05T14:55:20.751Z"
+  "lastSuccess": "2026-10-05T15:20:57.552Z"
 }
