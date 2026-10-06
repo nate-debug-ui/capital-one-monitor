@@ -2525,20 +2525,6 @@
   },
   "previous": [
     {
-      "id": "7371362",
-      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 2, Cleveland Home Game 2)",
-      "date": "Oct 5 • 5:00pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371362"
-    },
-    {
-      "id": "7371097",
-      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 2, Tampa Bay Home Game 2)",
-      "date": "Oct 5 • 8:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371097"
-    },
-    {
       "id": "6845978",
       "name": "Peru Trip of Wonder",
       "date": "Oct 6 • 3:00pm",
@@ -3564,5 +3550,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-05T21:54:30.817Z"
+  "lastSuccess": "2026-10-06T12:23:27.445Z"
 }
