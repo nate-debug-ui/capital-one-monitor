@@ -3862,19 +3862,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7661071",
-      "title": "New Capital One Exclusive: Westside Ironworks: Spain UNCORKED at Barcelona Wine Bar",
-      "event": {
-        "id": "7661071",
-        "name": "Westside Ironworks: Spain UNCORKED at Barcelona Wine Bar",
-        "date": "Nov 18 • 7:00pm",
-        "location": "Barcelona Wine Bar - Westside Ironworks (WIW) • Atlanta, GA",
-        "url": "https://entertainment.capitalone.com/events/7661071"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-07T14:50:00.864Z"
