@@ -785,6 +785,13 @@
     },
     "259": {
       "done": true
+    },
+    "260": {
+      "parts": [
+        "New Capital One Exclusive: Montrose (TX): Spain UNCORKED at Barcelona Wine Bar\n\nMontrose (TX): Spain UNCORKED at Barcelona Wine Bar\n\nDate: Nov 14 • 1:00pm\n\nLocation: Barcelona Wine Bar - Montrose • Houston, TX\n\nEvent details\nhttps://entertainment.capitalone.com/events/7661905\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/260"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
