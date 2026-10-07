@@ -1775,7 +1775,7 @@
     },
     "7423024": {
       "id": "7423024",
-      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
+      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2)",
       "date": "Oct 7 • 7:00pm",
       "location": "PETCO Park • San Diego, CA",
       "url": "https://entertainment.capitalone.com/events/7423024"
@@ -2525,41 +2525,6 @@
   },
   "previous": [
     {
-      "id": "6845978",
-      "name": "Peru Trip of Wonder",
-      "date": "Oct 6 • 3:00pm",
-      "location": "Sol y Luna • Urubamba, PE",
-      "url": "https://entertainment.capitalone.com/events/6845978"
-    },
-    {
-      "id": "7298464",
-      "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 3, Atlanta Home Game 1)",
-      "date": "Oct 6 • 6:00pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7298464"
-    },
-    {
-      "id": "7423022",
-      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 3, San Diego Home Game 1)",
-      "date": "Oct 6 • 6:30pm",
-      "location": "PETCO Park • San Diego, CA",
-      "url": "https://entertainment.capitalone.com/events/7423022"
-    },
-    {
-      "id": "7538216",
-      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
-      "date": "Oct 6 • 7:00pm",
-      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7538216"
-    },
-    {
-      "id": "7538218",
-      "name": "CHI: Carbone Fine Food Pizza Tour Hosted by Capital One",
-      "date": "Oct 6 • 9:30pm",
-      "location": "Dimmi Dimmi Corner Italian • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7538218"
-    },
-    {
       "id": "7299578",
       "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
       "date": "Oct 7 • 3:00pm",
@@ -2575,7 +2540,7 @@
     },
     {
       "id": "7423024",
-      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2) (If Necessary)",
+      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2)",
       "date": "Oct 7 • 7:00pm",
       "location": "PETCO Park • San Diego, CA",
       "url": "https://entertainment.capitalone.com/events/7423024"
@@ -3550,5 +3515,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-06T21:54:20.764Z"
+  "lastSuccess": "2026-10-07T12:25:56.085Z"
 }
