@@ -773,6 +773,13 @@
     },
     "255": {
       "done": true
+    },
+    "256": {
+      "parts": [
+        "New Capital One Exclusive: Delray (FL): Spain UNCORKED at Barcelona Wine Bar\n\nDelray (FL): Spain UNCORKED at Barcelona Wine Bar\n\nDate: Nov 10 • 5:00pm\n\nLocation: Barcelona Wine Bar - Delray • Delray Beach, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7661003\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/256"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
