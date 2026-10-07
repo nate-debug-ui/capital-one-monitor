@@ -791,6 +791,13 @@
     },
     "261": {
       "done": true
+    },
+    "262": {
+      "parts": [
+        "New Capital One Exclusive: Cambridge: Spain UNCORKED at Barcelona Wine Bar\n\nCambridge: Spain UNCORKED at Barcelona Wine Bar\n\nDate: Nov 15 • 1:00pm\n\nLocation: Barcelona Wine Bar - Cambridge • Cambridge, MA\n\nEvent details\nhttps://entertainment.capitalone.com/events/7660983\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/262"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
