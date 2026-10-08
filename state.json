@@ -3904,19 +3904,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7093528",
-      "title": "New Capital One Exclusive: Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
-      "event": {
-        "id": "7093528",
-        "name": "Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
-        "date": "Oct 25 • 12:00pm",
-        "location": "Wisconsin Field House • Madison, WI",
-        "url": "https://entertainment.capitalone.com/events/7093528"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-08T16:03:17.298Z"
