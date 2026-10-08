@@ -142,6 +142,27 @@
       "location": "Bob Devaney Sports Center • Lincoln, NE",
       "url": "https://entertainment.capitalone.com/events/7092855"
     },
+    "7093400": {
+      "id": "7093400",
+      "name": "Minnesota Golden Gophers at Ohio State Buckeyes Womens Volleyball",
+      "date": "Oct 11 • 4:00pm",
+      "location": "Covelli Center - Columbus • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/7093400"
+    },
+    "7093406": {
+      "id": "7093406",
+      "name": "Oregon Ducks at Ohio State Buckeyes Womens Volleyball",
+      "date": "Oct 24 • 7:00pm",
+      "location": "Covelli Center - Columbus • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/7093406"
+    },
+    "7093528": {
+      "id": "7093528",
+      "name": "Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
+      "date": "Oct 25 • 12:00pm",
+      "location": "Wisconsin Field House • Madison, WI",
+      "url": "https://entertainment.capitalone.com/events/7093528"
+    },
     "7147770": {
       "id": "7147770",
       "name": "2026 iHeartRadioMusic Festival presented by Capital One",
@@ -2784,6 +2805,13 @@
       "url": "https://entertainment.capitalone.com/events/7283660"
     },
     {
+      "id": "7093400",
+      "name": "Minnesota Golden Gophers at Ohio State Buckeyes Womens Volleyball",
+      "date": "Oct 11 • 4:00pm",
+      "location": "Covelli Center - Columbus • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/7093400"
+    },
+    {
       "id": "7082393",
       "name": "TPC Jasna Polana Golf Academy with Will Zalatoris",
       "date": "Oct 12 • 9:00am",
@@ -2875,11 +2903,25 @@
       "url": "https://entertainment.capitalone.com/events/7608180"
     },
     {
+      "id": "7093406",
+      "name": "Oregon Ducks at Ohio State Buckeyes Womens Volleyball",
+      "date": "Oct 24 • 7:00pm",
+      "location": "Covelli Center - Columbus • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/7093406"
+    },
+    {
       "id": "7092843",
       "name": "USC Trojans at Nebraska Cornhuskers Womens Volleyball",
       "date": "Oct 24 • 7:00pm",
       "location": "Bob Devaney Sports Center • Lincoln, NE",
       "url": "https://entertainment.capitalone.com/events/7092843"
+    },
+    {
+      "id": "7093528",
+      "name": "Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
+      "date": "Oct 25 • 12:00pm",
+      "location": "Wisconsin Field House • Madison, WI",
+      "url": "https://entertainment.capitalone.com/events/7093528"
     },
     {
       "id": "7608234",
@@ -3862,8 +3904,42 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7093400",
+      "title": "New Capital One Exclusive: Minnesota Golden Gophers at Ohio State Buckeyes Womens Volleyball",
+      "event": {
+        "id": "7093400",
+        "name": "Minnesota Golden Gophers at Ohio State Buckeyes Womens Volleyball",
+        "date": "Oct 11 • 4:00pm",
+        "location": "Covelli Center - Columbus • Columbus, OH",
+        "url": "https://entertainment.capitalone.com/events/7093400"
+      }
+    },
+    {
+      "key": "event-7093406",
+      "title": "New Capital One Exclusive: Oregon Ducks at Ohio State Buckeyes Womens Volleyball",
+      "event": {
+        "id": "7093406",
+        "name": "Oregon Ducks at Ohio State Buckeyes Womens Volleyball",
+        "date": "Oct 24 • 7:00pm",
+        "location": "Covelli Center - Columbus • Columbus, OH",
+        "url": "https://entertainment.capitalone.com/events/7093406"
+      }
+    },
+    {
+      "key": "event-7093528",
+      "title": "New Capital One Exclusive: Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
+      "event": {
+        "id": "7093528",
+        "name": "Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
+        "date": "Oct 25 • 12:00pm",
+        "location": "Wisconsin Field House • Madison, WI",
+        "url": "https://entertainment.capitalone.com/events/7093528"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-08T15:42:45.331Z"
+  "lastSuccess": "2026-10-08T16:03:17.298Z"
 }
