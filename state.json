@@ -2696,6 +2696,13 @@
       "date": "Nov 14 • 1:00pm",
       "location": "Barcelona Wine Bar - Montrose • Houston, TX",
       "url": "https://entertainment.capitalone.com/events/7661905"
+    },
+    "7667436": {
+      "id": "7667436",
+      "name": "WICKED on Broadway Exclusive Experience",
+      "date": "Dec 12 • 5:00pm",
+      "location": "Gershwin Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7667436"
     }
   },
   "previous": [
@@ -3358,6 +3365,13 @@
       "url": "https://entertainment.capitalone.com/events/7283702"
     },
     {
+      "id": "7667436",
+      "name": "WICKED on Broadway Exclusive Experience",
+      "date": "Dec 12 • 5:00pm",
+      "location": "Gershwin Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7667436"
+    },
+    {
       "id": "7283706",
       "name": "WAITRESS at The National",
       "date": "Dec 12 • 7:30pm",
@@ -3806,8 +3820,20 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7667436",
+      "title": "New Capital One Exclusive: WICKED on Broadway Exclusive Experience",
+      "event": {
+        "id": "7667436",
+        "name": "WICKED on Broadway Exclusive Experience",
+        "date": "Dec 12 • 5:00pm",
+        "location": "Gershwin Theatre • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7667436"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-08T13:46:37.499Z"
+  "lastSuccess": "2026-10-08T14:04:50.525Z"
 }
