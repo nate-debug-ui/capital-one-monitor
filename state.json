@@ -3820,19 +3820,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7667436",
-      "title": "New Capital One Exclusive: WICKED on Broadway Exclusive Experience",
-      "event": {
-        "id": "7667436",
-        "name": "WICKED on Broadway Exclusive Experience",
-        "date": "Dec 12 • 5:00pm",
-        "location": "Gershwin Theatre • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7667436"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-08T14:04:50.525Z"
