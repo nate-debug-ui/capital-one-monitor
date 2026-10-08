@@ -121,6 +121,27 @@
       "location": "Palos Verdes Golf Club • Palos Verdes Estates, CA",
       "url": "https://entertainment.capitalone.com/events/7082400"
     },
+    "7092831": {
+      "id": "7092831",
+      "name": "Purdue Boilermakers at Nebraska Cornhuskers Womens Volleyball",
+      "date": "Oct 17 • 7:00pm",
+      "location": "Bob Devaney Sports Center • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7092831"
+    },
+    "7092843": {
+      "id": "7092843",
+      "name": "USC Trojans at Nebraska Cornhuskers Womens Volleyball",
+      "date": "Oct 24 • 7:00pm",
+      "location": "Bob Devaney Sports Center • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7092843"
+    },
+    "7092855": {
+      "id": "7092855",
+      "name": "Wisconsin Badgers at Nebraska Cornhuskers Womens Volleyball",
+      "date": "Oct 10 • 7:00pm",
+      "location": "Bob Devaney Sports Center • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7092855"
+    },
     "7147770": {
       "id": "7147770",
       "name": "2026 iHeartRadioMusic Festival presented by Capital One",
@@ -2728,6 +2749,13 @@
       "url": "https://entertainment.capitalone.com/events/7283656"
     },
     {
+      "id": "7092855",
+      "name": "Wisconsin Badgers at Nebraska Cornhuskers Womens Volleyball",
+      "date": "Oct 10 • 7:00pm",
+      "location": "Bob Devaney Sports Center • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7092855"
+    },
+    {
       "id": "7283646",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 10 • 7:30pm",
@@ -2791,6 +2819,13 @@
       "url": "https://entertainment.capitalone.com/events/7591684"
     },
     {
+      "id": "7092831",
+      "name": "Purdue Boilermakers at Nebraska Cornhuskers Womens Volleyball",
+      "date": "Oct 17 • 7:00pm",
+      "location": "Bob Devaney Sports Center • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7092831"
+    },
+    {
       "id": "7591666",
       "name": "Penn State vs. Michigan (Cardholder Exclusive)",
       "date": "Oct 17 • 11:59pm",
@@ -2838,6 +2873,13 @@
       "date": "Oct 24 • 6:00pm",
       "location": "Xtream Arena • Coralville, IA",
       "url": "https://entertainment.capitalone.com/events/7608180"
+    },
+    {
+      "id": "7092843",
+      "name": "USC Trojans at Nebraska Cornhuskers Womens Volleyball",
+      "date": "Oct 24 • 7:00pm",
+      "location": "Bob Devaney Sports Center • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7092843"
     },
     {
       "id": "7608234",
@@ -3820,8 +3862,42 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7092855",
+      "title": "New Capital One Exclusive: Wisconsin Badgers at Nebraska Cornhuskers Womens Volleyball",
+      "event": {
+        "id": "7092855",
+        "name": "Wisconsin Badgers at Nebraska Cornhuskers Womens Volleyball",
+        "date": "Oct 10 • 7:00pm",
+        "location": "Bob Devaney Sports Center • Lincoln, NE",
+        "url": "https://entertainment.capitalone.com/events/7092855"
+      }
+    },
+    {
+      "key": "event-7092831",
+      "title": "New Capital One Exclusive: Purdue Boilermakers at Nebraska Cornhuskers Womens Volleyball",
+      "event": {
+        "id": "7092831",
+        "name": "Purdue Boilermakers at Nebraska Cornhuskers Womens Volleyball",
+        "date": "Oct 17 • 7:00pm",
+        "location": "Bob Devaney Sports Center • Lincoln, NE",
+        "url": "https://entertainment.capitalone.com/events/7092831"
+      }
+    },
+    {
+      "key": "event-7092843",
+      "title": "New Capital One Exclusive: USC Trojans at Nebraska Cornhuskers Womens Volleyball",
+      "event": {
+        "id": "7092843",
+        "name": "USC Trojans at Nebraska Cornhuskers Womens Volleyball",
+        "date": "Oct 24 • 7:00pm",
+        "location": "Bob Devaney Sports Center • Lincoln, NE",
+        "url": "https://entertainment.capitalone.com/events/7092843"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-08T14:55:44.015Z"
+  "lastSuccess": "2026-10-08T15:19:07.683Z"
 }
