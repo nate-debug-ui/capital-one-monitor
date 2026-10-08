@@ -3862,19 +3862,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7092843",
-      "title": "New Capital One Exclusive: USC Trojans at Nebraska Cornhuskers Womens Volleyball",
-      "event": {
-        "id": "7092843",
-        "name": "USC Trojans at Nebraska Cornhuskers Womens Volleyball",
-        "date": "Oct 24 • 7:00pm",
-        "location": "Bob Devaney Sports Center • Lincoln, NE",
-        "url": "https://entertainment.capitalone.com/events/7092843"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-08T15:19:07.683Z"
