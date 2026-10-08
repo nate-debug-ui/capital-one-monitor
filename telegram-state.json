@@ -851,6 +851,13 @@
     },
     "281": {
       "done": true
+    },
+    "282": {
+      "parts": [
+        "New Capital One Exclusive: Wisconsin Badgers at Nebraska Cornhuskers Womens Volleyball\n\nWisconsin Badgers at Nebraska Cornhuskers Womens Volleyball\n\nDate: Oct 10 • 7:00pm\n\nLocation: Bob Devaney Sports Center • Lincoln, NE\n\nEvent details\nhttps://entertainment.capitalone.com/events/7092855\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/282"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
