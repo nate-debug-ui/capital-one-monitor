@@ -585,8 +585,8 @@
     },
     "7299580": {
       "id": "7299580",
-      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
-      "date": "Oct 8 • 4:00pm",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2)",
+      "date": "Oct 8 • 7:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299580"
     },
@@ -1657,7 +1657,7 @@
     "7371364": {
       "id": "7371364",
       "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
-      "date": "Oct 10 • 5:00pm",
+      "date": "Oct 10 • 8:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371364"
     },
@@ -2524,7 +2524,7 @@
     },
     "7660963": {
       "id": "7660963",
-      "name": "14th Street: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Washington D.C. (14th St): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 5:00pm",
       "location": "Barcelona Wine Bar - 14th Street • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7660963"
@@ -2538,14 +2538,14 @@
     },
     "7660977": {
       "id": "7660977",
-      "name": "Brookline: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Brookline (MA): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 11 • 6:00pm",
       "location": "Barcelona Wine Bar - Brookline • Brookline, MA",
       "url": "https://entertainment.capitalone.com/events/7660977"
     },
     "7660983": {
       "id": "7660983",
-      "name": "Cambridge: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Cambridge (MA): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 15 • 1:00pm",
       "location": "Barcelona Wine Bar - Cambridge • Cambridge, MA",
       "url": "https://entertainment.capitalone.com/events/7660983"
@@ -2601,14 +2601,14 @@
     },
     "7661039": {
       "id": "7661039",
-      "name": "Passyunk 6PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Philadelphia 6PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 6:00pm",
       "location": "Barcelona Wine Bar - Passyunk • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7661039"
     },
     "7661041": {
       "id": "7661041",
-      "name": "Passyunk 8PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Philadelphia 8PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 8:00pm",
       "location": "Barcelona Wine Bar - Passyunk • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7661041"
@@ -2692,7 +2692,7 @@
     },
     "7661905": {
       "id": "7661905",
-      "name": "Montrose (TX): Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Houston (TX): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 14 • 1:00pm",
       "location": "Barcelona Wine Bar - Montrose • Houston, TX",
       "url": "https://entertainment.capitalone.com/events/7661905"
@@ -2700,60 +2700,11 @@
   },
   "previous": [
     {
-      "id": "7299578",
-      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
-      "date": "Oct 7 • 3:00pm",
-      "location": "Rate Field • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7299578"
-    },
-    {
-      "id": "7298466",
-      "name": "Los Angeles Dodgers at Atlanta Braves (NLDS Game 4, Atlanta Home Game 2)",
-      "date": "Oct 7 • 6:00pm",
-      "location": "Truist Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7298466"
-    },
-    {
-      "id": "7423024",
-      "name": "Milwaukee Brewers at San Diego Padres (NLDS Game 4, San Diego Home Game 2)",
-      "date": "Oct 7 • 7:00pm",
-      "location": "PETCO Park • San Diego, CA",
-      "url": "https://entertainment.capitalone.com/events/7423024"
-    },
-    {
-      "id": "7290788",
-      "name": "Tampa Bay Rays at New York Yankees (ALDS Game 3, New York Home Game 1)",
-      "date": "Oct 7 • 8:00pm",
-      "location": "Yankee Stadium • Bronx, NY",
-      "url": "https://entertainment.capitalone.com/events/7290788"
-    },
-    {
       "id": "7299580",
-      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2) (If Necessary)",
-      "date": "Oct 8 • 4:00pm",
+      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2)",
+      "date": "Oct 8 • 7:00pm",
       "location": "Rate Field • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7299580"
-    },
-    {
-      "id": "7290791",
-      "name": "Tampa Bay Rays at New York Yankees (ALDS Game 4, New York Home Game 2) (If Necessary)",
-      "date": "Oct 8 • 8:00pm",
-      "location": "Yankee Stadium • Bronx, NY",
-      "url": "https://entertainment.capitalone.com/events/7290791"
-    },
-    {
-      "id": "7299667",
-      "name": "San Diego Padres at Milwaukee Brewers (NLDS Game 5, Milwaukee Home Game 3) (If Necessary)",
-      "date": "Oct 9 • 3:30pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7299667"
-    },
-    {
-      "id": "7298757",
-      "name": "Atlanta Braves at Los Angeles Dodgers (NLDS Game 5, Los Angeles Home Game 3) (If Necessary)",
-      "date": "Oct 9 • 5:00pm",
-      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
-      "url": "https://entertainment.capitalone.com/events/7298757"
     },
     {
       "id": "7283643",
@@ -2770,13 +2721,6 @@
       "url": "https://entertainment.capitalone.com/events/7283656"
     },
     {
-      "id": "7371364",
-      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
-      "date": "Oct 10 • 5:00pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371364"
-    },
-    {
       "id": "7283646",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 10 • 7:30pm",
@@ -2784,11 +2728,11 @@
       "url": "https://entertainment.capitalone.com/events/7283646"
     },
     {
-      "id": "7371099",
-      "name": "New York Yankees at Tampa Bay Rays (ALDS Game 5, Tampa Bay Home Game 3) (If Necessary)",
+      "id": "7371364",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
       "date": "Oct 10 • 8:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371099"
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371364"
     },
     {
       "id": "7608204",
@@ -3016,7 +2960,7 @@
     },
     {
       "id": "7660977",
-      "name": "Brookline: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Brookline (MA): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 11 • 6:00pm",
       "location": "Barcelona Wine Bar - Brookline • Brookline, MA",
       "url": "https://entertainment.capitalone.com/events/7660977"
@@ -3058,7 +3002,7 @@
     },
     {
       "id": "7661905",
-      "name": "Montrose (TX): Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Houston (TX): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 14 • 1:00pm",
       "location": "Barcelona Wine Bar - Montrose • Houston, TX",
       "url": "https://entertainment.capitalone.com/events/7661905"
@@ -3079,7 +3023,7 @@
     },
     {
       "id": "7660983",
-      "name": "Cambridge: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Cambridge (MA): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 15 • 1:00pm",
       "location": "Barcelona Wine Bar - Cambridge • Cambridge, MA",
       "url": "https://entertainment.capitalone.com/events/7660983"
@@ -3128,7 +3072,7 @@
     },
     {
       "id": "7660963",
-      "name": "14th Street: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Washington D.C. (14th St): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 5:00pm",
       "location": "Barcelona Wine Bar - 14th Street • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7660963"
@@ -3142,7 +3086,7 @@
     },
     {
       "id": "7661039",
-      "name": "Passyunk 6PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Philadelphia 6PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 6:00pm",
       "location": "Barcelona Wine Bar - Passyunk • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7661039"
@@ -3170,7 +3114,7 @@
     },
     {
       "id": "7661041",
-      "name": "Passyunk 8PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Philadelphia 8PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 8:00pm",
       "location": "Barcelona Wine Bar - Passyunk • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7661041"
@@ -3865,5 +3809,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-07T21:25:30.184Z"
+  "lastSuccess": "2026-10-08T12:25:49.242Z"
 }
