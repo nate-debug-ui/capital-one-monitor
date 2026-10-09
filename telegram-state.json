@@ -872,6 +872,13 @@
     },
     "288": {
       "done": true
+    },
+    "289": {
+      "parts": [
+        "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)\n\nTBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)\n\nDate: Oct 12 • 8:00pm\n\nLocation: Tropicana Field • Saint Petersburg, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7371101\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/289"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
