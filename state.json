@@ -3969,17 +3969,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371101",
-      "title": "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
-      "event": {
-        "id": "7371101",
-        "name": "TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
-        "date": "Oct 12 • 8:00pm",
-        "location": "Tropicana Field • Saint Petersburg, FL",
-        "url": "https://entertainment.capitalone.com/events/7371101"
-      }
-    },
-    {
       "key": "event-7371105",
       "title": "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
       "event": {
