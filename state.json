@@ -3967,19 +3967,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7371111",
-      "title": "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
-      "event": {
-        "id": "7371111",
-        "name": "TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
-        "date": "Oct 20 • 8:00pm",
-        "location": "Tropicana Field • Saint Petersburg, FL",
-        "url": "https://entertainment.capitalone.com/events/7371111"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-09T12:23:06.014Z"
