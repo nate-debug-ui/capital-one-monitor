@@ -653,6 +653,13 @@
       "location": "American Family Field • Milwaukee, WI",
       "url": "https://entertainment.capitalone.com/events/7299667"
     },
+    "7299681": {
+      "id": "7299681",
+      "name": "Los Angeles Dodgers at Milwaukee Brewers (NLCS Game 7, Milwaukee Home Game 4) (If Necessary)",
+      "date": "Oct 19 • 7:00pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299681"
+    },
     "7300213": {
       "id": "7300213",
       "name": "Washington Capitals at Carolina Hurricanes",
@@ -1661,6 +1668,34 @@
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371099"
     },
+    "7371101": {
+      "id": "7371101",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
+      "date": "Oct 12 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371101"
+    },
+    "7371105": {
+      "id": "7371105",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
+      "date": "Oct 13 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371105"
+    },
+    "7371107": {
+      "id": "7371107",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+      "date": "Oct 19 • 5:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371107"
+    },
+    "7371111": {
+      "id": "7371111",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
+      "date": "Oct 20 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371111"
+    },
     "7371131": {
       "id": "7371131",
       "name": "Chicago White Sox at Houston Astros (AL Wild Card, Home Game 1)",
@@ -1698,7 +1733,7 @@
     },
     "7371364": {
       "id": "7371364",
-      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3)",
       "date": "Oct 10 • 8:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371364"
@@ -2749,13 +2784,6 @@
   },
   "previous": [
     {
-      "id": "7299580",
-      "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 4, Chicago Home Game 2)",
-      "date": "Oct 8 • 7:00pm",
-      "location": "Rate Field • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7299580"
-    },
-    {
       "id": "7283643",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 9 • 7:30pm",
@@ -2785,7 +2813,7 @@
     },
     {
       "id": "7371364",
-      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3)",
       "date": "Oct 10 • 8:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371364"
@@ -2817,6 +2845,20 @@
       "date": "Oct 12 • 9:00am",
       "location": "TPC Jasna Polana • Princeton, NJ",
       "url": "https://entertainment.capitalone.com/events/7082393"
+    },
+    {
+      "id": "7371101",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
+      "date": "Oct 12 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371101"
+    },
+    {
+      "id": "7371105",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
+      "date": "Oct 13 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371105"
     },
     {
       "id": "7416285",
@@ -2866,6 +2908,27 @@
       "date": "Oct 18 • 1:00pm",
       "location": "University of Illinois - Huff Hall • Champaign, IL",
       "url": "https://entertainment.capitalone.com/events/7608178"
+    },
+    {
+      "id": "7371107",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+      "date": "Oct 19 • 5:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371107"
+    },
+    {
+      "id": "7299681",
+      "name": "Los Angeles Dodgers at Milwaukee Brewers (NLCS Game 7, Milwaukee Home Game 4) (If Necessary)",
+      "date": "Oct 19 • 7:00pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7299681"
+    },
+    {
+      "id": "7371111",
+      "name": "TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
+      "date": "Oct 20 • 8:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7371111"
     },
     {
       "id": "7453787",
@@ -3904,8 +3967,64 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7371101",
+      "title": "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
+      "event": {
+        "id": "7371101",
+        "name": "TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
+        "date": "Oct 12 • 8:00pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7371101"
+      }
+    },
+    {
+      "key": "event-7371105",
+      "title": "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
+      "event": {
+        "id": "7371105",
+        "name": "TBD at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
+        "date": "Oct 13 • 8:00pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7371105"
+      }
+    },
+    {
+      "key": "event-7371107",
+      "title": "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7371107",
+        "name": "TBD at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+        "date": "Oct 19 • 5:00pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7371107"
+      }
+    },
+    {
+      "key": "event-7299681",
+      "title": "New Capital One Exclusive: Los Angeles Dodgers at Milwaukee Brewers (NLCS Game 7, Milwaukee Home Game 4) (If Necessary)",
+      "event": {
+        "id": "7299681",
+        "name": "Los Angeles Dodgers at Milwaukee Brewers (NLCS Game 7, Milwaukee Home Game 4) (If Necessary)",
+        "date": "Oct 19 • 7:00pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7299681"
+      }
+    },
+    {
+      "key": "event-7371111",
+      "title": "New Capital One Exclusive: TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
+      "event": {
+        "id": "7371111",
+        "name": "TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
+        "date": "Oct 20 • 8:00pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7371111"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-08T21:49:53.871Z"
+  "lastSuccess": "2026-10-09T12:23:06.014Z"
 }
