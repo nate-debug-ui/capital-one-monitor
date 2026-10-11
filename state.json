@@ -1670,28 +1670,28 @@
     },
     "7371101": {
       "id": "7371101",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
       "date": "Oct 12 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371101"
     },
     "7371105": {
       "id": "7371105",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
       "date": "Oct 13 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371105"
     },
     "7371107": {
       "id": "7371107",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
       "date": "Oct 19 • 5:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371107"
     },
     "7371111": {
       "id": "7371111",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
       "date": "Oct 20 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371111"
@@ -2784,41 +2784,6 @@
   },
   "previous": [
     {
-      "id": "7283656",
-      "name": "MAYBE HAPPY ENDING at The National",
-      "date": "Oct 10 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283656"
-    },
-    {
-      "id": "7092855",
-      "name": "Wisconsin Badgers at Nebraska Cornhuskers Womens Volleyball",
-      "date": "Oct 10 • 7:00pm",
-      "location": "Bob Devaney Sports Center • Lincoln, NE",
-      "url": "https://entertainment.capitalone.com/events/7092855"
-    },
-    {
-      "id": "7283646",
-      "name": "MAYBE HAPPY ENDING at The National",
-      "date": "Oct 10 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283646"
-    },
-    {
-      "id": "7371364",
-      "name": "Chicago White Sox at Cleveland Guardians (ALDS Game 5, Cleveland Home Game 3)",
-      "date": "Oct 10 • 8:00pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371364"
-    },
-    {
-      "id": "7608204",
-      "name": "Womens Volleyball - Oregon vs Michigan (Cardholder Exclusive)",
-      "date": "Oct 10 • 11:59pm",
-      "location": "Crisler Center • Ann Arbor, MI",
-      "url": "https://entertainment.capitalone.com/events/7608204"
-    },
-    {
       "id": "7283660",
       "name": "MAYBE HAPPY ENDING at The National",
       "date": "Oct 11 • 2:00pm",
@@ -2841,14 +2806,14 @@
     },
     {
       "id": "7371101",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
       "date": "Oct 12 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371101"
     },
     {
       "id": "7371105",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
       "date": "Oct 13 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371105"
@@ -2904,7 +2869,7 @@
     },
     {
       "id": "7371107",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
       "date": "Oct 19 • 5:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371107"
@@ -2918,7 +2883,7 @@
     },
     {
       "id": "7371111",
-      "name": "TBD at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
       "date": "Oct 20 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371111"
@@ -3963,5 +3928,5 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-10T21:54:34.473Z"
+  "lastSuccess": "2026-10-11T12:22:43.583Z"
 }
