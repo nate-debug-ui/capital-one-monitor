@@ -2784,20 +2784,6 @@
   },
   "previous": [
     {
-      "id": "7283660",
-      "name": "MAYBE HAPPY ENDING at The National",
-      "date": "Oct 11 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283660"
-    },
-    {
-      "id": "7093400",
-      "name": "Minnesota Golden Gophers at Ohio State Buckeyes Womens Volleyball",
-      "date": "Oct 11 • 4:00pm",
-      "location": "Covelli Center - Columbus • Columbus, OH",
-      "url": "https://entertainment.capitalone.com/events/7093400"
-    },
-    {
       "id": "7082393",
       "name": "TPC Jasna Polana Golf Academy with Will Zalatoris",
       "date": "Oct 12 • 9:00am",
@@ -3928,7 +3914,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-11T22:01:00.872Z",
+  "lastSuccess": "2026-10-12T12:34:12.772Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
