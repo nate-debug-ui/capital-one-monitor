@@ -908,6 +908,13 @@
     },
     "300": {
       "done": true
+    },
+    "301": {
+      "parts": [
+        "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)\n\nTampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)\n\nDate: Oct 16 • 6:00pm\n\nLocation: Progressive Field • Cleveland, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/7371370\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/301"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
