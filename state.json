@@ -3941,17 +3941,6 @@
   ],
   "pending": [
     {
-      "key": "event-7371370",
-      "title": "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
-      "event": {
-        "id": "7371370",
-        "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
-        "date": "Oct 16 • 6:00pm",
-        "location": "Progressive Field • Cleveland, OH",
-        "url": "https://entertainment.capitalone.com/events/7371370"
-      }
-    },
-    {
       "key": "event-7298911",
       "title": "New Capital One Exclusive: Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 5, Los Angeles Home Game 3) (If Necessary)",
       "event": {
