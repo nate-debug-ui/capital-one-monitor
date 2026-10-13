@@ -618,6 +618,27 @@
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298757"
     },
+    "7298830": {
+      "id": "7298830",
+      "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 3, Los Angeles Home Game 1)",
+      "date": "Oct 14 • 5:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298830"
+    },
+    "7298881": {
+      "id": "7298881",
+      "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
+      "date": "Oct 15 • 6:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298881"
+    },
+    "7298911": {
+      "id": "7298911",
+      "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "date": "Oct 16 • 6:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298911"
+    },
     "7299578": {
       "id": "7299578",
       "name": "Cleveland Guardians at Chicago White Sox (ALDS Game 3, Chicago Home Game 1)",
@@ -1738,6 +1759,27 @@
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371364"
     },
+    "7371368": {
+      "id": "7371368",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
+      "date": "Oct 15 • 6:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371368"
+    },
+    "7371370": {
+      "id": "7371370",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
+      "date": "Oct 16 • 6:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371370"
+    },
+    "7371372": {
+      "id": "7371372",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "date": "Oct 17 • 8:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371372"
+    },
     "7393814": {
       "id": "7393814",
       "name": "Opening Night of DOLLY: A True Original Musical",
@@ -2791,11 +2833,46 @@
       "url": "https://entertainment.capitalone.com/events/7371105"
     },
     {
+      "id": "7298830",
+      "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 3, Los Angeles Home Game 1)",
+      "date": "Oct 14 • 5:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298830"
+    },
+    {
+      "id": "7371368",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
+      "date": "Oct 15 • 6:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371368"
+    },
+    {
+      "id": "7298881",
+      "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
+      "date": "Oct 15 • 6:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298881"
+    },
+    {
       "id": "7416285",
       "name": "Eater - A Journey Along the Spice Route with Muhajir",
       "date": "Oct 15 • 6:30pm",
       "location": "Muhajir • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/7416285"
+    },
+    {
+      "id": "7371370",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
+      "date": "Oct 16 • 6:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371370"
+    },
+    {
+      "id": "7298911",
+      "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "date": "Oct 16 • 6:00pm",
+      "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7298911"
     },
     {
       "id": "7591680",
@@ -2824,6 +2901,13 @@
       "date": "Oct 17 • 7:00pm",
       "location": "Bob Devaney Sports Center • Lincoln, NE",
       "url": "https://entertainment.capitalone.com/events/7092831"
+    },
+    {
+      "id": "7371372",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "date": "Oct 17 • 8:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371372"
     },
     {
       "id": "7591666",
@@ -2915,48 +2999,6 @@
       "date": "Oct 25 • 12:00pm",
       "location": "Wisconsin Field House • Madison, WI",
       "url": "https://entertainment.capitalone.com/events/7093528"
-    },
-    {
-      "id": "7608234",
-      "name": "Womens Volleyball - Washington vs Minnesota (Cardholder Exclusive)",
-      "date": "Oct 25 • 1:00pm",
-      "location": "Maturi Pavilion • Minneapolis, MN",
-      "url": "https://entertainment.capitalone.com/events/7608234"
-    },
-    {
-      "id": "7283662",
-      "name": "MAMMA MIA! at The National",
-      "date": "Oct 30 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283662"
-    },
-    {
-      "id": "7283664",
-      "name": "MAMMA MIA! at The National",
-      "date": "Oct 31 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283664"
-    },
-    {
-      "id": "7283668",
-      "name": "MAMMA MIA! at The National",
-      "date": "Oct 31 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283668"
-    },
-    {
-      "id": "7608218",
-      "name": "Womens Volleyball - Indiana vs Michigan (Cardholder Exclusive)",
-      "date": "Oct 31 • 11:59pm",
-      "location": "Crisler Center • Ann Arbor, MI",
-      "url": "https://entertainment.capitalone.com/events/7608218"
-    },
-    {
-      "id": "7283672",
-      "name": "MAMMA MIA! at The National",
-      "date": "Nov 1 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283672"
     },
     {
       "id": "7608264",
@@ -3897,10 +3939,77 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7298830",
+      "title": "New Capital One Exclusive: Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 3, Los Angeles Home Game 1)",
+      "event": {
+        "id": "7298830",
+        "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 3, Los Angeles Home Game 1)",
+        "date": "Oct 14 • 5:00pm",
+        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7298830"
+      }
+    },
+    {
+      "key": "event-7371368",
+      "title": "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
+      "event": {
+        "id": "7371368",
+        "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
+        "date": "Oct 15 • 6:00pm",
+        "location": "Progressive Field • Cleveland, OH",
+        "url": "https://entertainment.capitalone.com/events/7371368"
+      }
+    },
+    {
+      "key": "event-7298881",
+      "title": "New Capital One Exclusive: Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
+      "event": {
+        "id": "7298881",
+        "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
+        "date": "Oct 15 • 6:00pm",
+        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7298881"
+      }
+    },
+    {
+      "key": "event-7371370",
+      "title": "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
+      "event": {
+        "id": "7371370",
+        "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
+        "date": "Oct 16 • 6:00pm",
+        "location": "Progressive Field • Cleveland, OH",
+        "url": "https://entertainment.capitalone.com/events/7371370"
+      }
+    },
+    {
+      "key": "event-7298911",
+      "title": "New Capital One Exclusive: Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 5, Los Angeles Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7298911",
+        "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 5, Los Angeles Home Game 3) (If Necessary)",
+        "date": "Oct 16 • 6:00pm",
+        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7298911"
+      }
+    },
+    {
+      "key": "event-7371372",
+      "title": "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "event": {
+        "id": "7371372",
+        "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
+        "date": "Oct 17 • 8:00pm",
+        "location": "Progressive Field • Cleveland, OH",
+        "url": "https://entertainment.capitalone.com/events/7371372"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-13T16:37:52.046Z",
+  "lastSuccess": "2026-10-13T17:00:39.704Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
