@@ -3939,19 +3939,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7371372",
-      "title": "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
-      "event": {
-        "id": "7371372",
-        "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
-        "date": "Oct 17 • 8:00pm",
-        "location": "Progressive Field • Cleveland, OH",
-        "url": "https://entertainment.capitalone.com/events/7371372"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-13T17:00:39.704Z",
