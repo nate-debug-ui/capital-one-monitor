@@ -2784,20 +2784,6 @@
   },
   "previous": [
     {
-      "id": "7082393",
-      "name": "TPC Jasna Polana Golf Academy with Will Zalatoris",
-      "date": "Oct 12 • 9:00am",
-      "location": "TPC Jasna Polana • Princeton, NJ",
-      "url": "https://entertainment.capitalone.com/events/7082393"
-    },
-    {
-      "id": "7371101",
-      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 1, Tampa Bay Home Game 1)",
-      "date": "Oct 12 • 8:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371101"
-    },
-    {
       "id": "7371105",
       "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
       "date": "Oct 13 • 8:00pm",
@@ -3914,7 +3900,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-12T21:46:17.763Z",
+  "lastSuccess": "2026-10-13T12:27:00.215Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
