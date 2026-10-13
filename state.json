@@ -3941,17 +3941,6 @@
   ],
   "pending": [
     {
-      "key": "event-7298881",
-      "title": "New Capital One Exclusive: Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
-      "event": {
-        "id": "7298881",
-        "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
-        "date": "Oct 15 • 6:00pm",
-        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7298881"
-      }
-    },
-    {
       "key": "event-7371370",
       "title": "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
       "event": {
