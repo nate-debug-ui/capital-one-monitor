@@ -2629,7 +2629,7 @@
     },
     "7660989": {
       "id": "7660989",
-      "name": "Cathedral Heights: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Cathedral Heights (D.C.): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 6:00pm",
       "location": "Barcelona Wine Bar - Cathedral Heights • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7660989"
@@ -2643,21 +2643,21 @@
     },
     "7661009": {
       "id": "7661009",
-      "name": "Inman Park: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Atlanta - Inman Park: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 17 • 6:00pm",
       "location": "Barcelona Wine Bar - Inman Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7661009"
     },
     "7661011": {
       "id": "7661011",
-      "name": "Knox (TX) - 5PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Dallas - Knox (TX) - 5PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 5:00pm",
       "location": "Barcelona Wine Bar - Knox • Dallas, TX",
       "url": "https://entertainment.capitalone.com/events/7661011"
     },
     "7661013": {
       "id": "7661013",
-      "name": "Knox (TX) - 7PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Dallas - Knox (TX) - 7PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 7:00pm",
       "location": "Barcelona Wine Bar - Knox • Dallas, TX",
       "url": "https://entertainment.capitalone.com/events/7661013"
@@ -2734,14 +2734,14 @@
     },
     "7661071": {
       "id": "7661071",
-      "name": "Westside Ironworks: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Atlanta (GA): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 18 • 7:00pm",
       "location": "Barcelona Wine Bar - Westside Ironworks (WIW) • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7661071"
     },
     "7661073": {
       "id": "7661073",
-      "name": "Wynwood (Miami): Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Miami - Wynwood: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 8 • 3:00pm",
       "location": "Barcelona Wine Bar - Wynwood • Miami, FL",
       "url": "https://entertainment.capitalone.com/events/7661073"
@@ -2995,7 +2995,7 @@
     },
     {
       "id": "7661073",
-      "name": "Wynwood (Miami): Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Miami - Wynwood: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 8 • 3:00pm",
       "location": "Barcelona Wine Bar - Wynwood • Miami, FL",
       "url": "https://entertainment.capitalone.com/events/7661073"
@@ -3149,7 +3149,7 @@
     },
     {
       "id": "7661011",
-      "name": "Knox (TX) - 5PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Dallas - Knox (TX) - 5PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 5:00pm",
       "location": "Barcelona Wine Bar - Knox • Dallas, TX",
       "url": "https://entertainment.capitalone.com/events/7661011"
@@ -3184,14 +3184,14 @@
     },
     {
       "id": "7660989",
-      "name": "Cathedral Heights: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Cathedral Heights (D.C.): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 6:00pm",
       "location": "Barcelona Wine Bar - Cathedral Heights • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7660989"
     },
     {
       "id": "7661013",
-      "name": "Knox (TX) - 7PM: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Dallas - Knox (TX) - 7PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 16 • 7:00pm",
       "location": "Barcelona Wine Bar - Knox • Dallas, TX",
       "url": "https://entertainment.capitalone.com/events/7661013"
@@ -3226,14 +3226,14 @@
     },
     {
       "id": "7661009",
-      "name": "Inman Park: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Atlanta - Inman Park: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 17 • 6:00pm",
       "location": "Barcelona Wine Bar - Inman Park • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7661009"
     },
     {
       "id": "7661071",
-      "name": "Westside Ironworks: Spain UNCORKED at Barcelona Wine Bar",
+      "name": "Atlanta (GA): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 18 • 7:00pm",
       "location": "Barcelona Wine Bar - Westside Ironworks (WIW) • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7661071"
@@ -3900,7 +3900,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-13T15:50:11.494Z",
+  "lastSuccess": "2026-10-13T16:10:18.452Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
