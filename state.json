@@ -3941,17 +3941,6 @@
   ],
   "pending": [
     {
-      "key": "event-7298830",
-      "title": "New Capital One Exclusive: Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 3, Los Angeles Home Game 1)",
-      "event": {
-        "id": "7298830",
-        "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 3, Los Angeles Home Game 1)",
-        "date": "Oct 14 • 5:00pm",
-        "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7298830"
-      }
-    },
-    {
       "key": "event-7371368",
       "title": "New Capital One Exclusive: Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
       "event": {
