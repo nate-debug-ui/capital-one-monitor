@@ -2822,6 +2822,20 @@
       "date": "Dec 12 • 5:00pm",
       "location": "Gershwin Theatre • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7667436"
+    },
+    "7699722": {
+      "id": "7699722",
+      "name": "Charlotte (NC): Spain UNCORKED at Barcelona Wine Bar",
+      "date": "Nov 16 • 6:00pm",
+      "location": "Barcelona Wine Bar - Charlotte • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7699722"
+    },
+    "7699724": {
+      "id": "7699724",
+      "name": "Raleigh (NC): Spain UNCORKED at Barcelona Wine Bar",
+      "date": "Nov 15 • 2:00pm",
+      "location": "Barcelona Wine Bar - Raleigh • Raleigh, NC",
+      "url": "https://entertainment.capitalone.com/events/7699724"
     }
   },
   "previous": [
@@ -3190,6 +3204,13 @@
       "url": "https://entertainment.capitalone.com/events/7660983"
     },
     {
+      "id": "7699724",
+      "name": "Raleigh (NC): Spain UNCORKED at Barcelona Wine Bar",
+      "date": "Nov 15 • 2:00pm",
+      "location": "Barcelona Wine Bar - Raleigh • Raleigh, NC",
+      "url": "https://entertainment.capitalone.com/events/7699724"
+    },
+    {
       "id": "7661903",
       "name": "RiNo (Denver) - 2PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 15 • 2:00pm",
@@ -3237,6 +3258,13 @@
       "date": "Nov 16 • 5:00pm",
       "location": "Barcelona Wine Bar - 14th Street • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7660963"
+    },
+    {
+      "id": "7699722",
+      "name": "Charlotte (NC): Spain UNCORKED at Barcelona Wine Bar",
+      "date": "Nov 16 • 6:00pm",
+      "location": "Barcelona Wine Bar - Charlotte • Charlotte, NC",
+      "url": "https://entertainment.capitalone.com/events/7699722"
     },
     {
       "id": "7661047",
@@ -3314,20 +3342,6 @@
       "date": "Nov 18 • 7:00pm",
       "location": "Barcelona Wine Bar - Westside Ironworks (WIW) • Atlanta, GA",
       "url": "https://entertainment.capitalone.com/events/7661071"
-    },
-    {
-      "id": "7433044",
-      "name": "Orlando Magic at Washington Wizards",
-      "date": "Nov 22 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7433044"
-    },
-    {
-      "id": "7538319",
-      "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
-      "date": "Nov 24 • 8:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538319"
     },
     {
       "id": "7283678",
@@ -3974,10 +3988,33 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7699724",
+      "title": "New Capital One Exclusive: Raleigh (NC): Spain UNCORKED at Barcelona Wine Bar",
+      "event": {
+        "id": "7699724",
+        "name": "Raleigh (NC): Spain UNCORKED at Barcelona Wine Bar",
+        "date": "Nov 15 • 2:00pm",
+        "location": "Barcelona Wine Bar - Raleigh • Raleigh, NC",
+        "url": "https://entertainment.capitalone.com/events/7699724"
+      }
+    },
+    {
+      "key": "event-7699722",
+      "title": "New Capital One Exclusive: Charlotte (NC): Spain UNCORKED at Barcelona Wine Bar",
+      "event": {
+        "id": "7699722",
+        "name": "Charlotte (NC): Spain UNCORKED at Barcelona Wine Bar",
+        "date": "Nov 16 • 6:00pm",
+        "location": "Barcelona Wine Bar - Charlotte • Charlotte, NC",
+        "url": "https://entertainment.capitalone.com/events/7699722"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-14T14:33:45.496Z",
+  "lastSuccess": "2026-10-14T15:09:28.205Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
