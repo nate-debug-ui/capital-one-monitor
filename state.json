@@ -3988,19 +3988,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7699722",
-      "title": "New Capital One Exclusive: Charlotte (NC): Spain UNCORKED at Barcelona Wine Bar",
-      "event": {
-        "id": "7699722",
-        "name": "Charlotte (NC): Spain UNCORKED at Barcelona Wine Bar",
-        "date": "Nov 16 • 6:00pm",
-        "location": "Barcelona Wine Bar - Charlotte • Charlotte, NC",
-        "url": "https://entertainment.capitalone.com/events/7699722"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-14T15:09:28.205Z",
