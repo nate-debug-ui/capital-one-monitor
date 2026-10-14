@@ -3344,6 +3344,20 @@
       "url": "https://entertainment.capitalone.com/events/7661071"
     },
     {
+      "id": "7433044",
+      "name": "Orlando Magic at Washington Wizards",
+      "date": "Nov 22 • 7:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7433044"
+    },
+    {
+      "id": "7538319",
+      "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
+      "date": "Nov 24 • 8:00pm",
+      "location": "Capital One Arena • Washington, DC",
+      "url": "https://entertainment.capitalone.com/events/7538319"
+    },
+    {
       "id": "7283678",
       "name": "HELL'S KITCHEN at The National",
       "date": "Nov 27 • 7:30pm",
@@ -3991,7 +4005,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-14T15:09:28.205Z",
+  "lastSuccess": "2026-10-14T15:51:40.701Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
