@@ -1775,7 +1775,7 @@
     },
     "7371372": {
       "id": "7371372",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3)",
       "date": "Oct 17 • 8:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371372"
@@ -2826,13 +2826,6 @@
   },
   "previous": [
     {
-      "id": "7371105",
-      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 2, Tampa Bay Home Game 2)",
-      "date": "Oct 13 • 8:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371105"
-    },
-    {
       "id": "7298830",
       "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 3, Los Angeles Home Game 1)",
       "date": "Oct 14 • 5:00pm",
@@ -2904,7 +2897,7 @@
     },
     {
       "id": "7371372",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (If Necessary)",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3)",
       "date": "Oct 17 • 8:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371372"
@@ -3984,7 +3977,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-13T21:30:53.053Z",
+  "lastSuccess": "2026-10-14T12:37:08.596Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
