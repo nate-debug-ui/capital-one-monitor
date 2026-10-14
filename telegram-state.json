@@ -920,6 +920,13 @@
     },
     "304": {
       "done": true
+    },
+    "305": {
+      "parts": [
+        "New Capital One Exclusive: Raleigh (NC): Spain UNCORKED at Barcelona Wine Bar\n\nRaleigh (NC): Spain UNCORKED at Barcelona Wine Bar\n\nDate: Nov 15 • 2:00pm\n\nLocation: Barcelona Wine Bar - Raleigh • Raleigh, NC\n\nEvent details\nhttps://entertainment.capitalone.com/events/7699724\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/305"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
