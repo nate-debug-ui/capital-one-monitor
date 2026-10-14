@@ -628,7 +628,7 @@
     "7298881": {
       "id": "7298881",
       "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
-      "date": "Oct 15 • 6:00pm",
+      "date": "Oct 15 • 5:00pm",
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298881"
     },
@@ -2856,7 +2856,7 @@
     {
       "id": "7298881",
       "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
-      "date": "Oct 15 • 6:00pm",
+      "date": "Oct 15 • 5:00pm",
       "location": "Uniqlo Field at Dodger Stadium • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7298881"
     },
@@ -4005,7 +4005,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-14T19:01:56.529Z",
+  "lastSuccess": "2026-10-14T19:39:06.330Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
