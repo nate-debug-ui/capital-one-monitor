@@ -1762,7 +1762,7 @@
     "7371368": {
       "id": "7371368",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
-      "date": "Oct 15 • 6:00pm",
+      "date": "Oct 15 • 1:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371368"
     },
@@ -2849,7 +2849,7 @@
     {
       "id": "7371368",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
-      "date": "Oct 15 • 6:00pm",
+      "date": "Oct 15 • 1:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371368"
     },
@@ -4005,7 +4005,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-14T15:51:40.701Z",
+  "lastSuccess": "2026-10-14T16:25:32.934Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
