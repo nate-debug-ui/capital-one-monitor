@@ -2840,13 +2840,6 @@
   },
   "previous": [
     {
-      "id": "7371368",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 3, Cleveland Home Game 1)",
-      "date": "Oct 15 • 1:00pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371368"
-    },
-    {
       "id": "7298881",
       "name": "Milwaukee Brewers at Los Angeles Dodgers (NLCS Game 4, Los Angeles Home Game 2)",
       "date": "Oct 15 • 5:00pm",
@@ -3998,7 +3991,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-15T20:47:08.437Z",
+  "lastSuccess": "2026-10-15T21:16:50.405Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
