@@ -1706,7 +1706,7 @@
     "7371107": {
       "id": "7371107",
       "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
-      "date": "Oct 19 • 5:00pm",
+      "date": "Oct 19 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371107"
     },
@@ -2898,7 +2898,7 @@
     {
       "id": "7371107",
       "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
-      "date": "Oct 19 • 5:00pm",
+      "date": "Oct 19 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371107"
     },
@@ -3963,7 +3963,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-16T15:53:05.041Z",
+  "lastSuccess": "2026-10-16T16:24:43.711Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
