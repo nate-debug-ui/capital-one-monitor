@@ -1768,14 +1768,14 @@
     },
     "7371370": {
       "id": "7371370",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
-      "date": "Oct 16 • 8:00pm",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (Rescheduled from 10/16)",
+      "date": "Oct 18 • 5:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371370"
     },
     "7371372": {
       "id": "7371372",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3)",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
       "date": "Oct 17 • 8:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371372"
@@ -2840,20 +2840,6 @@
   },
   "previous": [
     {
-      "id": "7591680",
-      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
-      "date": "Oct 16 • 6:30pm",
-      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
-      "url": "https://entertainment.capitalone.com/events/7591680"
-    },
-    {
-      "id": "7371370",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
-      "date": "Oct 16 • 8:00pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371370"
-    },
-    {
       "id": "7608236",
       "name": "Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
       "date": "Oct 17 • 6:00pm",
@@ -2876,7 +2862,7 @@
     },
     {
       "id": "7371372",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3)",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
       "date": "Oct 17 • 8:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371372"
@@ -2894,6 +2880,13 @@
       "date": "Oct 18 • 1:00pm",
       "location": "University of Illinois - Huff Hall • Champaign, IL",
       "url": "https://entertainment.capitalone.com/events/7608178"
+    },
+    {
+      "id": "7371370",
+      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (Rescheduled from 10/16)",
+      "date": "Oct 18 • 5:00pm",
+      "location": "Progressive Field • Cleveland, OH",
+      "url": "https://entertainment.capitalone.com/events/7371370"
     },
     {
       "id": "7371107",
@@ -3963,7 +3956,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-16T21:53:13.029Z",
+  "lastSuccess": "2026-10-17T12:29:27.458Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
