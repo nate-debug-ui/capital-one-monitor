@@ -1769,14 +1769,14 @@
     "7371370": {
       "id": "7371370",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (Rescheduled from 10/16)",
-      "date": "Oct 18 • 5:00pm",
+      "date": "Oct 18 • 5:08pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371370"
     },
     "7371372": {
       "id": "7371372",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
-      "date": "Oct 17 • 8:00pm",
+      "date": "Oct 17 • 8:08pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371372"
     },
@@ -2863,7 +2863,7 @@
     {
       "id": "7371372",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
-      "date": "Oct 17 • 8:00pm",
+      "date": "Oct 17 • 8:08pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371372"
     },
@@ -2884,7 +2884,7 @@
     {
       "id": "7371370",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (Rescheduled from 10/16)",
-      "date": "Oct 18 • 5:00pm",
+      "date": "Oct 18 • 5:08pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371370"
     },
@@ -3956,7 +3956,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-17T17:56:00.482Z",
+  "lastSuccess": "2026-10-17T20:28:08.211Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
