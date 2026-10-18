@@ -1705,7 +1705,7 @@
     },
     "7371107": {
       "id": "7371107",
-      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3)",
       "date": "Oct 19 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371107"
@@ -1769,7 +1769,7 @@
     "7371370": {
       "id": "7371370",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (Rescheduled from 10/16)",
-      "date": "Oct 18 • 5:08pm",
+      "date": "Oct 18 • 5:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371370"
     },
@@ -2840,41 +2840,6 @@
   },
   "previous": [
     {
-      "id": "7608236",
-      "name": "Womens Volleyball - Maryland vs Minnesota (Cardholder Exclusive)",
-      "date": "Oct 17 • 6:00pm",
-      "location": "Maturi Pavilion • Minneapolis, MN",
-      "url": "https://entertainment.capitalone.com/events/7608236"
-    },
-    {
-      "id": "7591684",
-      "name": "José Andrés Group Preview Dinner: Bazaar Meat Miami",
-      "date": "Oct 17 • 6:30pm",
-      "location": "Bazaar Meat by Jose Andres • Miami Beach, FL",
-      "url": "https://entertainment.capitalone.com/events/7591684"
-    },
-    {
-      "id": "7092831",
-      "name": "Purdue Boilermakers at Nebraska Cornhuskers Womens Volleyball",
-      "date": "Oct 17 • 7:00pm",
-      "location": "Bob Devaney Sports Center • Lincoln, NE",
-      "url": "https://entertainment.capitalone.com/events/7092831"
-    },
-    {
-      "id": "7371372",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 4, Cleveland Home Game 2)",
-      "date": "Oct 17 • 8:08pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371372"
-    },
-    {
-      "id": "7591666",
-      "name": "Penn State vs. Michigan (Cardholder Exclusive)",
-      "date": "Oct 17 • 11:59pm",
-      "location": "Michigan Stadium • Ann Arbor, MI",
-      "url": "https://entertainment.capitalone.com/events/7591666"
-    },
-    {
       "id": "7608178",
       "name": "Womens Volleyball: Michigan vs Illinois (Cardholder Exclusive)",
       "date": "Oct 18 • 1:00pm",
@@ -2884,13 +2849,13 @@
     {
       "id": "7371370",
       "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (Rescheduled from 10/16)",
-      "date": "Oct 18 • 5:08pm",
+      "date": "Oct 18 • 5:00pm",
       "location": "Progressive Field • Cleveland, OH",
       "url": "https://entertainment.capitalone.com/events/7371370"
     },
     {
       "id": "7371107",
-      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3) (If Necessary)",
+      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3)",
       "date": "Oct 19 • 8:00pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7371107"
@@ -3956,7 +3921,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-17T20:28:08.211Z",
+  "lastSuccess": "2026-10-18T15:46:02.791Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
