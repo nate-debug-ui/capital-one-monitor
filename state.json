@@ -2840,20 +2840,6 @@
   },
   "previous": [
     {
-      "id": "7608178",
-      "name": "Womens Volleyball: Michigan vs Illinois (Cardholder Exclusive)",
-      "date": "Oct 18 • 1:00pm",
-      "location": "University of Illinois - Huff Hall • Champaign, IL",
-      "url": "https://entertainment.capitalone.com/events/7608178"
-    },
-    {
-      "id": "7371370",
-      "name": "Tampa Bay Rays at Cleveland Guardians (ALCS Game 5, Cleveland Home Game 3) (Rescheduled from 10/16)",
-      "date": "Oct 18 • 5:00pm",
-      "location": "Progressive Field • Cleveland, OH",
-      "url": "https://entertainment.capitalone.com/events/7371370"
-    },
-    {
       "id": "7371107",
       "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3)",
       "date": "Oct 19 • 8:00pm",
@@ -3921,7 +3907,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-18T20:56:12.813Z",
+  "lastSuccess": "2026-10-19T18:40:14.705Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
