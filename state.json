@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719567",
-      "title": "New Capital One Exclusive: Movie Lover Package",
-      "event": {
-        "id": "7719567",
-        "name": "Movie Lover Package",
-        "date": "Jan 21 • 12:00pm",
-        "location": "Sundance Film Festival • Boulder, CO",
-        "url": "https://entertainment.capitalone.com/events/7719567"
-      }
-    },
-    {
       "key": "event-7719565",
       "title": "New Capital One Exclusive: Double Film Package",
       "event": {
