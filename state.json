@@ -2851,6 +2851,13 @@
       "location": "St. James Theatre New York • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7719516"
     },
+    "7719518": {
+      "id": "7719518",
+      "name": "iHeartRadio ALTer EGO Presented by Capital One",
+      "date": "Jan 16 • 7:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7719518"
+    },
     "7719520": {
       "id": "7719520",
       "name": "Festive Dinner and NY Pops Holiday Performance",
@@ -2955,6 +2962,13 @@
       "date": "Nov 13 • 4:00pm",
       "location": "Peacock Theater • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7719549"
+    },
+    "7719551": {
+      "id": "7719551",
+      "name": "Rock & Roll Hall Of Fame Induction 2026 Soundcheck Package",
+      "date": "Nov 13 • 4:00pm",
+      "location": "Peacock Theater • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7719551"
     },
     "7719553": {
       "id": "7719553",
@@ -3475,6 +3489,13 @@
       "date": "Nov 13 • 12:00pm",
       "location": "Jungle Island • Miami, FL",
       "url": "https://entertainment.capitalone.com/events/7505870"
+    },
+    {
+      "id": "7719551",
+      "name": "Rock & Roll Hall Of Fame Induction 2026 Soundcheck Package",
+      "date": "Nov 13 • 4:00pm",
+      "location": "Peacock Theater • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7719551"
     },
     {
       "id": "7719549",
@@ -4100,6 +4121,13 @@
       "url": "https://entertainment.capitalone.com/events/7538239"
     },
     {
+      "id": "7719518",
+      "name": "iHeartRadio ALTer EGO Presented by Capital One",
+      "date": "Jan 16 • 7:00pm",
+      "location": "Kia Forum • Inglewood, CA",
+      "url": "https://entertainment.capitalone.com/events/7719518"
+    },
+    {
       "id": "7393814",
       "name": "Opening Night of DOLLY: A True Original Musical",
       "date": "Jan 19 • 4:00pm",
@@ -4478,10 +4506,33 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7719551",
+      "title": "New Capital One Exclusive: Rock & Roll Hall Of Fame Induction 2026 Soundcheck Package",
+      "event": {
+        "id": "7719551",
+        "name": "Rock & Roll Hall Of Fame Induction 2026 Soundcheck Package",
+        "date": "Nov 13 • 4:00pm",
+        "location": "Peacock Theater • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7719551"
+      }
+    },
+    {
+      "key": "event-7719518",
+      "title": "New Capital One Exclusive: iHeartRadio ALTer EGO Presented by Capital One",
+      "event": {
+        "id": "7719518",
+        "name": "iHeartRadio ALTer EGO Presented by Capital One",
+        "date": "Jan 16 • 7:00pm",
+        "location": "Kia Forum • Inglewood, CA",
+        "url": "https://entertainment.capitalone.com/events/7719518"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-20T16:47:07.593Z",
+  "lastSuccess": "2026-10-20T20:11:28.519Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
