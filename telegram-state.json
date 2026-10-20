@@ -1037,6 +1037,13 @@
     },
     "343": {
       "done": true
+    },
+    "344": {
+      "parts": [
+        "New Capital One Exclusive: Discover NHL Winter Classic Premium Seating\n\nDiscover NHL Winter Classic Premium Seating\n\nDate: Dec 31 • 4:00pm\n\nLocation: Rice Eccles Stadium • Salt Lake City, UT\n\nEvent details\nhttps://entertainment.capitalone.com/events/7719547\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/344"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
