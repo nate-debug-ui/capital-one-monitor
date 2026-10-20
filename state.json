@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719543",
-      "title": "New Capital One Exclusive: Discover NHL Winter Classic VIP Experience",
-      "event": {
-        "id": "7719543",
-        "name": "Discover NHL Winter Classic VIP Experience",
-        "date": "Dec 30 • 6:00pm",
-        "location": "Rice Eccles Stadium • Salt Lake City, UT",
-        "url": "https://entertainment.capitalone.com/events/7719543"
-      }
-    },
-    {
       "key": "event-7719547",
       "title": "New Capital One Exclusive: Discover NHL Winter Classic Premium Seating",
       "event": {
