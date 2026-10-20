@@ -1022,6 +1022,13 @@
     },
     "338": {
       "done": true
+    },
+    "339": {
+      "parts": [
+        "New Capital One Exclusive: Late Night with Seth Meyers\n\nLate Night with Seth Meyers\n\nDate: Dec 9 • 6:30pm\n\nLocation: NBC Studios - NY • New York, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7719541\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/339"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
