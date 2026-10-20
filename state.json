@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7723587",
-      "title": "New Capital One Exclusive: World Series Game 4 - Batting Practice Package",
-      "event": {
-        "id": "7723587",
-        "name": "World Series Game 4 - Batting Practice Package",
-        "date": "Oct 27 • 11:59pm",
-        "location": "Tropicana Field • Saint Petersburg, FL",
-        "url": "https://entertainment.capitalone.com/events/7723587"
-      }
-    },
-    {
       "key": "event-7723365",
       "title": "New Capital One Exclusive: World Series Game 4 - Stadium Seats",
       "event": {
