@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719527",
-      "title": "New Capital One Exclusive: Tonight Show with Jimmy Fallon",
-      "event": {
-        "id": "7719527",
-        "name": "Tonight Show with Jimmy Fallon",
-        "date": "Nov 9 • 5:00pm",
-        "location": "NBC Studios - NY • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7719527"
-      }
-    },
-    {
       "key": "event-7719529",
       "title": "New Capital One Exclusive: Late Night with Seth Meyers",
       "event": {
