@@ -1064,6 +1064,13 @@
     },
     "352": {
       "done": true
+    },
+    "353": {
+      "parts": [
+        "New Capital One Exclusive: Cardholder Exclusive Private Screening (Jan 26)\n\nCardholder Exclusive Private Screening (Jan 26)\n\nDate: Jan 26 • 8:00pm\n\nLocation: Cinemark Century Boulder • Boulder, CO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7719561\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/353"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
