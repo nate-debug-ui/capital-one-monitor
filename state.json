@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719537",
-      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
-      "event": {
-        "id": "7719537",
-        "name": "Late Night with Seth Meyers",
-        "date": "Nov 25 • 6:30pm",
-        "location": "NBC Studios - NY • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7719537"
-      }
-    },
-    {
       "key": "event-7719539",
       "title": "New Capital One Exclusive: Tonight Show with Jimmy Fallon",
       "event": {
