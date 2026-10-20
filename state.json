@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7723371",
-      "title": "New Capital One Exclusive: World Series Game 7 (if necessary) - Stadium Seats",
-      "event": {
-        "id": "7723371",
-        "name": "World Series Game 7 (if necessary) - Stadium Seats",
-        "date": "Oct 31 • 11:59pm",
-        "location": "American Family Field • Milwaukee, WI",
-        "url": "https://entertainment.capitalone.com/events/7723371"
-      }
-    },
-    {
       "key": "event-7723348",
       "title": "New Capital One Exclusive: World Series Game 7 - Batting Practice Package",
       "event": {
