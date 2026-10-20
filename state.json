@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7723338",
-      "title": "New Capital One Exclusive: World Series Game 2 - Batting Practice Package",
-      "event": {
-        "id": "7723338",
-        "name": "World Series Game 2 - Batting Practice Package",
-        "date": "Oct 24 • 11:59pm",
-        "location": "American Family Field • Milwaukee, WI",
-        "url": "https://entertainment.capitalone.com/events/7723338"
-      }
-    },
-    {
       "key": "event-7723363",
       "title": "New Capital One Exclusive: World Series Game 3 - Stadium Seats",
       "event": {
