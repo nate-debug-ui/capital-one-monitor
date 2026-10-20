@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7723369",
-      "title": "New Capital One Exclusive: World Series Game 6 (if necessary) - Stadium Seats",
-      "event": {
-        "id": "7723369",
-        "name": "World Series Game 6 (if necessary) - Stadium Seats",
-        "date": "Oct 30 • 11:59pm",
-        "location": "American Family Field • Milwaukee, WI",
-        "url": "https://entertainment.capitalone.com/events/7723369"
-      }
-    },
-    {
       "key": "event-7723346",
       "title": "New Capital One Exclusive: World Series Game 6 - Batting Practice Package",
       "event": {
