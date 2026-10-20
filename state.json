@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719555",
-      "title": "New Capital One Exclusive: SNL Live Show",
-      "event": {
-        "id": "7719555",
-        "name": "SNL Live Show",
-        "date": "Nov 14 • 11:00pm",
-        "location": "NBC Studios - NY • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7719555"
-      }
-    },
-    {
       "key": "event-7719531",
       "title": "New Capital One Exclusive: Tonight Show with Jimmy Fallon",
       "event": {
