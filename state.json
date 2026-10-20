@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719565",
-      "title": "New Capital One Exclusive: Double Film Package",
-      "event": {
-        "id": "7719565",
-        "name": "Double Film Package",
-        "date": "Jan 21 • 12:00pm",
-        "location": "Sundance Film Festival • Boulder, CO",
-        "url": "https://entertainment.capitalone.com/events/7719565"
-      }
-    },
-    {
       "key": "event-7719563",
       "title": "New Capital One Exclusive: Opening Weekend Experience",
       "event": {
