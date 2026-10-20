@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719563",
-      "title": "New Capital One Exclusive: Opening Weekend Experience",
-      "event": {
-        "id": "7719563",
-        "name": "Opening Weekend Experience",
-        "date": "Jan 21 • 8:00pm",
-        "location": "Sundance Film Festival • Boulder, CO",
-        "url": "https://entertainment.capitalone.com/events/7719563"
-      }
-    },
-    {
       "key": "event-7719569",
       "title": "New Capital One Exclusive: Roped Screening and VIP Party",
       "event": {
