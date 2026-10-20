@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7723367",
-      "title": "New Capital One Exclusive: World Series Game 5 (if necessary) - Stadium Seats",
-      "event": {
-        "id": "7723367",
-        "name": "World Series Game 5 (if necessary) - Stadium Seats",
-        "date": "Oct 28 • 11:59pm",
-        "location": "To Be Determined • To Be Determined, United States",
-        "url": "https://entertainment.capitalone.com/events/7723367"
-      }
-    },
-    {
       "key": "event-7723344",
       "title": "New Capital One Exclusive: World Series Game 5 - Batting Practice Package",
       "event": {
