@@ -4478,19 +4478,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7719571",
-      "title": "New Capital One Exclusive: Virtual Screening Package",
-      "event": {
-        "id": "7719571",
-        "name": "Virtual Screening Package",
-        "date": "Jan 28 • 12:00pm",
-        "location": "Sundance Film Festival • Boulder, CO",
-        "url": "https://entertainment.capitalone.com/events/7719571"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-20T16:47:07.593Z",
