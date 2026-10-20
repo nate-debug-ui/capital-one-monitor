@@ -2836,23 +2836,303 @@
       "date": "Nov 15 • 2:00pm",
       "location": "Barcelona Wine Bar - Raleigh • Raleigh, NC",
       "url": "https://entertainment.capitalone.com/events/7699724"
+    },
+    "7719514": {
+      "id": "7719514",
+      "name": "DOLLY Broadway Cardholder-Only Show VIP Package",
+      "date": "Jan 20 • 5:00pm",
+      "location": "St. James Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719514"
+    },
+    "7719516": {
+      "id": "7719516",
+      "name": "DOLLY Broadway Cardholder-Only Show",
+      "date": "Jan 20 • 7:00pm",
+      "location": "St. James Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719516"
+    },
+    "7719520": {
+      "id": "7719520",
+      "name": "Festive Dinner and NY Pops Holiday Performance",
+      "date": "Dec 19 • 5:30pm",
+      "location": "Carnegie Hall - Isaac Stern Auditorium • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719520"
+    },
+    "7719522": {
+      "id": "7719522",
+      "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
+      "date": "Dec 10 • 11:59pm",
+      "location": "Dolby Theatre • Hollywood, CA",
+      "url": "https://entertainment.capitalone.com/events/7719522"
+    },
+    "7719525": {
+      "id": "7719525",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 4 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719525"
+    },
+    "7719527": {
+      "id": "7719527",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Nov 9 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719527"
+    },
+    "7719529": {
+      "id": "7719529",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 11 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719529"
+    },
+    "7719531": {
+      "id": "7719531",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Nov 16 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719531"
+    },
+    "7719533": {
+      "id": "7719533",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 18 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719533"
+    },
+    "7719535": {
+      "id": "7719535",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Nov 23 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719535"
+    },
+    "7719537": {
+      "id": "7719537",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 25 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719537"
+    },
+    "7719539": {
+      "id": "7719539",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Dec 9 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719539"
+    },
+    "7719541": {
+      "id": "7719541",
+      "name": "Late Night with Seth Meyers",
+      "date": "Dec 9 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719541"
+    },
+    "7719543": {
+      "id": "7719543",
+      "name": "Discover NHL Winter Classic VIP Experience",
+      "date": "Dec 30 • 6:00pm",
+      "location": "Rice Eccles Stadium • Salt Lake City, UT",
+      "url": "https://entertainment.capitalone.com/events/7719543"
+    },
+    "7719545": {
+      "id": "7719545",
+      "name": "Discover NHL Winter Classic - Cardholder Suite",
+      "date": "Dec 31 • 4:00pm",
+      "location": "Rice Eccles Stadium • Salt Lake City, UT",
+      "url": "https://entertainment.capitalone.com/events/7719545"
+    },
+    "7719547": {
+      "id": "7719547",
+      "name": "Discover NHL Winter Classic Premium Seating",
+      "date": "Dec 31 • 4:00pm",
+      "location": "Rice Eccles Stadium • Salt Lake City, UT",
+      "url": "https://entertainment.capitalone.com/events/7719547"
+    },
+    "7719549": {
+      "id": "7719549",
+      "name": "Rock & Roll Hall Of Fame Induction 2026 VIP Experience",
+      "date": "Nov 13 • 4:00pm",
+      "location": "Peacock Theater • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7719549"
+    },
+    "7719553": {
+      "id": "7719553",
+      "name": "SNL Dress Rehearsal",
+      "date": "Oct 31 • 8:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719553"
+    },
+    "7719555": {
+      "id": "7719555",
+      "name": "SNL Live Show",
+      "date": "Nov 14 • 11:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719555"
+    },
+    "7719557": {
+      "id": "7719557",
+      "name": "SNL Dress Rehearsal",
+      "date": "Dec 12 • 8:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719557"
+    },
+    "7719559": {
+      "id": "7719559",
+      "name": "Cardholder Exclusive Private Screening (Jan 25)",
+      "date": "Jan 25 • 8:00pm",
+      "location": "Cinemark Century Boulder • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719559"
+    },
+    "7719561": {
+      "id": "7719561",
+      "name": "Cardholder Exclusive Private Screening (Jan 26)",
+      "date": "Jan 26 • 8:00pm",
+      "location": "Cinemark Century Boulder • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719561"
+    },
+    "7719563": {
+      "id": "7719563",
+      "name": "Opening Weekend Experience",
+      "date": "Jan 21 • 8:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719563"
+    },
+    "7719565": {
+      "id": "7719565",
+      "name": "Double Film Package",
+      "date": "Jan 21 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719565"
+    },
+    "7719567": {
+      "id": "7719567",
+      "name": "Movie Lover Package",
+      "date": "Jan 21 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719567"
+    },
+    "7719569": {
+      "id": "7719569",
+      "name": "Roped Screening and VIP Party",
+      "date": "Jan 23 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719569"
+    },
+    "7719571": {
+      "id": "7719571",
+      "name": "Virtual Screening Package",
+      "date": "Jan 28 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719571"
+    },
+    "7723328": {
+      "id": "7723328",
+      "name": "World Series Ultimate Fan Package with CC Sabathia",
+      "date": "Oct 27 • 5:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723328"
+    },
+    "7723336": {
+      "id": "7723336",
+      "name": "World Series Game 1 - Batting Practice Package",
+      "date": "Oct 23 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723336"
+    },
+    "7723338": {
+      "id": "7723338",
+      "name": "World Series Game 2 - Batting Practice Package",
+      "date": "Oct 24 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723338"
+    },
+    "7723342": {
+      "id": "7723342",
+      "name": "World Series - VIP Bucket List Package",
+      "date": "Oct 27 • 11:59pm",
+      "location": "To Be Determined • To Be Determined, United States",
+      "url": "https://entertainment.capitalone.com/events/7723342"
+    },
+    "7723344": {
+      "id": "7723344",
+      "name": "World Series Game 5 - Batting Practice Package",
+      "date": "Oct 28 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723344"
+    },
+    "7723346": {
+      "id": "7723346",
+      "name": "World Series Game 6 - Batting Practice Package",
+      "date": "Oct 30 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723346"
+    },
+    "7723348": {
+      "id": "7723348",
+      "name": "World Series Game 7 - Batting Practice Package",
+      "date": "Oct 31 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723348"
+    },
+    "7723359": {
+      "id": "7723359",
+      "name": "World Series Game 1 - Stadium Seats",
+      "date": "Oct 23 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723359"
+    },
+    "7723361": {
+      "id": "7723361",
+      "name": "World Series Game 2 - Stadium Seats",
+      "date": "Oct 24 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723361"
+    },
+    "7723363": {
+      "id": "7723363",
+      "name": "World Series Game 3 - Stadium Seats",
+      "date": "Oct 26 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723363"
+    },
+    "7723365": {
+      "id": "7723365",
+      "name": "World Series Game 4 - Stadium Seats",
+      "date": "Oct 27 • 11:59pm",
+      "location": "To Be Determined • To Be Determined, United States",
+      "url": "https://entertainment.capitalone.com/events/7723365"
+    },
+    "7723367": {
+      "id": "7723367",
+      "name": "World Series Game 5 (if necessary) - Stadium Seats",
+      "date": "Oct 28 • 11:59pm",
+      "location": "To Be Determined • To Be Determined, United States",
+      "url": "https://entertainment.capitalone.com/events/7723367"
+    },
+    "7723369": {
+      "id": "7723369",
+      "name": "World Series Game 6 (if necessary) - Stadium Seats",
+      "date": "Oct 30 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723369"
+    },
+    "7723371": {
+      "id": "7723371",
+      "name": "World Series Game 7 (if necessary) - Stadium Seats",
+      "date": "Oct 31 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723371"
+    },
+    "7723587": {
+      "id": "7723587",
+      "name": "World Series Game 4 - Batting Practice Package",
+      "date": "Oct 27 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723587"
     }
   },
   "previous": [
-    {
-      "id": "7371107",
-      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 6, Tampa Bay Home Game 3)",
-      "date": "Oct 19 • 8:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371107"
-    },
-    {
-      "id": "7371111",
-      "name": "Cleveland Guardians at Tampa Bay Rays (ALCS Game 7, Tampa Bay Home Game 4) (If Necessary)",
-      "date": "Oct 20 • 8:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7371111"
-    },
     {
       "id": "7453787",
       "name": "2026 American South MICHELIN Guide Ceremony",
@@ -2882,6 +3162,20 @@
       "url": "https://entertainment.capitalone.com/events/7416429"
     },
     {
+      "id": "7723359",
+      "name": "World Series Game 1 - Stadium Seats",
+      "date": "Oct 23 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723359"
+    },
+    {
+      "id": "7723336",
+      "name": "World Series Game 1 - Batting Practice Package",
+      "date": "Oct 23 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723336"
+    },
+    {
       "id": "7608180",
       "name": "Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)",
       "date": "Oct 24 • 6:00pm",
@@ -2903,6 +3197,20 @@
       "url": "https://entertainment.capitalone.com/events/7092843"
     },
     {
+      "id": "7723361",
+      "name": "World Series Game 2 - Stadium Seats",
+      "date": "Oct 24 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723361"
+    },
+    {
+      "id": "7723338",
+      "name": "World Series Game 2 - Batting Practice Package",
+      "date": "Oct 24 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723338"
+    },
+    {
       "id": "7093528",
       "name": "Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
       "date": "Oct 25 • 12:00pm",
@@ -2917,11 +3225,74 @@
       "url": "https://entertainment.capitalone.com/events/7608234"
     },
     {
+      "id": "7723363",
+      "name": "World Series Game 3 - Stadium Seats",
+      "date": "Oct 26 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723363"
+    },
+    {
+      "id": "7723328",
+      "name": "World Series Ultimate Fan Package with CC Sabathia",
+      "date": "Oct 27 • 5:00pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723328"
+    },
+    {
+      "id": "7723587",
+      "name": "World Series Game 4 - Batting Practice Package",
+      "date": "Oct 27 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723587"
+    },
+    {
+      "id": "7723365",
+      "name": "World Series Game 4 - Stadium Seats",
+      "date": "Oct 27 • 11:59pm",
+      "location": "To Be Determined • To Be Determined, United States",
+      "url": "https://entertainment.capitalone.com/events/7723365"
+    },
+    {
+      "id": "7723342",
+      "name": "World Series - VIP Bucket List Package",
+      "date": "Oct 27 • 11:59pm",
+      "location": "To Be Determined • To Be Determined, United States",
+      "url": "https://entertainment.capitalone.com/events/7723342"
+    },
+    {
+      "id": "7723367",
+      "name": "World Series Game 5 (if necessary) - Stadium Seats",
+      "date": "Oct 28 • 11:59pm",
+      "location": "To Be Determined • To Be Determined, United States",
+      "url": "https://entertainment.capitalone.com/events/7723367"
+    },
+    {
+      "id": "7723344",
+      "name": "World Series Game 5 - Batting Practice Package",
+      "date": "Oct 28 • 11:59pm",
+      "location": "Tropicana Field • Saint Petersburg, FL",
+      "url": "https://entertainment.capitalone.com/events/7723344"
+    },
+    {
       "id": "7283662",
       "name": "MAMMA MIA! at The National",
       "date": "Oct 30 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283662"
+    },
+    {
+      "id": "7723369",
+      "name": "World Series Game 6 (if necessary) - Stadium Seats",
+      "date": "Oct 30 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723369"
+    },
+    {
+      "id": "7723346",
+      "name": "World Series Game 6 - Batting Practice Package",
+      "date": "Oct 30 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723346"
     },
     {
       "id": "7283664",
@@ -2936,6 +3307,27 @@
       "date": "Oct 31 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283668"
+    },
+    {
+      "id": "7719553",
+      "name": "SNL Dress Rehearsal",
+      "date": "Oct 31 • 8:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719553"
+    },
+    {
+      "id": "7723371",
+      "name": "World Series Game 7 (if necessary) - Stadium Seats",
+      "date": "Oct 31 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723371"
+    },
+    {
+      "id": "7723348",
+      "name": "World Series Game 7 - Batting Practice Package",
+      "date": "Oct 31 • 11:59pm",
+      "location": "American Family Field • Milwaukee, WI",
+      "url": "https://entertainment.capitalone.com/events/7723348"
     },
     {
       "id": "7608218",
@@ -2964,6 +3356,13 @@
       "date": "Nov 3 • 7:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7538235"
+    },
+    {
+      "id": "7719525",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 4 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719525"
     },
     {
       "id": "7416303",
@@ -2999,6 +3398,13 @@
       "date": "Nov 9 • 3:00pm",
       "location": "Shadow Creek Golf Course • North Las Vegas, NV",
       "url": "https://entertainment.capitalone.com/events/7430004"
+    },
+    {
+      "id": "7719527",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Nov 9 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719527"
     },
     {
       "id": "7661003",
@@ -3043,6 +3449,13 @@
       "url": "https://entertainment.capitalone.com/events/7660977"
     },
     {
+      "id": "7719529",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 11 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719529"
+    },
+    {
       "id": "7621569",
       "name": "Venture X Business Dinner with José Andrés",
       "date": "Nov 12 • 7:00pm",
@@ -3062,6 +3475,13 @@
       "date": "Nov 13 • 12:00pm",
       "location": "Jungle Island • Miami, FL",
       "url": "https://entertainment.capitalone.com/events/7505870"
+    },
+    {
+      "id": "7719549",
+      "name": "Rock & Roll Hall Of Fame Induction 2026 VIP Experience",
+      "date": "Nov 13 • 4:00pm",
+      "location": "Peacock Theater • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7719549"
     },
     {
       "id": "7505876",
@@ -3090,6 +3510,13 @@
       "date": "Nov 14 • 4:00pm",
       "location": "Jungle Island • Miami, FL",
       "url": "https://entertainment.capitalone.com/events/7505880"
+    },
+    {
+      "id": "7719555",
+      "name": "SNL Live Show",
+      "date": "Nov 14 • 11:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719555"
     },
     {
       "id": "7661055",
@@ -3139,6 +3566,13 @@
       "date": "Nov 16 • 8:00am",
       "location": "TPC of Scottsdale • Scottsdale, AZ",
       "url": "https://entertainment.capitalone.com/events/7082398"
+    },
+    {
+      "id": "7719531",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Nov 16 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719531"
     },
     {
       "id": "7661059",
@@ -3239,6 +3673,13 @@
       "url": "https://entertainment.capitalone.com/events/7661009"
     },
     {
+      "id": "7719533",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 18 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719533"
+    },
+    {
       "id": "7661071",
       "name": "Atlanta (GA): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 18 • 7:00pm",
@@ -3253,11 +3694,25 @@
       "url": "https://entertainment.capitalone.com/events/7433044"
     },
     {
+      "id": "7719535",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Nov 23 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719535"
+    },
+    {
       "id": "7538319",
       "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
       "date": "Nov 24 • 8:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7538319"
+    },
+    {
+      "id": "7719537",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 25 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719537"
     },
     {
       "id": "7283678",
@@ -3393,11 +3848,25 @@
       "url": "https://entertainment.capitalone.com/events/7622256"
     },
     {
+      "id": "7719539",
+      "name": "Tonight Show with Jimmy Fallon",
+      "date": "Dec 9 • 5:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719539"
+    },
+    {
       "id": "7416393",
       "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
       "date": "Dec 9 • 6:00pm",
       "location": "Bazaar Meat by José Andrés • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7416393"
+    },
+    {
+      "id": "7719541",
+      "name": "Late Night with Seth Meyers",
+      "date": "Dec 9 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719541"
     },
     {
       "id": "7416405",
@@ -3419,6 +3888,13 @@
       "date": "Dec 10 • 8:00pm",
       "location": "Desert Diamond Arena • Glendale, AZ",
       "url": "https://entertainment.capitalone.com/events/7430113"
+    },
+    {
+      "id": "7719522",
+      "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
+      "date": "Dec 10 • 11:59pm",
+      "location": "Dolby Theatre • Hollywood, CA",
+      "url": "https://entertainment.capitalone.com/events/7719522"
     },
     {
       "id": "7622260",
@@ -3461,6 +3937,13 @@
       "date": "Dec 12 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283706"
+    },
+    {
+      "id": "7719557",
+      "name": "SNL Dress Rehearsal",
+      "date": "Dec 12 • 8:00pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719557"
     },
     {
       "id": "7283718",
@@ -3533,6 +4016,13 @@
       "url": "https://entertainment.capitalone.com/events/7283724"
     },
     {
+      "id": "7719520",
+      "name": "Festive Dinner and NY Pops Holiday Performance",
+      "date": "Dec 19 • 5:30pm",
+      "location": "Carnegie Hall - Isaac Stern Auditorium • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719520"
+    },
+    {
       "id": "7283726",
       "name": "HAMILTON at The National",
       "date": "Dec 19 • 7:00pm",
@@ -3568,6 +4058,27 @@
       "url": "https://entertainment.capitalone.com/events/7431082"
     },
     {
+      "id": "7719543",
+      "name": "Discover NHL Winter Classic VIP Experience",
+      "date": "Dec 30 • 6:00pm",
+      "location": "Rice Eccles Stadium • Salt Lake City, UT",
+      "url": "https://entertainment.capitalone.com/events/7719543"
+    },
+    {
+      "id": "7719547",
+      "name": "Discover NHL Winter Classic Premium Seating",
+      "date": "Dec 31 • 4:00pm",
+      "location": "Rice Eccles Stadium • Salt Lake City, UT",
+      "url": "https://entertainment.capitalone.com/events/7719547"
+    },
+    {
+      "id": "7719545",
+      "name": "Discover NHL Winter Classic - Cardholder Suite",
+      "date": "Dec 31 • 4:00pm",
+      "location": "Rice Eccles Stadium • Salt Lake City, UT",
+      "url": "https://entertainment.capitalone.com/events/7719545"
+    },
+    {
       "id": "7538321",
       "name": "Co-Captain of the Game Oklahoma City vs. Washington Wizards",
       "date": "Jan 7 • 7:00pm",
@@ -3596,6 +4107,62 @@
       "url": "https://entertainment.capitalone.com/events/7393814"
     },
     {
+      "id": "7719514",
+      "name": "DOLLY Broadway Cardholder-Only Show VIP Package",
+      "date": "Jan 20 • 5:00pm",
+      "location": "St. James Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719514"
+    },
+    {
+      "id": "7719516",
+      "name": "DOLLY Broadway Cardholder-Only Show",
+      "date": "Jan 20 • 7:00pm",
+      "location": "St. James Theatre New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7719516"
+    },
+    {
+      "id": "7719567",
+      "name": "Movie Lover Package",
+      "date": "Jan 21 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719567"
+    },
+    {
+      "id": "7719565",
+      "name": "Double Film Package",
+      "date": "Jan 21 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719565"
+    },
+    {
+      "id": "7719563",
+      "name": "Opening Weekend Experience",
+      "date": "Jan 21 • 8:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719563"
+    },
+    {
+      "id": "7719569",
+      "name": "Roped Screening and VIP Party",
+      "date": "Jan 23 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719569"
+    },
+    {
+      "id": "7719559",
+      "name": "Cardholder Exclusive Private Screening (Jan 25)",
+      "date": "Jan 25 • 8:00pm",
+      "location": "Cinemark Century Boulder • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719559"
+    },
+    {
+      "id": "7719561",
+      "name": "Cardholder Exclusive Private Screening (Jan 26)",
+      "date": "Jan 26 • 8:00pm",
+      "location": "Cinemark Century Boulder • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719561"
+    },
+    {
       "id": "7430095",
       "name": "Gracie Abrams: The Look at My Life Tour (SEA N1) (Cardholder Exclusives)",
       "date": "Jan 26 • 8:00pm",
@@ -3608,6 +4175,13 @@
       "date": "Jan 27 • 8:00pm",
       "location": "Climate Pledge Arena • Seattle, WA",
       "url": "https://entertainment.capitalone.com/events/7430101"
+    },
+    {
+      "id": "7719571",
+      "name": "Virtual Screening Package",
+      "date": "Jan 28 • 12:00pm",
+      "location": "Sundance Film Festival • Boulder, CO",
+      "url": "https://entertainment.capitalone.com/events/7719571"
     },
     {
       "id": "7430103",
@@ -3904,10 +4478,473 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7723359",
+      "title": "New Capital One Exclusive: World Series Game 1 - Stadium Seats",
+      "event": {
+        "id": "7723359",
+        "name": "World Series Game 1 - Stadium Seats",
+        "date": "Oct 23 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723359"
+      }
+    },
+    {
+      "key": "event-7723336",
+      "title": "New Capital One Exclusive: World Series Game 1 - Batting Practice Package",
+      "event": {
+        "id": "7723336",
+        "name": "World Series Game 1 - Batting Practice Package",
+        "date": "Oct 23 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723336"
+      }
+    },
+    {
+      "key": "event-7723361",
+      "title": "New Capital One Exclusive: World Series Game 2 - Stadium Seats",
+      "event": {
+        "id": "7723361",
+        "name": "World Series Game 2 - Stadium Seats",
+        "date": "Oct 24 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723361"
+      }
+    },
+    {
+      "key": "event-7723338",
+      "title": "New Capital One Exclusive: World Series Game 2 - Batting Practice Package",
+      "event": {
+        "id": "7723338",
+        "name": "World Series Game 2 - Batting Practice Package",
+        "date": "Oct 24 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723338"
+      }
+    },
+    {
+      "key": "event-7723363",
+      "title": "New Capital One Exclusive: World Series Game 3 - Stadium Seats",
+      "event": {
+        "id": "7723363",
+        "name": "World Series Game 3 - Stadium Seats",
+        "date": "Oct 26 • 11:59pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7723363"
+      }
+    },
+    {
+      "key": "event-7723328",
+      "title": "New Capital One Exclusive: World Series Ultimate Fan Package with CC Sabathia",
+      "event": {
+        "id": "7723328",
+        "name": "World Series Ultimate Fan Package with CC Sabathia",
+        "date": "Oct 27 • 5:00pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7723328"
+      }
+    },
+    {
+      "key": "event-7723587",
+      "title": "New Capital One Exclusive: World Series Game 4 - Batting Practice Package",
+      "event": {
+        "id": "7723587",
+        "name": "World Series Game 4 - Batting Practice Package",
+        "date": "Oct 27 • 11:59pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7723587"
+      }
+    },
+    {
+      "key": "event-7723365",
+      "title": "New Capital One Exclusive: World Series Game 4 - Stadium Seats",
+      "event": {
+        "id": "7723365",
+        "name": "World Series Game 4 - Stadium Seats",
+        "date": "Oct 27 • 11:59pm",
+        "location": "To Be Determined • To Be Determined, United States",
+        "url": "https://entertainment.capitalone.com/events/7723365"
+      }
+    },
+    {
+      "key": "event-7723342",
+      "title": "New Capital One Exclusive: World Series - VIP Bucket List Package",
+      "event": {
+        "id": "7723342",
+        "name": "World Series - VIP Bucket List Package",
+        "date": "Oct 27 • 11:59pm",
+        "location": "To Be Determined • To Be Determined, United States",
+        "url": "https://entertainment.capitalone.com/events/7723342"
+      }
+    },
+    {
+      "key": "event-7723367",
+      "title": "New Capital One Exclusive: World Series Game 5 (if necessary) - Stadium Seats",
+      "event": {
+        "id": "7723367",
+        "name": "World Series Game 5 (if necessary) - Stadium Seats",
+        "date": "Oct 28 • 11:59pm",
+        "location": "To Be Determined • To Be Determined, United States",
+        "url": "https://entertainment.capitalone.com/events/7723367"
+      }
+    },
+    {
+      "key": "event-7723344",
+      "title": "New Capital One Exclusive: World Series Game 5 - Batting Practice Package",
+      "event": {
+        "id": "7723344",
+        "name": "World Series Game 5 - Batting Practice Package",
+        "date": "Oct 28 • 11:59pm",
+        "location": "Tropicana Field • Saint Petersburg, FL",
+        "url": "https://entertainment.capitalone.com/events/7723344"
+      }
+    },
+    {
+      "key": "event-7723369",
+      "title": "New Capital One Exclusive: World Series Game 6 (if necessary) - Stadium Seats",
+      "event": {
+        "id": "7723369",
+        "name": "World Series Game 6 (if necessary) - Stadium Seats",
+        "date": "Oct 30 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723369"
+      }
+    },
+    {
+      "key": "event-7723346",
+      "title": "New Capital One Exclusive: World Series Game 6 - Batting Practice Package",
+      "event": {
+        "id": "7723346",
+        "name": "World Series Game 6 - Batting Practice Package",
+        "date": "Oct 30 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723346"
+      }
+    },
+    {
+      "key": "event-7719553",
+      "title": "New Capital One Exclusive: SNL Dress Rehearsal",
+      "event": {
+        "id": "7719553",
+        "name": "SNL Dress Rehearsal",
+        "date": "Oct 31 • 8:00pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719553"
+      }
+    },
+    {
+      "key": "event-7723371",
+      "title": "New Capital One Exclusive: World Series Game 7 (if necessary) - Stadium Seats",
+      "event": {
+        "id": "7723371",
+        "name": "World Series Game 7 (if necessary) - Stadium Seats",
+        "date": "Oct 31 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723371"
+      }
+    },
+    {
+      "key": "event-7723348",
+      "title": "New Capital One Exclusive: World Series Game 7 - Batting Practice Package",
+      "event": {
+        "id": "7723348",
+        "name": "World Series Game 7 - Batting Practice Package",
+        "date": "Oct 31 • 11:59pm",
+        "location": "American Family Field • Milwaukee, WI",
+        "url": "https://entertainment.capitalone.com/events/7723348"
+      }
+    },
+    {
+      "key": "event-7719525",
+      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
+      "event": {
+        "id": "7719525",
+        "name": "Late Night with Seth Meyers",
+        "date": "Nov 4 • 6:30pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719525"
+      }
+    },
+    {
+      "key": "event-7719527",
+      "title": "New Capital One Exclusive: Tonight Show with Jimmy Fallon",
+      "event": {
+        "id": "7719527",
+        "name": "Tonight Show with Jimmy Fallon",
+        "date": "Nov 9 • 5:00pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719527"
+      }
+    },
+    {
+      "key": "event-7719529",
+      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
+      "event": {
+        "id": "7719529",
+        "name": "Late Night with Seth Meyers",
+        "date": "Nov 11 • 6:30pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719529"
+      }
+    },
+    {
+      "key": "event-7719549",
+      "title": "New Capital One Exclusive: Rock & Roll Hall Of Fame Induction 2026 VIP Experience",
+      "event": {
+        "id": "7719549",
+        "name": "Rock & Roll Hall Of Fame Induction 2026 VIP Experience",
+        "date": "Nov 13 • 4:00pm",
+        "location": "Peacock Theater • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7719549"
+      }
+    },
+    {
+      "key": "event-7719555",
+      "title": "New Capital One Exclusive: SNL Live Show",
+      "event": {
+        "id": "7719555",
+        "name": "SNL Live Show",
+        "date": "Nov 14 • 11:00pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719555"
+      }
+    },
+    {
+      "key": "event-7719531",
+      "title": "New Capital One Exclusive: Tonight Show with Jimmy Fallon",
+      "event": {
+        "id": "7719531",
+        "name": "Tonight Show with Jimmy Fallon",
+        "date": "Nov 16 • 5:00pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719531"
+      }
+    },
+    {
+      "key": "event-7719533",
+      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
+      "event": {
+        "id": "7719533",
+        "name": "Late Night with Seth Meyers",
+        "date": "Nov 18 • 6:30pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719533"
+      }
+    },
+    {
+      "key": "event-7719535",
+      "title": "New Capital One Exclusive: Tonight Show with Jimmy Fallon",
+      "event": {
+        "id": "7719535",
+        "name": "Tonight Show with Jimmy Fallon",
+        "date": "Nov 23 • 5:00pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719535"
+      }
+    },
+    {
+      "key": "event-7719537",
+      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
+      "event": {
+        "id": "7719537",
+        "name": "Late Night with Seth Meyers",
+        "date": "Nov 25 • 6:30pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719537"
+      }
+    },
+    {
+      "key": "event-7719539",
+      "title": "New Capital One Exclusive: Tonight Show with Jimmy Fallon",
+      "event": {
+        "id": "7719539",
+        "name": "Tonight Show with Jimmy Fallon",
+        "date": "Dec 9 • 5:00pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719539"
+      }
+    },
+    {
+      "key": "event-7719541",
+      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
+      "event": {
+        "id": "7719541",
+        "name": "Late Night with Seth Meyers",
+        "date": "Dec 9 • 6:30pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719541"
+      }
+    },
+    {
+      "key": "event-7719522",
+      "title": "New Capital One Exclusive: Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
+      "event": {
+        "id": "7719522",
+        "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
+        "date": "Dec 10 • 11:59pm",
+        "location": "Dolby Theatre • Hollywood, CA",
+        "url": "https://entertainment.capitalone.com/events/7719522"
+      }
+    },
+    {
+      "key": "event-7719557",
+      "title": "New Capital One Exclusive: SNL Dress Rehearsal",
+      "event": {
+        "id": "7719557",
+        "name": "SNL Dress Rehearsal",
+        "date": "Dec 12 • 8:00pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719557"
+      }
+    },
+    {
+      "key": "event-7719520",
+      "title": "New Capital One Exclusive: Festive Dinner and NY Pops Holiday Performance",
+      "event": {
+        "id": "7719520",
+        "name": "Festive Dinner and NY Pops Holiday Performance",
+        "date": "Dec 19 • 5:30pm",
+        "location": "Carnegie Hall - Isaac Stern Auditorium • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719520"
+      }
+    },
+    {
+      "key": "event-7719543",
+      "title": "New Capital One Exclusive: Discover NHL Winter Classic VIP Experience",
+      "event": {
+        "id": "7719543",
+        "name": "Discover NHL Winter Classic VIP Experience",
+        "date": "Dec 30 • 6:00pm",
+        "location": "Rice Eccles Stadium • Salt Lake City, UT",
+        "url": "https://entertainment.capitalone.com/events/7719543"
+      }
+    },
+    {
+      "key": "event-7719547",
+      "title": "New Capital One Exclusive: Discover NHL Winter Classic Premium Seating",
+      "event": {
+        "id": "7719547",
+        "name": "Discover NHL Winter Classic Premium Seating",
+        "date": "Dec 31 • 4:00pm",
+        "location": "Rice Eccles Stadium • Salt Lake City, UT",
+        "url": "https://entertainment.capitalone.com/events/7719547"
+      }
+    },
+    {
+      "key": "event-7719545",
+      "title": "New Capital One Exclusive: Discover NHL Winter Classic - Cardholder Suite",
+      "event": {
+        "id": "7719545",
+        "name": "Discover NHL Winter Classic - Cardholder Suite",
+        "date": "Dec 31 • 4:00pm",
+        "location": "Rice Eccles Stadium • Salt Lake City, UT",
+        "url": "https://entertainment.capitalone.com/events/7719545"
+      }
+    },
+    {
+      "key": "event-7719514",
+      "title": "New Capital One Exclusive: DOLLY Broadway Cardholder-Only Show VIP Package",
+      "event": {
+        "id": "7719514",
+        "name": "DOLLY Broadway Cardholder-Only Show VIP Package",
+        "date": "Jan 20 • 5:00pm",
+        "location": "St. James Theatre New York • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719514"
+      }
+    },
+    {
+      "key": "event-7719516",
+      "title": "New Capital One Exclusive: DOLLY Broadway Cardholder-Only Show",
+      "event": {
+        "id": "7719516",
+        "name": "DOLLY Broadway Cardholder-Only Show",
+        "date": "Jan 20 • 7:00pm",
+        "location": "St. James Theatre New York • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7719516"
+      }
+    },
+    {
+      "key": "event-7719567",
+      "title": "New Capital One Exclusive: Movie Lover Package",
+      "event": {
+        "id": "7719567",
+        "name": "Movie Lover Package",
+        "date": "Jan 21 • 12:00pm",
+        "location": "Sundance Film Festival • Boulder, CO",
+        "url": "https://entertainment.capitalone.com/events/7719567"
+      }
+    },
+    {
+      "key": "event-7719565",
+      "title": "New Capital One Exclusive: Double Film Package",
+      "event": {
+        "id": "7719565",
+        "name": "Double Film Package",
+        "date": "Jan 21 • 12:00pm",
+        "location": "Sundance Film Festival • Boulder, CO",
+        "url": "https://entertainment.capitalone.com/events/7719565"
+      }
+    },
+    {
+      "key": "event-7719563",
+      "title": "New Capital One Exclusive: Opening Weekend Experience",
+      "event": {
+        "id": "7719563",
+        "name": "Opening Weekend Experience",
+        "date": "Jan 21 • 8:00pm",
+        "location": "Sundance Film Festival • Boulder, CO",
+        "url": "https://entertainment.capitalone.com/events/7719563"
+      }
+    },
+    {
+      "key": "event-7719569",
+      "title": "New Capital One Exclusive: Roped Screening and VIP Party",
+      "event": {
+        "id": "7719569",
+        "name": "Roped Screening and VIP Party",
+        "date": "Jan 23 • 12:00pm",
+        "location": "Sundance Film Festival • Boulder, CO",
+        "url": "https://entertainment.capitalone.com/events/7719569"
+      }
+    },
+    {
+      "key": "event-7719559",
+      "title": "New Capital One Exclusive: Cardholder Exclusive Private Screening (Jan 25)",
+      "event": {
+        "id": "7719559",
+        "name": "Cardholder Exclusive Private Screening (Jan 25)",
+        "date": "Jan 25 • 8:00pm",
+        "location": "Cinemark Century Boulder • Boulder, CO",
+        "url": "https://entertainment.capitalone.com/events/7719559"
+      }
+    },
+    {
+      "key": "event-7719561",
+      "title": "New Capital One Exclusive: Cardholder Exclusive Private Screening (Jan 26)",
+      "event": {
+        "id": "7719561",
+        "name": "Cardholder Exclusive Private Screening (Jan 26)",
+        "date": "Jan 26 • 8:00pm",
+        "location": "Cinemark Century Boulder • Boulder, CO",
+        "url": "https://entertainment.capitalone.com/events/7719561"
+      }
+    },
+    {
+      "key": "event-7719571",
+      "title": "New Capital One Exclusive: Virtual Screening Package",
+      "event": {
+        "id": "7719571",
+        "name": "Virtual Screening Package",
+        "date": "Jan 28 • 12:00pm",
+        "location": "Sundance Film Festival • Boulder, CO",
+        "url": "https://entertainment.capitalone.com/events/7719571"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-19T18:40:14.705Z",
+  "lastSuccess": "2026-10-20T16:47:07.593Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
