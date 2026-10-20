@@ -1049,6 +1049,13 @@
     },
     "347": {
       "done": true
+    },
+    "348": {
+      "parts": [
+        "New Capital One Exclusive: Movie Lover Package\n\nMovie Lover Package\n\nDate: Jan 21 • 12:00pm\n\nLocation: Sundance Film Festival • Boulder, CO\n\nEvent details\nhttps://entertainment.capitalone.com/events/7719567\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/348"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
