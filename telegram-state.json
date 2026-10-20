@@ -962,6 +962,13 @@
     },
     "318": {
       "done": true
+    },
+    "319": {
+      "parts": [
+        "New Capital One Exclusive: World Series Game 4 - Batting Practice Package\n\nWorld Series Game 4 - Batting Practice Package\n\nDate: Oct 27 • 11:59pm\n\nLocation: Tropicana Field • Saint Petersburg, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7723587\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/319"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
