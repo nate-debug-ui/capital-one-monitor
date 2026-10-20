@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7723361",
-      "title": "New Capital One Exclusive: World Series Game 2 - Stadium Seats",
-      "event": {
-        "id": "7723361",
-        "name": "World Series Game 2 - Stadium Seats",
-        "date": "Oct 24 • 11:59pm",
-        "location": "American Family Field • Milwaukee, WI",
-        "url": "https://entertainment.capitalone.com/events/7723361"
-      }
-    },
-    {
       "key": "event-7723338",
       "title": "New Capital One Exclusive: World Series Game 2 - Batting Practice Package",
       "event": {
