@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7723359",
-      "title": "New Capital One Exclusive: World Series Game 1 - Stadium Seats",
-      "event": {
-        "id": "7723359",
-        "name": "World Series Game 1 - Stadium Seats",
-        "date": "Oct 23 • 11:59pm",
-        "location": "American Family Field • Milwaukee, WI",
-        "url": "https://entertainment.capitalone.com/events/7723359"
-      }
-    },
-    {
       "key": "event-7723336",
       "title": "New Capital One Exclusive: World Series Game 1 - Batting Practice Package",
       "event": {
