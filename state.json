@@ -4480,17 +4480,6 @@
   ],
   "pending": [
     {
-      "key": "event-7719520",
-      "title": "New Capital One Exclusive: Festive Dinner and NY Pops Holiday Performance",
-      "event": {
-        "id": "7719520",
-        "name": "Festive Dinner and NY Pops Holiday Performance",
-        "date": "Dec 19 • 5:30pm",
-        "location": "Carnegie Hall - Isaac Stern Auditorium • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7719520"
-      }
-    },
-    {
       "key": "event-7719543",
       "title": "New Capital One Exclusive: Discover NHL Winter Classic VIP Experience",
       "event": {
