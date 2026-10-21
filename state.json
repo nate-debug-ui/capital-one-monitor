@@ -9,6 +9,20 @@
       "location": "Test Stadium • Chicago, IL",
       "url": "https://entertainment.capitalone.com/events/1361816"
     },
+    "6170760": {
+      "id": "6170760",
+      "name": "Oregon Ducks at Ohio State Buckeyes Football",
+      "date": "Nov 7 • 11:59pm",
+      "location": "Ohio Stadium • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/6170760"
+    },
+    "6170761": {
+      "id": "6170761",
+      "name": "Michigan Wolverines at Ohio State Buckeyes Football",
+      "date": "Nov 28 • 12:00pm",
+      "location": "Ohio Stadium • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/6170761"
+    },
     "6752215": {
       "id": "6752215",
       "name": "2027 NCAA Mens Frozen Four - Semifinals",
@@ -3400,6 +3414,13 @@
       "url": "https://entertainment.capitalone.com/events/7416441"
     },
     {
+      "id": "6170760",
+      "name": "Oregon Ducks at Ohio State Buckeyes Football",
+      "date": "Nov 7 • 11:59pm",
+      "location": "Ohio Stadium • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/6170760"
+    },
+    {
       "id": "7661073",
       "name": "Miami - Wynwood: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 8 • 3:00pm",
@@ -3741,6 +3762,13 @@
       "date": "Nov 27 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283678"
+    },
+    {
+      "id": "6170761",
+      "name": "Michigan Wolverines at Ohio State Buckeyes Football",
+      "date": "Nov 28 • 12:00pm",
+      "location": "Ohio Stadium • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/6170761"
     },
     {
       "id": "7283682",
@@ -4506,10 +4534,33 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-6170760",
+      "title": "New Capital One Exclusive: Oregon Ducks at Ohio State Buckeyes Football",
+      "event": {
+        "id": "6170760",
+        "name": "Oregon Ducks at Ohio State Buckeyes Football",
+        "date": "Nov 7 • 11:59pm",
+        "location": "Ohio Stadium • Columbus, OH",
+        "url": "https://entertainment.capitalone.com/events/6170760"
+      }
+    },
+    {
+      "key": "event-6170761",
+      "title": "New Capital One Exclusive: Michigan Wolverines at Ohio State Buckeyes Football",
+      "event": {
+        "id": "6170761",
+        "name": "Michigan Wolverines at Ohio State Buckeyes Football",
+        "date": "Nov 28 • 12:00pm",
+        "location": "Ohio Stadium • Columbus, OH",
+        "url": "https://entertainment.capitalone.com/events/6170761"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-20T20:11:28.519Z",
+  "lastSuccess": "2026-10-21T17:03:46.712Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
