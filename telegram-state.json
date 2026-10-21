@@ -1082,6 +1082,13 @@
     },
     "358": {
       "done": true
+    },
+    "359": {
+      "parts": [
+        "New Capital One Exclusive: Michigan Wolverines at Ohio State Buckeyes Football\n\nMichigan Wolverines at Ohio State Buckeyes Football\n\nDate: Nov 28 • 12:00pm\n\nLocation: Ohio Stadium • Columbus, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/6170761\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/359"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
