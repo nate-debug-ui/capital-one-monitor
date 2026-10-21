@@ -2882,7 +2882,7 @@
     "7719522": {
       "id": "7719522",
       "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
-      "date": "Dec 10 • 11:59pm",
+      "date": "Dec 9 • 6:00pm",
       "location": "Dolby Theatre • Hollywood, CA",
       "url": "https://entertainment.capitalone.com/events/7719522"
     },
@@ -3904,6 +3904,13 @@
       "url": "https://entertainment.capitalone.com/events/7719539"
     },
     {
+      "id": "7719522",
+      "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
+      "date": "Dec 9 • 6:00pm",
+      "location": "Dolby Theatre • Hollywood, CA",
+      "url": "https://entertainment.capitalone.com/events/7719522"
+    },
+    {
       "id": "7416393",
       "name": "Bazaar Meat - An evening with José Andrés & Ferran Adrià",
       "date": "Dec 9 • 6:00pm",
@@ -3937,13 +3944,6 @@
       "date": "Dec 10 • 8:00pm",
       "location": "Desert Diamond Arena • Glendale, AZ",
       "url": "https://entertainment.capitalone.com/events/7430113"
-    },
-    {
-      "id": "7719522",
-      "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
-      "date": "Dec 10 • 11:59pm",
-      "location": "Dolby Theatre • Hollywood, CA",
-      "url": "https://entertainment.capitalone.com/events/7719522"
     },
     {
       "id": "7622260",
@@ -4537,7 +4537,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-21T17:03:46.712Z",
+  "lastSuccess": "2026-10-21T20:36:45.679Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
