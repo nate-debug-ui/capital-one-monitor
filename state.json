@@ -2883,7 +2883,7 @@
       "id": "7719522",
       "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
       "date": "Dec 9 • 6:00pm",
-      "location": "Dolby Theatre • Hollywood, CA",
+      "location": "Capital One Cafe - Hollywood • Hollywood, CA",
       "url": "https://entertainment.capitalone.com/events/7719522"
     },
     "7719525": {
@@ -3161,27 +3161,6 @@
     }
   },
   "previous": [
-    {
-      "id": "7453787",
-      "name": "2026 American South MICHELIN Guide Ceremony",
-      "date": "Oct 21 • 6:00pm",
-      "location": "The Pinnacle • Nashville, TN",
-      "url": "https://entertainment.capitalone.com/events/7453787"
-    },
-    {
-      "id": "7538315",
-      "name": "Co-Captain of the Game Milwaukee Bucks vs. Washington Wizards",
-      "date": "Oct 21 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538315"
-    },
-    {
-      "id": "7538249",
-      "name": "Washington Wizards Home Opener: Milwaukee Bucks vs. Washington Wizards",
-      "date": "Oct 21 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538249"
-    },
     {
       "id": "7416429",
       "name": "MICHELIN - A Special Evening at Jean-Georges",
@@ -3907,7 +3886,7 @@
       "id": "7719522",
       "name": "Celebrate NBC100: Meet and Greet with Mariska Hargitay and Ice-T",
       "date": "Dec 9 • 6:00pm",
-      "location": "Dolby Theatre • Hollywood, CA",
+      "location": "Capital One Cafe - Hollywood • Hollywood, CA",
       "url": "https://entertainment.capitalone.com/events/7719522"
     },
     {
@@ -4537,7 +4516,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-21T20:36:45.679Z",
+  "lastSuccess": "2026-10-22T17:04:28.516Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
