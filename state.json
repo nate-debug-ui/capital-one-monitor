@@ -4534,19 +4534,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7747709",
-      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
-      "event": {
-        "id": "7747709",
-        "name": "Late Night with Seth Meyers",
-        "date": "Dec 16 • 6:30pm",
-        "location": "NBC Studios - NY • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7747709"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-10-23T20:16:44.096Z",
