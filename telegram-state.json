@@ -1093,11 +1093,7 @@
       "done": true
     },
     "362": {
-      "parts": [
-        "New Capital One Exclusive: The Tonight Show with Jimmy Fallon\n\nThe Tonight Show with Jimmy Fallon\n\nDate: Dec 14 • 5:00pm\n\nLocation: NBC Studios 30 Rock • New York, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7748127\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/362"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
