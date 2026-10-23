@@ -3162,13 +3162,6 @@
   },
   "previous": [
     {
-      "id": "7416429",
-      "name": "MICHELIN - A Special Evening at Jean-Georges",
-      "date": "Oct 22 • 6:30pm",
-      "location": "Jean-Georges • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7416429"
-    },
-    {
       "id": "7723359",
       "name": "World Series Game 1 - Stadium Seats",
       "date": "Oct 23 • 11:59pm",
@@ -4516,7 +4509,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-22T20:33:00.097Z",
+  "lastSuccess": "2026-10-23T16:55:19.210Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
