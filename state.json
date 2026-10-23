@@ -3158,6 +3158,20 @@
       "date": "Oct 27 • 11:59pm",
       "location": "Tropicana Field • Saint Petersburg, FL",
       "url": "https://entertainment.capitalone.com/events/7723587"
+    },
+    "7747709": {
+      "id": "7747709",
+      "name": "Late Night with Seth Meyers",
+      "date": "Dec 16 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7747709"
+    },
+    "7748127": {
+      "id": "7748127",
+      "name": "The Tonight Show with Jimmy Fallon",
+      "date": "Dec 14 • 5:00pm",
+      "location": "NBC Studios 30 Rock • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7748127"
     }
   },
   "previous": [
@@ -3981,6 +3995,13 @@
       "url": "https://entertainment.capitalone.com/events/7622262"
     },
     {
+      "id": "7748127",
+      "name": "The Tonight Show with Jimmy Fallon",
+      "date": "Dec 14 • 5:00pm",
+      "location": "NBC Studios 30 Rock • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7748127"
+    },
+    {
       "id": "7622248",
       "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
       "date": "Dec 14 • 7:30pm",
@@ -4007,6 +4028,13 @@
       "date": "Dec 15 • 7:30pm",
       "location": "Xfinity Mobile Arena • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7622264"
+    },
+    {
+      "id": "7747709",
+      "name": "Late Night with Seth Meyers",
+      "date": "Dec 16 • 6:30pm",
+      "location": "NBC Studios - NY • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7747709"
     },
     {
       "id": "7622240",
@@ -4506,10 +4534,33 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7748127",
+      "title": "New Capital One Exclusive: The Tonight Show with Jimmy Fallon",
+      "event": {
+        "id": "7748127",
+        "name": "The Tonight Show with Jimmy Fallon",
+        "date": "Dec 14 • 5:00pm",
+        "location": "NBC Studios 30 Rock • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7748127"
+      }
+    },
+    {
+      "key": "event-7747709",
+      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
+      "event": {
+        "id": "7747709",
+        "name": "Late Night with Seth Meyers",
+        "date": "Dec 16 • 6:30pm",
+        "location": "NBC Studios - NY • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7747709"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-23T16:55:19.210Z",
+  "lastSuccess": "2026-10-23T20:16:44.096Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
