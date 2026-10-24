@@ -3176,20 +3176,6 @@
   },
   "previous": [
     {
-      "id": "7723359",
-      "name": "World Series Game 1 - Stadium Seats",
-      "date": "Oct 23 • 11:59pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7723359"
-    },
-    {
-      "id": "7723336",
-      "name": "World Series Game 1 - Batting Practice Package",
-      "date": "Oct 23 • 11:59pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7723336"
-    },
-    {
       "id": "7608180",
       "name": "Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)",
       "date": "Oct 24 • 6:00pm",
@@ -4537,7 +4523,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-23T20:16:44.096Z",
+  "lastSuccess": "2026-10-24T15:48:06.135Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
