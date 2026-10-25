@@ -3176,41 +3176,6 @@
   },
   "previous": [
     {
-      "id": "7608180",
-      "name": "Womens Volleyball: UCLA vs Iowa (Cardholder Exclusive)",
-      "date": "Oct 24 • 6:00pm",
-      "location": "Xtream Arena • Coralville, IA",
-      "url": "https://entertainment.capitalone.com/events/7608180"
-    },
-    {
-      "id": "7093406",
-      "name": "Oregon Ducks at Ohio State Buckeyes Womens Volleyball",
-      "date": "Oct 24 • 7:00pm",
-      "location": "Covelli Center - Columbus • Columbus, OH",
-      "url": "https://entertainment.capitalone.com/events/7093406"
-    },
-    {
-      "id": "7092843",
-      "name": "USC Trojans at Nebraska Cornhuskers Womens Volleyball",
-      "date": "Oct 24 • 7:00pm",
-      "location": "Bob Devaney Sports Center • Lincoln, NE",
-      "url": "https://entertainment.capitalone.com/events/7092843"
-    },
-    {
-      "id": "7723361",
-      "name": "World Series Game 2 - Stadium Seats",
-      "date": "Oct 24 • 11:59pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7723361"
-    },
-    {
-      "id": "7723338",
-      "name": "World Series Game 2 - Batting Practice Package",
-      "date": "Oct 24 • 11:59pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7723338"
-    },
-    {
       "id": "7093528",
       "name": "Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
       "date": "Oct 25 • 12:00pm",
@@ -4523,7 +4488,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-24T21:06:28.956Z",
+  "lastSuccess": "2026-10-25T15:58:48.966Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
