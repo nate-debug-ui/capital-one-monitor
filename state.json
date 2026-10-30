@@ -12,7 +12,7 @@
     "6170760": {
       "id": "6170760",
       "name": "Oregon Ducks at Ohio State Buckeyes Football",
-      "date": "Nov 7 • 11:59pm",
+      "date": "Nov 7 • 3:30pm",
       "location": "Ohio Stadium • Columbus, OH",
       "url": "https://entertainment.capitalone.com/events/6170760"
     },
@@ -3172,72 +3172,16 @@
       "date": "Dec 14 • 5:00pm",
       "location": "NBC Studios 30 Rock • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7748127"
+    },
+    "7761619": {
+      "id": "7761619",
+      "name": "2026 North Cities MICHELIN Guide Ceremony",
+      "date": "Dec 14 • 6:00pm",
+      "location": "The Glasshouse - New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7761619"
     }
   },
   "previous": [
-    {
-      "id": "7093528",
-      "name": "Michigan Wolverines at Wisconsin Badgers Womens Volleyball",
-      "date": "Oct 25 • 12:00pm",
-      "location": "Wisconsin Field House • Madison, WI",
-      "url": "https://entertainment.capitalone.com/events/7093528"
-    },
-    {
-      "id": "7608234",
-      "name": "Womens Volleyball - Washington vs Minnesota (Cardholder Exclusive)",
-      "date": "Oct 25 • 1:00pm",
-      "location": "Maturi Pavilion • Minneapolis, MN",
-      "url": "https://entertainment.capitalone.com/events/7608234"
-    },
-    {
-      "id": "7723363",
-      "name": "World Series Game 3 - Stadium Seats",
-      "date": "Oct 26 • 11:59pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7723363"
-    },
-    {
-      "id": "7723328",
-      "name": "World Series Ultimate Fan Package with CC Sabathia",
-      "date": "Oct 27 • 5:00pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7723328"
-    },
-    {
-      "id": "7723587",
-      "name": "World Series Game 4 - Batting Practice Package",
-      "date": "Oct 27 • 11:59pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7723587"
-    },
-    {
-      "id": "7723365",
-      "name": "World Series Game 4 - Stadium Seats",
-      "date": "Oct 27 • 11:59pm",
-      "location": "To Be Determined • To Be Determined, United States",
-      "url": "https://entertainment.capitalone.com/events/7723365"
-    },
-    {
-      "id": "7723342",
-      "name": "World Series - VIP Bucket List Package",
-      "date": "Oct 27 • 11:59pm",
-      "location": "To Be Determined • To Be Determined, United States",
-      "url": "https://entertainment.capitalone.com/events/7723342"
-    },
-    {
-      "id": "7723367",
-      "name": "World Series Game 5 (if necessary) - Stadium Seats",
-      "date": "Oct 28 • 11:59pm",
-      "location": "To Be Determined • To Be Determined, United States",
-      "url": "https://entertainment.capitalone.com/events/7723367"
-    },
-    {
-      "id": "7723344",
-      "name": "World Series Game 5 - Batting Practice Package",
-      "date": "Oct 28 • 11:59pm",
-      "location": "Tropicana Field • Saint Petersburg, FL",
-      "url": "https://entertainment.capitalone.com/events/7723344"
-    },
     {
       "id": "7283662",
       "name": "MAMMA MIA! at The National",
@@ -3344,18 +3288,18 @@
       "url": "https://entertainment.capitalone.com/events/7591656"
     },
     {
+      "id": "6170760",
+      "name": "Oregon Ducks at Ohio State Buckeyes Football",
+      "date": "Nov 7 • 3:30pm",
+      "location": "Ohio Stadium • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/6170760"
+    },
+    {
       "id": "7416441",
       "name": "MICHELIN - A Thanksgiving Masterclass at The Dabney",
       "date": "Nov 7 • 5:00pm",
       "location": "The Dabney • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7416441"
-    },
-    {
-      "id": "6170760",
-      "name": "Oregon Ducks at Ohio State Buckeyes Football",
-      "date": "Nov 7 • 11:59pm",
-      "location": "Ohio Stadium • Columbus, OH",
-      "url": "https://entertainment.capitalone.com/events/6170760"
     },
     {
       "id": "7661073",
@@ -3953,6 +3897,13 @@
       "url": "https://entertainment.capitalone.com/events/7748127"
     },
     {
+      "id": "7761619",
+      "name": "2026 North Cities MICHELIN Guide Ceremony",
+      "date": "Dec 14 • 6:00pm",
+      "location": "The Glasshouse - New York • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7761619"
+    },
+    {
       "id": "7622248",
       "name": "2026 iHeartRadio Jingle Ball Tickets - D.C.",
       "date": "Dec 14 • 7:30pm",
@@ -4485,10 +4436,22 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7761619",
+      "title": "New Capital One Exclusive: 2026 North Cities MICHELIN Guide Ceremony",
+      "event": {
+        "id": "7761619",
+        "name": "2026 North Cities MICHELIN Guide Ceremony",
+        "date": "Dec 14 • 6:00pm",
+        "location": "The Glasshouse - New York • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7761619"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-25T21:39:00.357Z",
+  "lastSuccess": "2026-10-30T17:20:50.956Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
