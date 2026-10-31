@@ -3183,27 +3183,6 @@
   },
   "previous": [
     {
-      "id": "7283662",
-      "name": "MAMMA MIA! at The National",
-      "date": "Oct 30 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283662"
-    },
-    {
-      "id": "7723369",
-      "name": "World Series Game 6 (if necessary) - Stadium Seats",
-      "date": "Oct 30 • 11:59pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7723369"
-    },
-    {
-      "id": "7723346",
-      "name": "World Series Game 6 - Batting Practice Package",
-      "date": "Oct 30 • 11:59pm",
-      "location": "American Family Field • Milwaukee, WI",
-      "url": "https://entertainment.capitalone.com/events/7723346"
-    },
-    {
       "id": "7283664",
       "name": "MAMMA MIA! at The National",
       "date": "Oct 31 • 2:00pm",
@@ -4439,7 +4418,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-10-30T17:57:13.480Z",
+  "lastSuccess": "2026-10-31T17:10:31.708Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
