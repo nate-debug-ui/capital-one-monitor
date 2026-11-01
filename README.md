@@ -12,7 +12,7 @@ The digest includes all distinct events not explicitly marked SOLD OUT, includin
 
 ### New-event alerts
 
-- Daily schedule at 08:00, 08:05, 08:10, …, 17:55, 18:00 in America/New_York, with automatic DST handling. A runtime guard rejects scans started outside that window, including delayed jobs. GitHub scheduling is best effort, so a delayed 18:00 run may be skipped.
+- Checks every 20 minutes, around the clock, at minutes 7, 27, and 47 of each hour. GitHub scheduling is best effort and may delay or drop runs.
 - Chromium renders the page, verifies the Exclusives tab, follows every See more button, validates each card, and fails closed if the complete list cannot be read. The parser is based on the observed September 17, 2026 page structure.
 - Extracts the name, displayed date/time, venue and city, and canonical event URL. The displayed date is retained without inventing a year when the card omits one.
 - Numeric event IDs are identities. Reorder, duplicate cards, availability changes, and edits to existing details do not alert. Distinct sessions with different IDs are distinct events. If the source replaces an event with a new ID, it will appear new; there is no reliable way to distinguish that from a genuinely new listing using these cards alone.
@@ -40,7 +40,7 @@ npm test
 npx playwright install chromium
 ```
 
-The workflow runs tests before monitoring. To manually start a deployed run, choose Actions → Capital One new events → Run workflow. The time window still applies. The first workflow-file push also triggers a run.
+The workflow runs tests before monitoring. To manually start a deployed run, choose Actions → Capital One new events → Run workflow. The first workflow-file push also triggers a run.
 
 ## Telegram delivery
 
