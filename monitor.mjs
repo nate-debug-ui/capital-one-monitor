@@ -1,8 +1,7 @@
-import {emptyState,success,failure,inWindow} from './core.mjs';
+import {emptyState,success,failure} from './core.mjs';
 import {scrape} from './scrape.mjs';
 const {GITHUB_TOKEN:token,GITHUB_REPOSITORY:repo,GITHUB_REF_NAME:branch='main',MONITOR_OWNER:owner} = process.env;
 if (!token || !repo || !owner) throw new Error('Missing GitHub configuration');
-if (!inWindow()) { console.log('Outside 08:00–18:00 America/New_York; skipped.'); process.exit(0); }
 const base = `https://api.github.com/repos/${repo}`;
 async function api(path,method='GET',body) {
   const r = await fetch(base+path,{method,headers:{Authorization:`Bearer ${token}`,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'},body:body?JSON.stringify(body):undefined,signal:AbortSignal.timeout(30000)});
