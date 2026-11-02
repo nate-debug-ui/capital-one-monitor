@@ -4373,19 +4373,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7792622",
-      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
-      "event": {
-        "id": "7792622",
-        "name": "Late Night with Seth Meyers",
-        "date": "Nov 19 • 4:30pm",
-        "location": "NBC Studios 30 Rock • New York, NY",
-        "url": "https://entertainment.capitalone.com/events/7792622"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-02T19:39:08.275Z",
