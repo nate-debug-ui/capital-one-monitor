@@ -3183,20 +3183,6 @@
   },
   "previous": [
     {
-      "id": "7283672",
-      "name": "MAMMA MIA! at The National",
-      "date": "Nov 1 • 2:00pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283672"
-    },
-    {
-      "id": "7608264",
-      "name": "Womens Volleyball - Maryland vs Washington (Cardholder Exclusive)",
-      "date": "Nov 1 • 11:59pm",
-      "location": "Alaska Airlines Arena • Seattle, WA",
-      "url": "https://entertainment.capitalone.com/events/7608264"
-    },
-    {
       "id": "7538235",
       "name": "Zamboni Ride at Dallas Stars vs. Washington Capitals",
       "date": "Nov 3 • 7:00pm",
@@ -4376,7 +4362,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-01T22:43:43.552Z",
+  "lastSuccess": "2026-11-02T01:51:56.871Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
