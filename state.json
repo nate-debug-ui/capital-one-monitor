@@ -2643,7 +2643,7 @@
     },
     "7622264": {
       "id": "7622264",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia (Capital One Exclusive)",
       "date": "Dec 15 • 7:30pm",
       "location": "Xfinity Mobile Arena • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7622264"
@@ -3179,6 +3179,13 @@
       "date": "Dec 14 • 6:00pm",
       "location": "The Glasshouse - New York • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7761619"
+    },
+    "7792622": {
+      "id": "7792622",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 19 • 4:30pm",
+      "location": "NBC Studios 30 Rock • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7792622"
     }
   },
   "previous": [
@@ -3533,6 +3540,13 @@
       "url": "https://entertainment.capitalone.com/events/7661071"
     },
     {
+      "id": "7792622",
+      "name": "Late Night with Seth Meyers",
+      "date": "Nov 19 • 4:30pm",
+      "location": "NBC Studios 30 Rock • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7792622"
+    },
+    {
       "id": "7433044",
       "name": "Orlando Magic at Washington Wizards",
       "date": "Nov 22 • 7:00pm",
@@ -3849,7 +3863,7 @@
     },
     {
       "id": "7622264",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia",
+      "name": "2026 iHeartRadio Jingle Ball Tickets - Philadelphia (Capital One Exclusive)",
       "date": "Dec 15 • 7:30pm",
       "location": "Xfinity Mobile Arena • Philadelphia, PA",
       "url": "https://entertainment.capitalone.com/events/7622264"
@@ -4359,10 +4373,22 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7792622",
+      "title": "New Capital One Exclusive: Late Night with Seth Meyers",
+      "event": {
+        "id": "7792622",
+        "name": "Late Night with Seth Meyers",
+        "date": "Nov 19 • 4:30pm",
+        "location": "NBC Studios 30 Rock • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7792622"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-02T09:20:32.809Z",
+  "lastSuccess": "2026-11-02T19:39:08.275Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
