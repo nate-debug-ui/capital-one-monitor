@@ -3190,13 +3190,6 @@
   },
   "previous": [
     {
-      "id": "7719525",
-      "name": "Late Night with Seth Meyers",
-      "date": "Nov 4 • 6:30pm",
-      "location": "NBC Studios - NY • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7719525"
-    },
-    {
       "id": "7416303",
       "name": "Eater - A Taste of the Coast With El Camarón Peludo",
       "date": "Nov 5 • 6:30pm",
@@ -4369,7 +4362,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-04T23:35:03.533Z",
+  "lastSuccess": "2026-11-05T03:45:45.935Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
