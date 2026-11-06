@@ -1,3 +1,9 @@
+export function digestIdentity({event,runId,mode='test',now=new Date()}) {
+  if(!['test','daily'].includes(mode)) throw new Error('Invalid digest delivery mode');
+  const date = new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(now);
+  const isTest = event !== 'schedule' && mode !== 'daily';
+  return {date,isTest,key:isTest ? `test-${runId}` : date};
+}
 export function availability(paragraphs) {
   const lines = paragraphs.map(x => x.normalize('NFKC').replace(/\s+/g,' ').trim().toUpperCase());
   return {soldOut:lines.includes('SOLD OUT'), status:lines.includes('SOLD OUT') ? 'Sold out' : lines.includes('LOW TICKETS') ? 'Low tickets' : lines.includes('GET TICKETS') ? 'Tickets listed' : 'Not marked sold out'};
