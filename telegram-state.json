@@ -1148,6 +1148,13 @@
     },
     "380": {
       "done": true
+    },
+    "381": {
+      "parts": [
+        "New Capital One Exclusive: Thunder vs. Wizards - Cardholder Suite\n\nThunder vs. Wizards - Cardholder Suite\n\nDate: Jan 7 • 7:00pm\n\nLocation: Capital One Arena • Washington, DC\n\nEvent details\nhttps://entertainment.capitalone.com/events/7826992\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/381"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
