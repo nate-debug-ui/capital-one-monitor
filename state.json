@@ -3190,13 +3190,6 @@
   },
   "previous": [
     {
-      "id": "7416303",
-      "name": "Eater - A Taste of the Coast With El Camarón Peludo",
-      "date": "Nov 5 • 6:30pm",
-      "location": "El Camaron Peludo • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7416303"
-    },
-    {
       "id": "7591656",
       "name": "Nebraska vs. Illinois (Cardholder Exclusive)",
       "date": "Nov 6 • 7:00pm",
@@ -3223,13 +3216,6 @@
       "date": "Nov 8 • 3:00pm",
       "location": "Barcelona Wine Bar - Wynwood • Miami, FL",
       "url": "https://entertainment.capitalone.com/events/7661073"
-    },
-    {
-      "id": "7430004",
-      "name": "Capital One MLB Open Exclusive VIP Experience",
-      "date": "Nov 9 • 3:00pm",
-      "location": "Shadow Creek Golf Course • North Las Vegas, NV",
-      "url": "https://entertainment.capitalone.com/events/7430004"
     },
     {
       "id": "7719527",
@@ -4362,7 +4348,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-05T19:08:56.595Z",
+  "lastSuccess": "2026-11-06T00:07:19.280Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
