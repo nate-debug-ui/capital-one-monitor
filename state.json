@@ -4471,19 +4471,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7827000",
-      "title": "New Capital One Exclusive: Kings vs. Wizards - Cardholder Suite",
-      "event": {
-        "id": "7827000",
-        "name": "Kings vs. Wizards - Cardholder Suite",
-        "date": "Jan 28 • 7:00pm",
-        "location": "Capital One Arena • Washington, DC",
-        "url": "https://entertainment.capitalone.com/events/7827000"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-06T20:08:18.585Z",
