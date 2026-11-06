@@ -8,7 +8,7 @@ Playwright monitor for https://entertainment.capitalone.com/all-events?tab=exclu
 
 The separate `Capital One daily available events` workflow scans the live Exclusives page daily at **07:30 America/New_York**, including daylight-saving changes. It creates one dated digest issue assigned to the repository owner. With GitHub email notifications enabled for participation, GitHub emails the complete digest. Delivery is best effort and may be later than 07:30.
 
-The digest includes all distinct events not explicitly marked SOLD OUT, including LOW TICKETS. It includes each event's name, displayed date/time, venue/location, direct link, and listing status. It does not imply guaranteed inventory or eligibility. A complete scan with no available events sends a zero-available digest; an incomplete or failed scan fails the workflow instead of emailing a partial or stale list. Retry markers prevent duplicate delivery for the same day. Manual runs are labeled TEST and use a separate retry marker.
+The digest includes all distinct events not explicitly marked SOLD OUT, including LOW TICKETS. It includes each event's name, displayed date/time, venue/location, direct link, and listing status. It does not imply guaranteed inventory or eligibility. A complete scan with no available events sends a zero-available digest; an incomplete or failed scan fails the workflow instead of emailing a partial or stale list. Retry markers prevent duplicate delivery for the same Eastern calendar day, including across different schedulers. Manual runs default to TEST with a separate retry marker; select `dispatch_mode: daily` for a normal daily delivery.
 
 ### New-event alerts
 
@@ -26,7 +26,7 @@ The digest includes all distinct events not explicitly marked SOLD OUT, includin
 
 Use the supplied standard Ubuntu runner in a public repository: GitHub documents this as free. This workflow does not upload artifacts or use a paid service. Private repositories consume an allowance and are not guaranteed free at this frequency.
 
-GitHub can delay or drop scheduled runs and may disable public scheduled workflows after 60 days of repository inactivity. Review the Actions tab if checks stop. A source layout change, bot protection, or GitHub-hosted IP restriction can prevent collection; the first cloud run must be verified before relying on the monitor.
+GitHub can delay or drop its native scheduled triggers and may disable public scheduled workflows after 60 days of repository inactivity. An independent scheduler can call the workflow dispatch API to avoid relying on those native triggers. Review the Actions tab and scheduler history if checks stop. A source layout change, bot protection, or GitHub-hosted IP restriction can prevent collection; a successful dispatch response does not by itself confirm a successful scan.
 
 Sources: [GitHub runner billing](https://docs.github.com/en/actions/reference/runners/github-hosted-runners), [GitHub schedule and timezone behavior](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).
 
@@ -48,6 +48,13 @@ The workflow runs tests before monitoring. To manually start a deployed run, cho
 
 Long digests are split into messages with disabled link previews and paced at under one message per second. Delivery progress is persisted after each accepted message, so subsequent runs resume unfinished delivery. Telegram has no send-message idempotency key: a lost response or failed checkpoint after acceptance can occasionally cause a duplicate part on retry. Previously created issues are marked historical at setup; the initial test is a separate connection confirmation. Future alerts, attention notices, and daily digests are forwarded.
 
-## Independent backup
+## External cloud schedule
 
-An independent hourly cloud monitor can use the same identity and baseline rules. Each monitor maintains its own baseline.
+The cron-job.org connection uses HTTPS POST requests to GitHub's workflow dispatch API. Standard GitHub runners in this public repository and the cron-job.org scheduler are free. The computer does not need to remain on.
+
+- Event checker: `7,27,47 * * * *` (every 20 minutes, around the clock); URL `https://api.github.com/repos/nate-debug-ui/capital-one-monitor/actions/workflows/monitor.yml/dispatches`; JSON body `{"ref":"main"}`.
+- Morning digest: 07:30 in `America/New_York`; URL `https://api.github.com/repos/nate-debug-ui/capital-one-monitor/actions/workflows/digest.yml/dispatches`; JSON body `{"ref":"main","inputs":{"dispatch_mode":"daily"}}`.
+
+Both requests use `Accept: application/vnd.github+json`, `Content-Type: application/json`, and `X-GitHub-Api-Version: 2022-11-28`. The private `Authorization: Bearer ...` header is stored in cron-job.org, never in this repository or a URL. HTTP basic authentication remains off. The fine-grained GitHub token is restricted to this repository with Actions read/write and the required Metadata read-only permission; it expires November 6, 2027 and must be replaced before then.
+
+The native GitHub schedules remain as backups. Digest delivery deduplicates across external and native triggers using the same Eastern-date marker. Event checks share the existing persisted baseline and pending-notification queue. A successful 2xx scheduler response means GitHub accepted the trigger; verify the resulting workflow and updated checkpoint to confirm the scan completed. Scheduler dispatch, GitHub execution, and email/Telegram delivery can still experience outages or delays.
