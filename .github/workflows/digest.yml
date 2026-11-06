@@ -4,6 +4,12 @@ on:
     - cron: '30 7 * * *'
       timezone: America/New_York
   workflow_dispatch:
+    inputs:
+      dispatch_mode:
+        description: 'Daily delivery or separate test'
+        type: choice
+        options: [test, daily]
+        default: test
 permissions:
   contents: read
   issues: write
@@ -26,3 +32,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MONITOR_OWNER: ${{ github.repository_owner }}
+          DIGEST_DISPATCH_MODE: ${{ inputs.dispatch_mode || 'test' }}
