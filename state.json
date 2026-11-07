@@ -3925,13 +3925,6 @@
       "url": "https://entertainment.capitalone.com/events/7747709"
     },
     {
-      "id": "7622240",
-      "name": "2026 iHeartRadio Jingle Ball Tickets - Nashville",
-      "date": "Dec 17 • 7:30pm",
-      "location": "Bridgestone Arena • Nashville, TN",
-      "url": "https://entertainment.capitalone.com/events/7622240"
-    },
-    {
       "id": "7283720",
       "name": "HAMILTON at The National",
       "date": "Dec 18 • 7:00pm",
@@ -4467,7 +4460,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-07T20:27:55.446Z",
+  "lastSuccess": "2026-11-07T20:48:00.989Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
