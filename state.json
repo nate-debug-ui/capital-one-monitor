@@ -3253,20 +3253,6 @@
   },
   "previous": [
     {
-      "id": "6170760",
-      "name": "Oregon Ducks at Ohio State Buckeyes Football",
-      "date": "Nov 7 • 3:30pm",
-      "location": "Ohio Stadium • Columbus, OH",
-      "url": "https://entertainment.capitalone.com/events/6170760"
-    },
-    {
-      "id": "7416441",
-      "name": "MICHELIN - A Thanksgiving Masterclass at The Dabney",
-      "date": "Nov 7 • 5:00pm",
-      "location": "The Dabney • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7416441"
-    },
-    {
       "id": "7661073",
       "name": "Miami - Wynwood: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 8 • 3:00pm",
@@ -4460,7 +4446,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-07T23:47:58.453Z",
+  "lastSuccess": "2026-11-08T00:07:54.844Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
