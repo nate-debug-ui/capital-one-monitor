@@ -1169,6 +1169,13 @@
     },
     "387": {
       "done": true
+    },
+    "388": {
+      "parts": [
+        "New Capital One Exclusive: PADDINGTON The Musical: Reserved Seating\n\nPADDINGTON The Musical: Reserved Seating\n\nDate: May 1 • 7:00pm\n\nLocation: Al Hirschfeld Theatre • New York, NY\n\nEvent details\nhttps://entertainment.capitalone.com/events/7827072\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/388"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
