@@ -3249,6 +3249,27 @@
       "date": "Jan 28 • 7:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7827000"
+    },
+    "7827058": {
+      "id": "7827058",
+      "name": "PADDINGTON The Musical: Reserved Seating",
+      "date": "Apr 3 • 1:00pm",
+      "location": "Al Hirschfeld Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7827058"
+    },
+    "7827072": {
+      "id": "7827072",
+      "name": "PADDINGTON The Musical: Reserved Seating",
+      "date": "May 1 • 7:00pm",
+      "location": "Al Hirschfeld Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7827072"
+    },
+    "7827077": {
+      "id": "7827077",
+      "name": "PADDINGTON The Musical: Reserved Seating",
+      "date": "Jun 5 • 1:00pm",
+      "location": "Al Hirschfeld Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7827077"
     }
   },
   "previous": [
@@ -4387,6 +4408,13 @@
       "url": "https://entertainment.capitalone.com/events/7538329"
     },
     {
+      "id": "7827058",
+      "name": "PADDINGTON The Musical: Reserved Seating",
+      "date": "Apr 3 • 1:00pm",
+      "location": "Al Hirschfeld Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7827058"
+    },
+    {
       "id": "6752219",
       "name": "2027 NCAA Mens Frozen Four - All Session (4/8 and 4/10)",
       "date": "Apr 8 • 10:59am",
@@ -4415,6 +4443,20 @@
       "url": "https://entertainment.capitalone.com/events/7431959"
     },
     {
+      "id": "7827072",
+      "name": "PADDINGTON The Musical: Reserved Seating",
+      "date": "May 1 • 7:00pm",
+      "location": "Al Hirschfeld Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7827072"
+    },
+    {
+      "id": "7827077",
+      "name": "PADDINGTON The Musical: Reserved Seating",
+      "date": "Jun 5 • 1:00pm",
+      "location": "Al Hirschfeld Theatre • New York, NY",
+      "url": "https://entertainment.capitalone.com/events/7827077"
+    },
+    {
       "id": "6752221",
       "name": "2028 NCAA Mens Frozen Four - All Session (4/6 and 4/8)",
       "date": "Apr 6 • 10:59am",
@@ -4436,10 +4478,44 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7827058",
+      "title": "New Capital One Exclusive: PADDINGTON The Musical: Reserved Seating",
+      "event": {
+        "id": "7827058",
+        "name": "PADDINGTON The Musical: Reserved Seating",
+        "date": "Apr 3 • 1:00pm",
+        "location": "Al Hirschfeld Theatre • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7827058"
+      }
+    },
+    {
+      "key": "event-7827072",
+      "title": "New Capital One Exclusive: PADDINGTON The Musical: Reserved Seating",
+      "event": {
+        "id": "7827072",
+        "name": "PADDINGTON The Musical: Reserved Seating",
+        "date": "May 1 • 7:00pm",
+        "location": "Al Hirschfeld Theatre • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7827072"
+      }
+    },
+    {
+      "key": "event-7827077",
+      "title": "New Capital One Exclusive: PADDINGTON The Musical: Reserved Seating",
+      "event": {
+        "id": "7827077",
+        "name": "PADDINGTON The Musical: Reserved Seating",
+        "date": "Jun 5 • 1:00pm",
+        "location": "Al Hirschfeld Theatre • New York, NY",
+        "url": "https://entertainment.capitalone.com/events/7827077"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-09T13:47:59.471Z",
+  "lastSuccess": "2026-11-09T14:08:01.365Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
