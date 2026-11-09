@@ -3253,13 +3253,6 @@
   },
   "previous": [
     {
-      "id": "7661073",
-      "name": "Miami - Wynwood: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 8 • 3:00pm",
-      "location": "Barcelona Wine Bar - Wynwood • Miami, FL",
-      "url": "https://entertainment.capitalone.com/events/7661073"
-    },
-    {
       "id": "7719527",
       "name": "Tonight Show with Jimmy Fallon",
       "date": "Nov 9 • 5:00pm",
@@ -4446,7 +4439,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-08T23:47:56.201Z",
+  "lastSuccess": "2026-11-09T00:08:05.510Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
