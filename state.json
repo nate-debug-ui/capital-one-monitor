@@ -3274,13 +3274,6 @@
   },
   "previous": [
     {
-      "id": "7719527",
-      "name": "Tonight Show with Jimmy Fallon",
-      "date": "Nov 9 • 5:00pm",
-      "location": "NBC Studios - NY • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7719527"
-    },
-    {
       "id": "7661003",
       "name": "Delray (FL): Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 10 • 5:00pm",
@@ -4481,7 +4474,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-09T23:48:18.696Z",
+  "lastSuccess": "2026-11-10T00:08:14.767Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
