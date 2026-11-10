@@ -93,6 +93,41 @@
       "location": "Sol y Luna • Urubamba, PE",
       "url": "https://entertainment.capitalone.com/events/6845978"
     },
+    "7025608": {
+      "id": "7025608",
+      "name": "Minnesota Golden Gophers at Michigan Wolverines Mens Basketball",
+      "date": "Jan 12 • 6:30pm",
+      "location": "Crisler Center • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7025608"
+    },
+    "7025755": {
+      "id": "7025755",
+      "name": "Purdue Boilermakers at Illinois Fighting Illini Mens Basketball",
+      "date": "Jan 5 • 8:00pm",
+      "location": "State Farm Center • Champaign, IL",
+      "url": "https://entertainment.capitalone.com/events/7025755"
+    },
+    "7025879": {
+      "id": "7025879",
+      "name": "Michigan State Spartans at Maryland Terrapins Mens Basketball",
+      "date": "Dec 9 • 8:30pm",
+      "location": "Xfinity Center - MD • College Park, MD",
+      "url": "https://entertainment.capitalone.com/events/7025879"
+    },
+    "7026100": {
+      "id": "7026100",
+      "name": "Michigan Wolverines at Nebraska Cornhuskers Mens Basketball",
+      "date": "Jan 5 • 6:00pm",
+      "location": "Pinnacle Bank Arena • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7026100"
+    },
+    "7026496": {
+      "id": "7026496",
+      "name": "Michigan Wolverines at UCLA Bruins Mens Basketball",
+      "date": "Jan 26 • 7:00pm",
+      "location": "Pauley Pavilion - UCLA • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7026496"
+    },
     "7082329": {
       "id": "7082329",
       "name": "Eater - A Welcome Home Party for Alfie's",
@@ -176,6 +211,13 @@
       "date": "Oct 25 • 12:00pm",
       "location": "Wisconsin Field House • Madison, WI",
       "url": "https://entertainment.capitalone.com/events/7093528"
+    },
+    "7094386": {
+      "id": "7094386",
+      "name": "Tennessee Volunteers at Purdue Boilermakers Mens Basketball",
+      "date": "Dec 11 • 8:00pm",
+      "location": "Mackey Arena • West Lafayette, IN",
+      "url": "https://entertainment.capitalone.com/events/7094386"
     },
     "7147770": {
       "id": "7147770",
@@ -1682,6 +1724,13 @@
       "location": "Honda Center • Anaheim, CA",
       "url": "https://entertainment.capitalone.com/events/7302527"
     },
+    "7350117": {
+      "id": "7350117",
+      "name": "Missouri Tigers at Indiana Hoosiers Mens Basketball",
+      "date": "Dec 18 • 6:00pm",
+      "location": "Simon Skjodt Assembly Hall • Bloomington, IN",
+      "url": "https://entertainment.capitalone.com/events/7350117"
+    },
     "7371095": {
       "id": "7371095",
       "name": "New York Yankees at Tampa Bay Rays (ALDS Game 1, Tampa Bay Home Game 1)",
@@ -1800,6 +1849,34 @@
       "date": "Jan 19 • 4:00pm",
       "location": "St. James Theatre New York • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7393814"
+    },
+    "7401767": {
+      "id": "7401767",
+      "name": "NCAA Division I Womens College Cup Semifinals",
+      "date": "Dec 10 • 6:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401767"
+    },
+    "7401769": {
+      "id": "7401769",
+      "name": "NCAA Division I Womens College Cup Championship",
+      "date": "Dec 13 • 7:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401769"
+    },
+    "7401771": {
+      "id": "7401771",
+      "name": "NCAA Mens Soccer College Cup - Semifinals",
+      "date": "Dec 11 • 6:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401771"
+    },
+    "7401775": {
+      "id": "7401775",
+      "name": "NCAA Mens Soccer College Cup - Championship",
+      "date": "Dec 14 • 7:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401775"
     },
     "7416285": {
       "id": "7416285",
@@ -3827,11 +3904,32 @@
       "url": "https://entertainment.capitalone.com/events/7430111"
     },
     {
+      "id": "7025879",
+      "name": "Michigan State Spartans at Maryland Terrapins Mens Basketball",
+      "date": "Dec 9 • 8:30pm",
+      "location": "Xfinity Center - MD • College Park, MD",
+      "url": "https://entertainment.capitalone.com/events/7025879"
+    },
+    {
+      "id": "7401767",
+      "name": "NCAA Division I Womens College Cup Semifinals",
+      "date": "Dec 10 • 6:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401767"
+    },
+    {
       "id": "7430113",
       "name": "Gracie Abrams: The Look at My Life Tour (GLEN N2) (Cardholder Exclusives)",
       "date": "Dec 10 • 8:00pm",
       "location": "Desert Diamond Arena • Glendale, AZ",
       "url": "https://entertainment.capitalone.com/events/7430113"
+    },
+    {
+      "id": "7401771",
+      "name": "NCAA Mens Soccer College Cup - Semifinals",
+      "date": "Dec 11 • 6:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401771"
     },
     {
       "id": "7622260",
@@ -3853,6 +3951,13 @@
       "date": "Dec 11 • 7:30pm",
       "location": "National Theatre - DC • Washington DC, DC",
       "url": "https://entertainment.capitalone.com/events/7283694"
+    },
+    {
+      "id": "7094386",
+      "name": "Tennessee Volunteers at Purdue Boilermakers Mens Basketball",
+      "date": "Dec 11 • 8:00pm",
+      "location": "Mackey Arena • West Lafayette, IN",
+      "url": "https://entertainment.capitalone.com/events/7094386"
     },
     {
       "id": "7283702",
@@ -3897,6 +4002,13 @@
       "url": "https://entertainment.capitalone.com/events/7622262"
     },
     {
+      "id": "7401769",
+      "name": "NCAA Division I Womens College Cup Championship",
+      "date": "Dec 13 • 7:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401769"
+    },
+    {
       "id": "7748127",
       "name": "The Tonight Show with Jimmy Fallon",
       "date": "Dec 14 • 5:00pm",
@@ -3909,6 +4021,13 @@
       "date": "Dec 14 • 6:00pm",
       "location": "The Glasshouse - New York • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7761619"
+    },
+    {
+      "id": "7401775",
+      "name": "NCAA Mens Soccer College Cup - Championship",
+      "date": "Dec 14 • 7:00pm",
+      "location": "WakeMed Soccer Park • Cary, NC",
+      "url": "https://entertainment.capitalone.com/events/7401775"
     },
     {
       "id": "7622248",
@@ -3944,6 +4063,13 @@
       "date": "Dec 16 • 6:30pm",
       "location": "NBC Studios - NY • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7747709"
+    },
+    {
+      "id": "7350117",
+      "name": "Missouri Tigers at Indiana Hoosiers Mens Basketball",
+      "date": "Dec 18 • 6:00pm",
+      "location": "Simon Skjodt Assembly Hall • Bloomington, IN",
+      "url": "https://entertainment.capitalone.com/events/7350117"
     },
     {
       "id": "7283720",
@@ -4051,6 +4177,20 @@
       "url": "https://entertainment.capitalone.com/events/7719545"
     },
     {
+      "id": "7026100",
+      "name": "Michigan Wolverines at Nebraska Cornhuskers Mens Basketball",
+      "date": "Jan 5 • 6:00pm",
+      "location": "Pinnacle Bank Arena • Lincoln, NE",
+      "url": "https://entertainment.capitalone.com/events/7026100"
+    },
+    {
+      "id": "7025755",
+      "name": "Purdue Boilermakers at Illinois Fighting Illini Mens Basketball",
+      "date": "Jan 5 • 8:00pm",
+      "location": "State Farm Center • Champaign, IL",
+      "url": "https://entertainment.capitalone.com/events/7025755"
+    },
+    {
       "id": "7826992",
       "name": "Thunder vs. Wizards - Cardholder Suite",
       "date": "Jan 7 • 7:00pm",
@@ -4070,6 +4210,13 @@
       "date": "Jan 8 • 7:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7431493"
+    },
+    {
+      "id": "7025608",
+      "name": "Minnesota Golden Gophers at Michigan Wolverines Mens Basketball",
+      "date": "Jan 12 • 6:30pm",
+      "location": "Crisler Center • Ann Arbor, MI",
+      "url": "https://entertainment.capitalone.com/events/7025608"
     },
     {
       "id": "7538239",
@@ -4147,6 +4294,13 @@
       "date": "Jan 25 • 8:00pm",
       "location": "Cinemark Century Boulder • Boulder, CO",
       "url": "https://entertainment.capitalone.com/events/7719559"
+    },
+    {
+      "id": "7026496",
+      "name": "Michigan Wolverines at UCLA Bruins Mens Basketball",
+      "date": "Jan 26 • 7:00pm",
+      "location": "Pauley Pavilion - UCLA • Los Angeles, CA",
+      "url": "https://entertainment.capitalone.com/events/7026496"
     },
     {
       "id": "7719561",
@@ -4499,10 +4653,132 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7025879",
+      "title": "New Capital One Exclusive: Michigan State Spartans at Maryland Terrapins Mens Basketball",
+      "event": {
+        "id": "7025879",
+        "name": "Michigan State Spartans at Maryland Terrapins Mens Basketball",
+        "date": "Dec 9 • 8:30pm",
+        "location": "Xfinity Center - MD • College Park, MD",
+        "url": "https://entertainment.capitalone.com/events/7025879"
+      }
+    },
+    {
+      "key": "event-7401767",
+      "title": "New Capital One Exclusive: NCAA Division I Womens College Cup Semifinals",
+      "event": {
+        "id": "7401767",
+        "name": "NCAA Division I Womens College Cup Semifinals",
+        "date": "Dec 10 • 6:00pm",
+        "location": "WakeMed Soccer Park • Cary, NC",
+        "url": "https://entertainment.capitalone.com/events/7401767"
+      }
+    },
+    {
+      "key": "event-7401771",
+      "title": "New Capital One Exclusive: NCAA Mens Soccer College Cup - Semifinals",
+      "event": {
+        "id": "7401771",
+        "name": "NCAA Mens Soccer College Cup - Semifinals",
+        "date": "Dec 11 • 6:00pm",
+        "location": "WakeMed Soccer Park • Cary, NC",
+        "url": "https://entertainment.capitalone.com/events/7401771"
+      }
+    },
+    {
+      "key": "event-7094386",
+      "title": "New Capital One Exclusive: Tennessee Volunteers at Purdue Boilermakers Mens Basketball",
+      "event": {
+        "id": "7094386",
+        "name": "Tennessee Volunteers at Purdue Boilermakers Mens Basketball",
+        "date": "Dec 11 • 8:00pm",
+        "location": "Mackey Arena • West Lafayette, IN",
+        "url": "https://entertainment.capitalone.com/events/7094386"
+      }
+    },
+    {
+      "key": "event-7401769",
+      "title": "New Capital One Exclusive: NCAA Division I Womens College Cup Championship",
+      "event": {
+        "id": "7401769",
+        "name": "NCAA Division I Womens College Cup Championship",
+        "date": "Dec 13 • 7:00pm",
+        "location": "WakeMed Soccer Park • Cary, NC",
+        "url": "https://entertainment.capitalone.com/events/7401769"
+      }
+    },
+    {
+      "key": "event-7401775",
+      "title": "New Capital One Exclusive: NCAA Mens Soccer College Cup - Championship",
+      "event": {
+        "id": "7401775",
+        "name": "NCAA Mens Soccer College Cup - Championship",
+        "date": "Dec 14 • 7:00pm",
+        "location": "WakeMed Soccer Park • Cary, NC",
+        "url": "https://entertainment.capitalone.com/events/7401775"
+      }
+    },
+    {
+      "key": "event-7350117",
+      "title": "New Capital One Exclusive: Missouri Tigers at Indiana Hoosiers Mens Basketball",
+      "event": {
+        "id": "7350117",
+        "name": "Missouri Tigers at Indiana Hoosiers Mens Basketball",
+        "date": "Dec 18 • 6:00pm",
+        "location": "Simon Skjodt Assembly Hall • Bloomington, IN",
+        "url": "https://entertainment.capitalone.com/events/7350117"
+      }
+    },
+    {
+      "key": "event-7026100",
+      "title": "New Capital One Exclusive: Michigan Wolverines at Nebraska Cornhuskers Mens Basketball",
+      "event": {
+        "id": "7026100",
+        "name": "Michigan Wolverines at Nebraska Cornhuskers Mens Basketball",
+        "date": "Jan 5 • 6:00pm",
+        "location": "Pinnacle Bank Arena • Lincoln, NE",
+        "url": "https://entertainment.capitalone.com/events/7026100"
+      }
+    },
+    {
+      "key": "event-7025755",
+      "title": "New Capital One Exclusive: Purdue Boilermakers at Illinois Fighting Illini Mens Basketball",
+      "event": {
+        "id": "7025755",
+        "name": "Purdue Boilermakers at Illinois Fighting Illini Mens Basketball",
+        "date": "Jan 5 • 8:00pm",
+        "location": "State Farm Center • Champaign, IL",
+        "url": "https://entertainment.capitalone.com/events/7025755"
+      }
+    },
+    {
+      "key": "event-7025608",
+      "title": "New Capital One Exclusive: Minnesota Golden Gophers at Michigan Wolverines Mens Basketball",
+      "event": {
+        "id": "7025608",
+        "name": "Minnesota Golden Gophers at Michigan Wolverines Mens Basketball",
+        "date": "Jan 12 • 6:30pm",
+        "location": "Crisler Center • Ann Arbor, MI",
+        "url": "https://entertainment.capitalone.com/events/7025608"
+      }
+    },
+    {
+      "key": "event-7026496",
+      "title": "New Capital One Exclusive: Michigan Wolverines at UCLA Bruins Mens Basketball",
+      "event": {
+        "id": "7026496",
+        "name": "Michigan Wolverines at UCLA Bruins Mens Basketball",
+        "date": "Jan 26 • 7:00pm",
+        "location": "Pauley Pavilion - UCLA • Los Angeles, CA",
+        "url": "https://entertainment.capitalone.com/events/7026496"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-10T17:48:03.217Z",
+  "lastSuccess": "2026-11-10T18:07:59.403Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
