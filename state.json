@@ -4499,19 +4499,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7804940",
-      "title": "New Capital One Exclusive: Capital One x BÉIS After-Hours",
-      "event": {
-        "id": "7804940",
-        "name": "Capital One x BÉIS After-Hours",
-        "date": "Dec 3 • 11:30pm",
-        "location": "The Shelborne By Proper • Miami Beach, FL",
-        "url": "https://entertainment.capitalone.com/events/7804940"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-10T16:48:16.755Z",
