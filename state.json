@@ -4653,19 +4653,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7026496",
-      "title": "New Capital One Exclusive: Michigan Wolverines at UCLA Bruins Mens Basketball",
-      "event": {
-        "id": "7026496",
-        "name": "Michigan Wolverines at UCLA Bruins Mens Basketball",
-        "date": "Jan 26 • 7:00pm",
-        "location": "Pauley Pavilion - UCLA • Los Angeles, CA",
-        "url": "https://entertainment.capitalone.com/events/7026496"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-10T18:07:59.403Z",
