@@ -4655,17 +4655,6 @@
   ],
   "pending": [
     {
-      "key": "event-7401769",
-      "title": "New Capital One Exclusive: NCAA Division I Womens College Cup Championship",
-      "event": {
-        "id": "7401769",
-        "name": "NCAA Division I Womens College Cup Championship",
-        "date": "Dec 13 • 7:00pm",
-        "location": "WakeMed Soccer Park • Cary, NC",
-        "url": "https://entertainment.capitalone.com/events/7401769"
-      }
-    },
-    {
       "key": "event-7401775",
       "title": "New Capital One Exclusive: NCAA Mens Soccer College Cup - Championship",
       "event": {
