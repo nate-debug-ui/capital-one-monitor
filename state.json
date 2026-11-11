@@ -26,7 +26,7 @@
     "6752215": {
       "id": "6752215",
       "name": "2027 NCAA Mens Frozen Four - Semifinals",
-      "date": "Apr 8 • 12:00pm",
+      "date": "Apr 8 • 5:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/6752215"
     },
@@ -4585,7 +4585,7 @@
     {
       "id": "6752215",
       "name": "2027 NCAA Mens Frozen Four - Semifinals",
-      "date": "Apr 8 • 12:00pm",
+      "date": "Apr 8 • 5:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/6752215"
     },
@@ -4642,7 +4642,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-11T20:07:44.046Z",
+  "lastSuccess": "2026-11-11T21:08:01.018Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
