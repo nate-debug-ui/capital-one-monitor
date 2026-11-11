@@ -3365,20 +3365,6 @@
   },
   "previous": [
     {
-      "id": "7661003",
-      "name": "Delray (FL): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 10 • 5:00pm",
-      "location": "Barcelona Wine Bar - Delray • Delray Beach, FL",
-      "url": "https://entertainment.capitalone.com/events/7661003"
-    },
-    {
-      "id": "7416373",
-      "name": "il Carciofo - Chef Joe Flamm's Love Letter to Rome",
-      "date": "Nov 10 • 6:00pm",
-      "location": "il Carciofo • Chicago, IL",
-      "url": "https://entertainment.capitalone.com/events/7416373"
-    },
-    {
       "id": "7430006",
       "name": "Capital One MLB Open",
       "date": "Nov 11 • 8:30am",
@@ -4656,7 +4642,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-10T23:59:55.653Z",
+  "lastSuccess": "2026-11-11T00:08:03.963Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
