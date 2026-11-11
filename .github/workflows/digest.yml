@@ -27,7 +27,9 @@ jobs:
           node-version: '22'
       - run: npm ci
       - run: npm test
-      - run: npx playwright install --with-deps chromium
+      # Ubuntu 24.04 already has Chromium's runtime libraries. Avoid an apt
+      # update on every check; a mirror outage must not prevent a scan.
+      - run: npx playwright install --only-shell chromium
       - run: node digest.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
