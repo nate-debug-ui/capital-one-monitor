@@ -3361,6 +3361,13 @@
       "date": "Jun 5 • 1:00pm",
       "location": "Al Hirschfeld Theatre • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7827077"
+    },
+    "7857676": {
+      "id": "7857676",
+      "name": "Discover B1G Football Championship Game Suite (Cardholder Exclusives)",
+      "date": "Dec 5 • 8:00pm",
+      "location": "Lucas Oil Stadium • Indianapolis, IN",
+      "url": "https://entertainment.capitalone.com/events/7857676"
     }
   },
   "previous": [
@@ -3769,6 +3776,13 @@
       "date": "Dec 5 • 12:00pm",
       "location": "David H. Koch Theater • New York, NY",
       "url": "https://entertainment.capitalone.com/events/7538335"
+    },
+    {
+      "id": "7857676",
+      "name": "Discover B1G Football Championship Game Suite (Cardholder Exclusives)",
+      "date": "Dec 5 • 8:00pm",
+      "location": "Lucas Oil Stadium • Indianapolis, IN",
+      "url": "https://entertainment.capitalone.com/events/7857676"
     },
     {
       "id": "7430145",
@@ -4604,10 +4618,22 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7857676",
+      "title": "New Capital One Exclusive: Discover B1G Football Championship Game Suite (Cardholder Exclusives)",
+      "event": {
+        "id": "7857676",
+        "name": "Discover B1G Football Championship Game Suite (Cardholder Exclusives)",
+        "date": "Dec 5 • 8:00pm",
+        "location": "Lucas Oil Stadium • Indianapolis, IN",
+        "url": "https://entertainment.capitalone.com/events/7857676"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-12T19:07:46.488Z",
+  "lastSuccess": "2026-11-12T19:27:48.956Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
