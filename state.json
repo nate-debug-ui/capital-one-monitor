@@ -3365,41 +3365,6 @@
   },
   "previous": [
     {
-      "id": "7430006",
-      "name": "Capital One MLB Open",
-      "date": "Nov 11 • 8:30am",
-      "location": "Shadow Creek Golf Course • North Las Vegas, NV",
-      "url": "https://entertainment.capitalone.com/events/7430006"
-    },
-    {
-      "id": "7661077",
-      "name": "RiNo (Denver): Spain UNCORKED at Corsica",
-      "date": "Nov 11 • 6:00pm",
-      "location": "CORSICA Wine Bar - RiNo • Denver, CO",
-      "url": "https://entertainment.capitalone.com/events/7661077"
-    },
-    {
-      "id": "7661027",
-      "name": "New Haven: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 11 • 6:00pm",
-      "location": "Barcelona Wine Bar - New Haven • New Haven, CT",
-      "url": "https://entertainment.capitalone.com/events/7661027"
-    },
-    {
-      "id": "7660977",
-      "name": "Brookline (MA): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 11 • 6:00pm",
-      "location": "Barcelona Wine Bar - Brookline • Brookline, MA",
-      "url": "https://entertainment.capitalone.com/events/7660977"
-    },
-    {
-      "id": "7719529",
-      "name": "Late Night with Seth Meyers",
-      "date": "Nov 11 • 6:30pm",
-      "location": "NBC Studios - NY • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7719529"
-    },
-    {
       "id": "7621569",
       "name": "Venture X Business Dinner with José Andrés",
       "date": "Nov 12 • 7:00pm",
@@ -4642,7 +4607,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-11T23:47:49.255Z",
+  "lastSuccess": "2026-11-12T00:07:44.841Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
