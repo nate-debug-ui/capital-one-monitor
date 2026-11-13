@@ -1237,11 +1237,7 @@
       "done": true
     },
     "410": {
-      "parts": [
-        "New Capital One Exclusive: Dinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern\n\nDinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern\n\nDate: Feb 26 • 7:00pm\n\nLocation: Walrus Rodeo • Miami, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7857698\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/410"
-      ],
-      "next": 1,
-      "done": false
+      "done": true
     }
   }
 }
