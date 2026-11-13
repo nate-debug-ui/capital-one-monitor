@@ -4639,19 +4639,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7857698",
-      "title": "New Capital One Exclusive: Dinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern",
-      "event": {
-        "id": "7857698",
-        "name": "Dinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern",
-        "date": "Feb 26 • 7:00pm",
-        "location": "Walrus Rodeo • Miami, FL",
-        "url": "https://entertainment.capitalone.com/events/7857698"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-13T14:47:55.598Z",
