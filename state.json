@@ -3368,6 +3368,20 @@
       "date": "Dec 5 • 8:00pm",
       "location": "Lucas Oil Stadium • Indianapolis, IN",
       "url": "https://entertainment.capitalone.com/events/7857676"
+    },
+    "7857684": {
+      "id": "7857684",
+      "name": "Dinner hosted by Stephanie Izard, Mei Lin, Kenny Gilbert and Zachary Dworsky",
+      "date": "Feb 25 • 7:00pm",
+      "location": "Lido Bayside • Miami Beach, FL",
+      "url": "https://entertainment.capitalone.com/events/7857684"
+    },
+    "7857698": {
+      "id": "7857698",
+      "name": "Dinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern",
+      "date": "Feb 26 • 7:00pm",
+      "location": "Walrus Rodeo • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7857698"
     }
   },
   "previous": [
@@ -4387,6 +4401,20 @@
       "url": "https://entertainment.capitalone.com/events/7430165"
     },
     {
+      "id": "7857684",
+      "name": "Dinner hosted by Stephanie Izard, Mei Lin, Kenny Gilbert and Zachary Dworsky",
+      "date": "Feb 25 • 7:00pm",
+      "location": "Lido Bayside • Miami Beach, FL",
+      "url": "https://entertainment.capitalone.com/events/7857684"
+    },
+    {
+      "id": "7857698",
+      "name": "Dinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern",
+      "date": "Feb 26 • 7:00pm",
+      "location": "Walrus Rodeo • Miami, FL",
+      "url": "https://entertainment.capitalone.com/events/7857698"
+    },
+    {
       "id": "7430157",
       "name": "Gracie Abrams: The Look at My Life Tour (CLT N1) (Cardholder Exclusives)",
       "date": "Feb 26 • 8:00pm",
@@ -4611,10 +4639,33 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7857684",
+      "title": "New Capital One Exclusive: Dinner hosted by Stephanie Izard, Mei Lin, Kenny Gilbert and Zachary Dworsky",
+      "event": {
+        "id": "7857684",
+        "name": "Dinner hosted by Stephanie Izard, Mei Lin, Kenny Gilbert and Zachary Dworsky",
+        "date": "Feb 25 • 7:00pm",
+        "location": "Lido Bayside • Miami Beach, FL",
+        "url": "https://entertainment.capitalone.com/events/7857684"
+      }
+    },
+    {
+      "key": "event-7857698",
+      "title": "New Capital One Exclusive: Dinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern",
+      "event": {
+        "id": "7857698",
+        "name": "Dinner hosted by Alex Meyer, Luciana Giangrandi, Rick Mace and Zak Stern",
+        "date": "Feb 26 • 7:00pm",
+        "location": "Walrus Rodeo • Miami, FL",
+        "url": "https://entertainment.capitalone.com/events/7857698"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-13T14:27:53.284Z",
+  "lastSuccess": "2026-11-13T14:47:55.598Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
