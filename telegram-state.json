@@ -1232,6 +1232,13 @@
     },
     "408": {
       "done": true
+    },
+    "409": {
+      "parts": [
+        "New Capital One Exclusive: Dinner hosted by Stephanie Izard, Mei Lin, Kenny Gilbert and Zachary Dworsky\n\nDinner hosted by Stephanie Izard, Mei Lin, Kenny Gilbert and Zachary Dworsky\n\nDate: Feb 25 • 7:00pm\n\nLocation: Lido Bayside • Miami Beach, FL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7857684\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/409"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
