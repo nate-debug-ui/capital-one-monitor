@@ -3386,41 +3386,6 @@
   },
   "previous": [
     {
-      "id": "7505872",
-      "name": "Vinous Icons Miami - All Access Day One",
-      "date": "Nov 13 • 12:00pm",
-      "location": "Jungle Island • Miami, FL",
-      "url": "https://entertainment.capitalone.com/events/7505872"
-    },
-    {
-      "id": "7505870",
-      "name": "Vinous Icons Miami - Two Day Full Access",
-      "date": "Nov 13 • 12:00pm",
-      "location": "Jungle Island • Miami, FL",
-      "url": "https://entertainment.capitalone.com/events/7505870"
-    },
-    {
-      "id": "7719551",
-      "name": "Rock & Roll Hall Of Fame Induction 2026 Soundcheck Package",
-      "date": "Nov 13 • 4:00pm",
-      "location": "Peacock Theater • Los Angeles, CA",
-      "url": "https://entertainment.capitalone.com/events/7719551"
-    },
-    {
-      "id": "7719549",
-      "name": "Rock & Roll Hall Of Fame Induction 2026 VIP Experience",
-      "date": "Nov 13 • 4:00pm",
-      "location": "Peacock Theater • Los Angeles, CA",
-      "url": "https://entertainment.capitalone.com/events/7719549"
-    },
-    {
-      "id": "7505876",
-      "name": "Vinous Icons Miami - Day One Walkaround Tasting",
-      "date": "Nov 13 • 4:00pm",
-      "location": "Jungle Island • Miami, FL",
-      "url": "https://entertainment.capitalone.com/events/7505876"
-    },
-    {
       "id": "7505878",
       "name": "Vinous Icons Miami - All Access Day Two",
       "date": "Nov 14 • 10:00am",
@@ -4642,7 +4607,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-13T23:57:00.773Z",
+  "lastSuccess": "2026-11-14T00:07:45.806Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
