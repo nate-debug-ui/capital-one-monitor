@@ -3449,20 +3449,6 @@
   },
   "previous": [
     {
-      "id": "7826960",
-      "name": "Celtics vs. Wizards - Cardholder Suite",
-      "date": "Nov 24 • 8:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7826960"
-    },
-    {
-      "id": "7538319",
-      "name": "Co-Captain of the Game Boston Celtics vs. Washington Wizards",
-      "date": "Nov 24 • 8:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7538319"
-    },
-    {
       "id": "7719537",
       "name": "Late Night with Seth Meyers",
       "date": "Nov 25 • 6:30pm",
@@ -4488,7 +4474,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-24T23:47:39.309Z",
+  "lastSuccess": "2026-11-25T00:07:58.787Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
