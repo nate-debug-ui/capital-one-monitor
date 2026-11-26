@@ -10,6 +10,10 @@ The separate `Capital One daily available events` workflow scans the live Exclus
 
 The digest includes all distinct events not explicitly marked SOLD OUT, including LOW TICKETS. It includes each event's name, displayed date/time, venue/location, direct link, and listing status. It does not imply guaranteed inventory or eligibility. A complete scan with no available events sends a zero-available digest; an incomplete or failed scan fails the workflow instead of emailing a partial or stale list. Retry markers prevent duplicate delivery for the same Eastern calendar day, including across different schedulers. Manual runs default to TEST with a separate retry marker; select `dispatch_mode: daily` for a normal daily delivery.
 
+### Hourly backup
+
+A second GitHub Actions workflow starts a fresh Playwright browser at minute 17 of each hour. Both workflows share an event history and run one at a time. If the primary goes 65 minutes without a complete scan, the next health check queues one warning. A successful primary scan queues one recovery notice. A backup scan never resets the primary clock. The backup can run during a primary scheduler outage, but both workflows depend on GitHub and the Capital One site.
+
 ### New-event alerts
 
 - Checks every 20 minutes, around the clock, at minutes 7, 27, and 47 of each hour. GitHub scheduling is best effort and may delay or drop runs.
@@ -19,7 +23,7 @@ The digest includes all distinct events not explicitly marked SOLD OUT, includin
 - The first complete successful scan silently establishes the baseline. `state.json` stores the previous successful scan, all previously seen IDs, the failure counter, and durable pending alerts. Reappearing IDs stay silent. No cache expiration can erase the baseline.
 - State is committed through GitHub's contents API using its SHA check. Workflow concurrency prevents overlapping writes. State commits do not trigger new checks.
 - Alerts are GitHub issues assigned to the repository owner, including the event name/date/location/link. Assignment produces GitHub notifications; email/push delivery depends on the owner's GitHub notification settings. No separate mail service or secret is required. This configuration assumes a personal repository, not an organization owner.
-- Pending notifications are saved before delivery. Retried runs check issue markers across open and closed issues before creating another alert. Keep alert issues rather than deleting them, so uncertain retries can find them.
+- The monitor scans and persists its result before attempting issue delivery. A failed scrape preserves the last successful baseline and fails the run. Pending notifications are saved before delivery. Retried runs check issue markers across open and closed issues before creating another alert. Keep alert issues rather than deleting them, so uncertain retries can find them.
 - Three consecutive scraper failures create one attention issue per failure episode. The last successful baseline remains intact. Checks continue, and a successful scan resets the counter. GitHub installation, permissions, runner, or notification failures are workflow failures visible in Actions and are not counted by the scraper's three-failure counter.
 
 ## Free hosting and limits
@@ -44,9 +48,9 @@ The workflow runs tests before monitoring. To manually start a deployed run, cho
 
 ## Telegram delivery
 
-`Capital One Telegram delivery` runs after the monitor and morning digest workflows. It forwards the bot-created alert and digest issues to the paired private Telegram chat. Email delivery is independent. The bot token stays in the `TELEGRAM_BOT_TOKEN` Actions secret; the destination is stored using authenticated encryption in `telegram-state.json`, keyed by that secret, and is never logged. Token rotation requires explicit route re-pairing. After one-time setup, new Start messages cannot change the destination.
+`Capital One Telegram delivery` runs after the primary monitor, hourly backup and morning digest workflows. It forwards the bot-created alert and digest issues to the paired private Telegram chat. Email delivery is independent. The bot token stays in the `TELEGRAM_BOT_TOKEN` Actions secret; the destination is stored using authenticated encryption in `telegram-state.json`, keyed by that secret, and is never logged. Token rotation requires explicit route re-pairing. After one-time setup, new Start messages cannot change the destination.
 
-Long digests are split into messages with disabled link previews and paced at under one message per second. Delivery progress is persisted after each accepted message, so subsequent runs resume unfinished delivery. Telegram has no send-message idempotency key: a lost response or failed checkpoint after acceptance can occasionally cause a duplicate part on retry. Previously created issues are marked historical at setup; the initial test is a separate connection confirmation. Future alerts, attention notices, and daily digests are forwarded.
+Long digests are split at event or line boundaries to keep ticket links intact, with disabled link previews and pacing below one message per second. Delivery progress is persisted after each accepted message, so subsequent runs resume unfinished delivery. Telegram has no send-message idempotency key: a lost response or failed checkpoint after acceptance can occasionally cause a duplicate part on retry. Previously created issues are marked historical at setup; the initial test is a separate connection confirmation. Future alerts, attention notices, and daily digests are forwarded.
 
 ## External cloud schedule
 

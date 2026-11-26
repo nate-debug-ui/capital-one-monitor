@@ -15,6 +15,7 @@ export function parseCard({url, paragraphs}) {
   const fields = p[detailIndex].split('•').map(x => x.trim());
   if (fields.length < 4 || fields.some(x => !x)) throw new Error('Incomplete event details');
   const name = p[detailIndex - 1];
+  if (!name) throw new Error('Missing event name');
   return {id, name, date: fields.slice(0,2).join(' • '), location: fields.slice(2).join(' • '), url: `${u.origin}/events/${id}`};
 }
 export function emptyState() {
