@@ -1,0 +1,39 @@
+name: Capital One hourly backup
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+# The backup uses the same event history and pending notifications as the primary.
+concurrency:
+  group: capital-one-monitor
+  cancel-in-progress: false
+jobs:
+  backup:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      # The health check only needs Node. Run it even if Chromium installation
+      # later fails; a notification outage must still allow the scan to proceed.
+      - name: Check the age of the last primary scan
+        run: node monitor.mjs
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MONITOR_OWNER: ${{ github.repository_owner }}
+          MONITOR_ROLE: watchdog
+      - run: npm ci
+      - run: npm test
+      - run: npx playwright install --only-shell chromium
+      - name: Run hourly browser scan and check primary health
+        run: npm start
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MONITOR_OWNER: ${{ github.repository_owner }}
+          MONITOR_ROLE: backup

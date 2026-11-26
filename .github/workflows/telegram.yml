@@ -1,7 +1,7 @@
 name: Capital One Telegram delivery
 on:
   workflow_run:
-    workflows: ['Capital One new events', 'Capital One daily available events']
+    workflows: ['Capital One new events', 'Capital One daily available events', 'Capital One hourly backup']
     types: [completed]
     branches: [main]
   workflow_dispatch:
