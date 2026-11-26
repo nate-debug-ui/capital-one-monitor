@@ -3449,13 +3449,6 @@
   },
   "previous": [
     {
-      "id": "7719537",
-      "name": "Late Night with Seth Meyers",
-      "date": "Nov 25 • 6:30pm",
-      "location": "NBC Studios - NY • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7719537"
-    },
-    {
       "id": "7283678",
       "name": "HELL'S KITCHEN at The National",
       "date": "Nov 27 • 7:30pm",
@@ -4474,7 +4467,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-25T23:48:32.537Z",
+  "lastSuccess": "2026-11-26T00:07:56.566Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
