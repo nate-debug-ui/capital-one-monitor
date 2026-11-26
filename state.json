@@ -4506,19 +4506,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7926935",
-      "title": "New Capital One Exclusive: NCAA Division III Women's Soccer Final",
-      "event": {
-        "id": "7926935",
-        "name": "NCAA Division III Women's Soccer Final",
-        "date": "Dec 5 • 12:00pm",
-        "location": "Historic Crew Stadium • Columbus, OH",
-        "url": "https://entertainment.capitalone.com/events/7926935"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-26T20:47:52.037Z",
