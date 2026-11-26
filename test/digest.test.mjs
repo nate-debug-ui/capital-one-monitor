@@ -36,3 +36,12 @@ test('digest rejects missing availability and reports a valid zero-available res
   assert.throws(()=>formatDigest([{id:'1'}]));
   assert.equal(formatDigest([{id:'1',soldOut:true}]).count,0);
 });
+test('waitlist sold-out badges and conflicting duplicate cards cannot advertise sold-out tickets', () => {
+  const event = {id:'1', name:'Concert', date:'Nov 10', location:'Venue', url:'https://example.com/events/1'};
+  const available = {...event,...availability(['Get tickets'])};
+  const sold = {...event,...availability(['Sold Out – Join Waitlist'])};
+  assert.equal(sold.soldOut,true);
+  assert.equal(formatDigest([available,sold]).count,0);
+  assert.equal(formatDigest([sold,available]).count,0);
+  assert.equal(availability(['Not sold out']).soldOut,false);
+});
