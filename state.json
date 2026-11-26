@@ -4508,17 +4508,6 @@
   ],
   "pending": [
     {
-      "key": "event-7924075",
-      "title": "New Capital One Exclusive: NCAA Division III Mens Soccer Semifinals",
-      "event": {
-        "id": "7924075",
-        "name": "NCAA Division III Mens Soccer Semifinals",
-        "date": "Dec 4 • 3:00pm",
-        "location": "Historic Crew Stadium • Columbus, OH",
-        "url": "https://entertainment.capitalone.com/events/7924075"
-      }
-    },
-    {
       "key": "event-7926935",
       "title": "New Capital One Exclusive: NCAA Division III Women's Soccer Final",
       "event": {
