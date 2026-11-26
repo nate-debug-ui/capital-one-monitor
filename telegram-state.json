@@ -1307,6 +1307,13 @@
     },
     "433": {
       "done": true
+    },
+    "434": {
+      "parts": [
+        "New Capital One Exclusive: NCAA Division III Women's Soccer Semifinals\n\nNCAA Division III Women's Soccer Semifinals\n\nDate: Dec 3 • 3:00pm\n\nLocation: Historic Crew Stadium • Columbus, OH\n\nEvent details\nhttps://entertainment.capitalone.com/events/7926933\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/434"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }
