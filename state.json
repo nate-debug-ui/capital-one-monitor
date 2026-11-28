@@ -3533,6 +3533,13 @@
       "url": "https://entertainment.capitalone.com/events/7430025"
     },
     {
+      "id": "7926933",
+      "name": "NCAA Division III Women's Soccer Semifinals",
+      "date": "Dec 3 • 3:00pm",
+      "location": "Historic Crew Stadium • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/7926933"
+    },
+    {
       "id": "7416449",
       "name": "MICHELIN - An Exclusive Menu by Oriole & Providence",
       "date": "Dec 3 • 6:30pm",
@@ -3573,6 +3580,13 @@
       "date": "Dec 4 • 7:30pm",
       "location": "Intuit Dome • Inglewood, CA",
       "url": "https://entertainment.capitalone.com/events/7622254"
+    },
+    {
+      "id": "7926935",
+      "name": "NCAA Division III Women's Soccer Final",
+      "date": "Dec 5 • 12:00pm",
+      "location": "Historic Crew Stadium • Columbus, OH",
+      "url": "https://entertainment.capitalone.com/events/7926935"
     },
     {
       "id": "7538335",
@@ -4488,11 +4502,11 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-28T08:47:42.033Z",
+  "lastSuccess": "2026-11-28T09:07:57.869Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
   },
-  "lastPrimarySuccess": "2026-11-28T08:47:42.033Z",
+  "lastPrimarySuccess": "2026-11-28T09:07:57.869Z",
   "primaryWatchStartedAt": "2026-11-26T17:27:48.825Z"
 }
