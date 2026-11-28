@@ -4502,11 +4502,11 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-28T15:07:43.531Z",
+  "lastSuccess": "2026-11-28T15:27:55.306Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
   },
-  "lastPrimarySuccess": "2026-11-28T15:07:43.531Z",
+  "lastPrimarySuccess": "2026-11-28T15:27:55.306Z",
   "primaryWatchStartedAt": "2026-11-26T17:27:48.825Z"
 }
