@@ -3470,13 +3470,6 @@
   },
   "previous": [
     {
-      "id": "7283678",
-      "name": "HELL'S KITCHEN at The National",
-      "date": "Nov 27 • 7:30pm",
-      "location": "National Theatre - DC • Washington DC, DC",
-      "url": "https://entertainment.capitalone.com/events/7283678"
-    },
-    {
       "id": "6170761",
       "name": "Michigan Wolverines at Ohio State Buckeyes Football",
       "date": "Nov 28 • 12:00pm",
@@ -4509,11 +4502,11 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-27T23:47:43.542Z",
+  "lastSuccess": "2026-11-28T00:07:57.403Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
   },
-  "lastPrimarySuccess": "2026-11-27T23:47:43.542Z",
+  "lastPrimarySuccess": "2026-11-28T00:07:57.403Z",
   "primaryWatchStartedAt": "2026-11-26T17:27:48.825Z"
 }
